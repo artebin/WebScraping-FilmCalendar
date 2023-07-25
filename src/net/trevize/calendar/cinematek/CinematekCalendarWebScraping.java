@@ -31,7 +31,7 @@ import com.gargoylesoftware.htmlunit.FailingHttpStatusCodeException;
 import com.gargoylesoftware.htmlunit.WebClient;
 import com.gargoylesoftware.htmlunit.html.HtmlPage;
 
-import net.trevize.tinker.logging.TTrace;
+//import net.trevize.tinker.logging.TTrace;
 
 public class CinematekCalendarWebScraping {
   
@@ -99,7 +99,7 @@ public class CinematekCalendarWebScraping {
   }
   
   public void retrieveCinematekCalendarAsXmlFile() {
-    TTrace.info( this, "retrieveCinematekCalendarAsXmlFile" );
+    //TTrace.info( this, "retrieveCinematekCalendarAsXmlFile" );
     try {
       Date l_retrievalDate = new Date();
       WebClient l_webClient = new WebClient();
