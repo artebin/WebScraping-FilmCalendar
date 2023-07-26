@@ -110,7 +110,7 @@ public class CinematekCalendarWebScraping {
       l_webClient.getOptions().setCssEnabled( false );
       l_webClient.getOptions().setJavaScriptEnabled( false );
       HtmlPage l_htmlPage = l_webClient.getPage( CINEMATEK_CALENDAR_URL );
-      FileWriter l_fileWriter = new FileWriter( new File( "Cinematek.xml" ) );
+      FileWriter l_fileWriter = new FileWriter( new File( "Web-CINEMATEK-calendrier.xml" ) );
       l_fileWriter.write( l_htmlPage.asXml() );
       l_fileWriter.close();
       l_htmlPage.cleanUp();
@@ -124,7 +124,7 @@ public class CinematekCalendarWebScraping {
     try {
       DocumentBuilderFactory l_documentBuilderFactory = DocumentBuilderFactory.newInstance();
       DocumentBuilder l_documentBuilder = l_documentBuilderFactory.newDocumentBuilder();
-      Document l_document = l_documentBuilder.parse( new FileInputStream( new File( "Cinematek.xml" ) ) );
+      Document l_document = l_documentBuilder.parse( new FileInputStream( new File( "Web-CINEMATEK-calendrier.xml" ) ) );
       
       NodeList l_screeningDateGroupNodeList = (NodeList) retrieveXpathExpression( XPATH_SCREENING_DATE_GROUP ).evaluate( l_document, XPathConstants.NODESET );
       for (int l_screeningDateGroupNodeIndex = 0; l_screeningDateGroupNodeIndex < l_screeningDateGroupNodeList.getLength(); ++l_screeningDateGroupNodeIndex ) {
@@ -232,6 +232,7 @@ public class CinematekCalendarWebScraping {
     l_iCalendarStringBuilder.append( "BEGIN:VCALENDAR\n" );
     l_iCalendarStringBuilder.append( "PRODID:-//trevize.net//NONSGML CINEMATEK calendar//EN\n" );
     l_iCalendarStringBuilder.append( "VERSION:2.0\n" );
+    l_iCalendarStringBuilder.append( "X-WR-TIMEZONE:Europe/Brussels\n" );
     
     for ( Date l_screeningDate : fAllScreeningsMap.keySet() ) {
       CinematekCalendarWebScraping.MyScreening l_myScreening = fAllScreeningsMap.get( l_screeningDate );
@@ -254,7 +255,7 @@ public class CinematekCalendarWebScraping {
     
     // Write iCal file
     try {
-      FileWriter l_fileWriter = new FileWriter( new File( "cinematek.ics" ) );
+      FileWriter l_fileWriter = new FileWriter( new File( "CINEMATEK.ics" ) );
       l_fileWriter.write( l_iCalendarStringBuilder.toString() );
       l_fileWriter.close();
     }
