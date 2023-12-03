@@ -55,6 +55,7 @@ public class CinematekCalendarWebScraping {
     LEDOUX,
     PLATEAU,
     HÔTELDECLÈVES,
+    MUSEE,
     UNKNOWN;
     public static MyScreeningLocation retrieveScreeningLocation( String aScreeningLocationAsString ) {
       MyScreeningLocation l_myScreeningLocation = MyScreeningLocation.valueOf( aScreeningLocationAsString.toUpperCase() );
@@ -211,6 +212,12 @@ public class CinematekCalendarWebScraping {
           catch ( ParseException l_exception ) {
             l_exception.printStackTrace();
           }
+          
+          if ( l_myScreening.fDate.before( new Date( System.currentTimeMillis() - 
+        		  ( System.currentTimeMillis() % 86400 ) ) ) ) {
+        	  continue;
+          }
+          
           l_myScreening.fScreeningLocation = MyScreeningLocation.retrieveScreeningLocation( l_screeningLocation );
           l_myScreening.fFilmOriginalTitles = l_filmOriginalTitles.trim();
           l_myScreening.fFilmTitles = l_filmTitles.trim();
