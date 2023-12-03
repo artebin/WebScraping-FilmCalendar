@@ -213,10 +213,9 @@ public class CinematekCalendarWebScraping {
             l_exception.printStackTrace();
           }
           
-          if ( l_myScreening.fDate.before( new Date( System.currentTimeMillis() - 
-        		  ( System.currentTimeMillis() % 86400 ) ) ) ) {
-        	  continue;
-          }
+//          if ( l_myScreening.fDate.before( new Date( System.currentTimeMillis() - ( System.currentTimeMillis() % 86400 ) ) ) ) {
+//        	  continue;
+//          }
           
           l_myScreening.fScreeningLocation = MyScreeningLocation.retrieveScreeningLocation( l_screeningLocation );
           l_myScreening.fFilmOriginalTitles = l_filmOriginalTitles.trim();
