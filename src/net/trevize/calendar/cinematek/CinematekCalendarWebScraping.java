@@ -3,6 +3,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.StringWriter;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -14,6 +15,10 @@ import java.util.UUID;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
+import javax.xml.transform.Transformer;
+import javax.xml.transform.TransformerFactory;
+import javax.xml.transform.dom.DOMSource;
+import javax.xml.transform.stream.StreamResult;
 import javax.xml.xpath.XPath;
 import javax.xml.xpath.XPathConstants;
 import javax.xml.xpath.XPathExpression;
@@ -58,9 +63,12 @@ public class CinematekCalendarWebScraping {
     MUSEE,
     UNKNOWN;
     public static MyScreeningLocation retrieveScreeningLocation( String aScreeningLocationAsString ) {
-      MyScreeningLocation l_myScreeningLocation = MyScreeningLocation.valueOf( aScreeningLocationAsString.toUpperCase() );
-      if ( l_myScreeningLocation == null ) {
-        l_myScreeningLocation = UNKNOWN;
+      MyScreeningLocation l_myScreeningLocation = UNKNOWN;
+      if ( ( aScreeningLocationAsString != null ) && ( ! aScreeningLocationAsString.isEmpty() ) ) {
+    	  l_myScreeningLocation = MyScreeningLocation.valueOf( aScreeningLocationAsString.toUpperCase() );
+    	  if ( l_myScreeningLocation == null ) {
+    		  l_myScreeningLocation = UNKNOWN;
+    	  }
       }
       return l_myScreeningLocation;
     }
@@ -122,115 +130,131 @@ public class CinematekCalendarWebScraping {
   }
   
   public void extractCalendar() {
-    try {
-      DocumentBuilderFactory l_documentBuilderFactory = DocumentBuilderFactory.newInstance();
-      DocumentBuilder l_documentBuilder = l_documentBuilderFactory.newDocumentBuilder();
-      Document l_document = l_documentBuilder.parse( new FileInputStream( new File( "Web-CINEMATEK-calendrier.xml" ) ) );
-      
-      NodeList l_screeningDateGroupNodeList = (NodeList) retrieveXpathExpression( XPATH_SCREENING_DATE_GROUP ).evaluate( l_document, XPathConstants.NODESET );
-      for (int l_screeningDateGroupNodeIndex = 0; l_screeningDateGroupNodeIndex < l_screeningDateGroupNodeList.getLength(); ++l_screeningDateGroupNodeIndex ) {
-        Node l_screeningDateGroupNode = l_screeningDateGroupNodeList.item( l_screeningDateGroupNodeIndex );
-        
-        // We should have 1 screening-date and 1 screening-elements per screening-date-group
-        NodeList l_screeningDateNodeList = (NodeList) retrieveXpathExpression( XPATH_SCREENING_DATE ).evaluate( l_screeningDateGroupNode, XPathConstants.NODESET );
-        NodeList l_screeningElementsNodeList = (NodeList) retrieveXpathExpression( XPATH_SCREENING_ELEMENTS ).evaluate( l_screeningDateGroupNode, XPathConstants.NODESET );
+	  try {
+		  DocumentBuilderFactory l_documentBuilderFactory = DocumentBuilderFactory.newInstance();
+		  DocumentBuilder l_documentBuilder = l_documentBuilderFactory.newDocumentBuilder();
+		  Document l_document = l_documentBuilder.parse( new FileInputStream( new File( "Web-CINEMATEK-calendrier.xml" ) ) );
 
-        // Extract screening date
-        Node l_screeningDateNode = l_screeningDateNodeList.item( 0 );
-        NamedNodeMap l_screeningDateAttributes = l_screeningDateNode.getAttributes();
-        Node l_dataDateAttributeNode = l_screeningDateAttributes.getNamedItem( "data-date" );
-        String l_screeningDateAsString = l_dataDateAttributeNode.getNodeValue();
-        
-        // Iterate over the screenings
-        Node l_screeningElementsNode = l_screeningElementsNodeList.item( 0 );
-        NodeList l_screeningNodeList = (NodeList) retrieveXpathExpression( XPATH_SCREENING ).evaluate( l_screeningElementsNode, XPathConstants.NODESET );
-        for ( int l_screeningNodeIndex = 0; l_screeningNodeIndex < l_screeningNodeList.getLength(); ++l_screeningNodeIndex ) {
-          Node l_screeningNode = l_screeningNodeList.item( l_screeningNodeIndex );
-          NamedNodeMap l_screeningAttributes = l_screeningNode.getAttributes();
-          
-          // Extract the time
-          Node l_screeningTimeNode = (Node) retrieveXpathExpression( XPATH_SCREENING_TIME ).evaluate( l_screeningNode, XPathConstants.NODE );
-          String l_screeningTime = l_screeningTimeNode.getTextContent().replaceAll( "[^0-9:]", "" );
-          
-          // Extract the location
-          Node l_screeningLocationNamedItem = l_screeningAttributes.getNamedItem( "data-location" );
-          String l_screeningLocation = "";
-          if ( l_screeningLocationNamedItem != null ) {
-            l_screeningLocation = l_screeningLocationNamedItem.getNodeValue();
-          }
-          
-          // Extract link to cinematek website
-          Node l_screeningHrefNamedItem = l_screeningAttributes.getNamedItem( "href" );
-          String l_cinematekWebsiteLink = "";
-          if ( l_screeningHrefNamedItem != null ) {
-            l_cinematekWebsiteLink = l_screeningHrefNamedItem.getNodeValue();
-          }
-          
-          // Extract film titles
-          Node l_filmTitlesNode = (Node) retrieveXpathExpression( XPATH_FILM_TITLES ).evaluate( l_screeningNode, XPathConstants.NODE );
-          String l_filmTitles = "";
-          if ( l_filmTitlesNode != null ) {
-            l_filmTitles = l_filmTitlesNode.getTextContent().replaceAll( "\\n", "" ).replaceAll( " +", " " );
-          }
-          
-          // Extract original titles
-          Node l_filmOriginalTitlesNode = (Node) retrieveXpathExpression( XPATH_SCREENING_ORIGINAL_TITLES ).evaluate( l_filmTitlesNode, XPathConstants.NODE );
-          String l_filmOriginalTitles = "";
-          if ( l_filmOriginalTitlesNode != null ) {
-            l_filmOriginalTitles = l_filmOriginalTitlesNode.getTextContent().replaceAll( "\\n", "" ).replaceAll( " +", " " );
-          }
-          if ( l_filmOriginalTitles.isEmpty() ) {
-            l_filmOriginalTitles = l_filmTitles;
-          }
-          
-          // Extract details
-          Node l_filmDetailsNode = (Node) retrieveXpathExpression( XPATH_FILM_DETAILS ).evaluate( l_screeningNode, XPathConstants.NODE );
-          String l_filmDetails = "";
-          if ( l_filmDetailsNode != null ) {
-            l_filmDetails = l_filmDetailsNode.getTextContent().replaceAll( "\\n", "" ).replaceAll( " +", " " );
-          }
-          
-          // Extract film director
-          Node l_filmDirectorsNode = (Node) retrieveXpathExpression( XPATH_FILM_DIRECTORS ).evaluate( l_screeningNode, XPathConstants.NODE );
-          String l_filmDirectors = "";
-          if ( l_filmDirectorsNode != null ) {
-            l_filmDirectors = l_filmDirectorsNode.getTextContent().replaceAll( "\\n", "" ).replaceAll( " +", " " );
-          }
-          
-          // Extract film cast
-          Node l_filmCastNode = (Node) retrieveXpathExpression( XPATH_FILM_CAST ).evaluate( l_screeningNode, XPathConstants.NODE );
-          String l_filmCast = "";
-          if ( l_filmCastNode != null ) {
-            l_filmCast = l_filmCastNode.getTextContent().replaceAll( "\\n", "" ).replaceAll( " +", " " );
-          }
-          
-          // Add MyScreening
-          MyScreening l_myScreening = new MyScreening();
-          try {
-            l_myScreening.fDate = fMyScreeningDateFormat.parse( String.format( "%s %s", l_screeningDateAsString, l_screeningTime ) );
-          }
-          catch ( ParseException l_exception ) {
-            l_exception.printStackTrace();
-          }
-          
-//          if ( l_myScreening.fDate.before( new Date( System.currentTimeMillis() - ( System.currentTimeMillis() % 86400 ) ) ) ) {
-//        	  continue;
-//          }
-          
-          l_myScreening.fScreeningLocation = MyScreeningLocation.retrieveScreeningLocation( l_screeningLocation );
-          l_myScreening.fFilmOriginalTitles = l_filmOriginalTitles.trim();
-          l_myScreening.fFilmTitles = l_filmTitles.trim();
-          l_myScreening.fFilmDetails = l_filmDetails.trim().replaceAll( "^[^a-zA-Z1-9]+", "" ).replaceAll( "[^a-zA-Z1-9]+$", "" );
-          l_myScreening.fFilmDirectors = l_filmDirectors.trim();
-          l_myScreening.fFilmCast = l_filmCast.trim();
-          l_myScreening.fCinematekWebsiteLink = l_cinematekWebsiteLink.trim();
-          fAllScreeningsMap.put( l_myScreening.fDate, l_myScreening );
-        }
-      }
-    }
-    catch ( XPathExpressionException | DOMException | ParserConfigurationException | SAXException | IOException l_exception ) {
-      l_exception.printStackTrace();
-    }
+		  NodeList l_screeningDateGroupNodeList = (NodeList) retrieveXpathExpression( XPATH_SCREENING_DATE_GROUP ).evaluate( l_document, XPathConstants.NODESET );
+		  for (int l_screeningDateGroupNodeIndex = 0; l_screeningDateGroupNodeIndex < l_screeningDateGroupNodeList.getLength(); ++l_screeningDateGroupNodeIndex ) {
+			  try {
+				  Node l_screeningDateGroupNode = l_screeningDateGroupNodeList.item( l_screeningDateGroupNodeIndex );
+
+				  // We should have 1 screening-date and 1 screening-elements per screening-date-group
+				  NodeList l_screeningDateNodeList = (NodeList) retrieveXpathExpression( XPATH_SCREENING_DATE ).evaluate( l_screeningDateGroupNode, XPathConstants.NODESET );
+				  NodeList l_screeningElementsNodeList = (NodeList) retrieveXpathExpression( XPATH_SCREENING_ELEMENTS ).evaluate( l_screeningDateGroupNode, XPathConstants.NODESET );
+
+				  // Extract screening date
+				  Node l_screeningDateNode = l_screeningDateNodeList.item( 0 );
+				  NamedNodeMap l_screeningDateAttributes = l_screeningDateNode.getAttributes();
+				  Node l_dataDateAttributeNode = l_screeningDateAttributes.getNamedItem( "data-date" );
+				  String l_screeningDateAsString = l_dataDateAttributeNode.getNodeValue();
+
+				  // Iterate over the screenings
+				  Node l_screeningElementsNode = l_screeningElementsNodeList.item( 0 );
+				  NodeList l_screeningNodeList = (NodeList) retrieveXpathExpression( XPATH_SCREENING ).evaluate( l_screeningElementsNode, XPathConstants.NODESET );
+				  for ( int l_screeningNodeIndex = 0; l_screeningNodeIndex < l_screeningNodeList.getLength(); ++l_screeningNodeIndex ) {
+					  Node l_screeningNode = l_screeningNodeList.item( l_screeningNodeIndex );
+					  NamedNodeMap l_screeningAttributes = l_screeningNode.getAttributes();
+					  try {
+						  // Extract the time
+						  Node l_screeningTimeNode = (Node) retrieveXpathExpression( XPATH_SCREENING_TIME ).evaluate( l_screeningNode, XPathConstants.NODE );
+						  String l_screeningTime = l_screeningTimeNode.getTextContent().replaceAll( "[^0-9:]", "" );
+
+						  // Extract the location
+						  Node l_screeningLocationNamedItem = l_screeningAttributes.getNamedItem( "data-location" );
+						  String l_screeningLocation = "";
+						  if ( l_screeningLocationNamedItem != null ) {
+							  l_screeningLocation = l_screeningLocationNamedItem.getNodeValue();
+						  }
+
+						  // Extract link to cinematek website
+						  Node l_screeningHrefNamedItem = l_screeningAttributes.getNamedItem( "href" );
+						  String l_cinematekWebsiteLink = "";
+						  if ( l_screeningHrefNamedItem != null ) {
+							  l_cinematekWebsiteLink = l_screeningHrefNamedItem.getNodeValue();
+						  }
+
+						  // Extract film titles
+						  Node l_filmTitlesNode = (Node) retrieveXpathExpression( XPATH_FILM_TITLES ).evaluate( l_screeningNode, XPathConstants.NODE );
+						  String l_filmTitles = "";
+						  if ( l_filmTitlesNode != null ) {
+							  l_filmTitles = l_filmTitlesNode.getTextContent().replaceAll( "\\n", "" ).replaceAll( " +", " " );
+						  }
+
+						  // Extract original titles
+						  Node l_filmOriginalTitlesNode = (Node) retrieveXpathExpression( XPATH_SCREENING_ORIGINAL_TITLES ).evaluate( l_filmTitlesNode, XPathConstants.NODE );
+						  String l_filmOriginalTitles = "";
+						  if ( l_filmOriginalTitlesNode != null ) {
+							  l_filmOriginalTitles = l_filmOriginalTitlesNode.getTextContent().replaceAll( "\\n", "" ).replaceAll( " +", " " );
+						  }
+						  if ( l_filmOriginalTitles.isEmpty() ) {
+							  l_filmOriginalTitles = l_filmTitles;
+						  }
+
+						  // Extract details
+						  Node l_filmDetailsNode = (Node) retrieveXpathExpression( XPATH_FILM_DETAILS ).evaluate( l_screeningNode, XPathConstants.NODE );
+						  String l_filmDetails = "";
+						  if ( l_filmDetailsNode != null ) {
+							  l_filmDetails = l_filmDetailsNode.getTextContent().replaceAll( "\\n", "" ).replaceAll( " +", " " );
+						  }
+
+						  // Extract film director
+						  Node l_filmDirectorsNode = (Node) retrieveXpathExpression( XPATH_FILM_DIRECTORS ).evaluate( l_screeningNode, XPathConstants.NODE );
+						  String l_filmDirectors = "";
+						  if ( l_filmDirectorsNode != null ) {
+							  l_filmDirectors = l_filmDirectorsNode.getTextContent().replaceAll( "\\n", "" ).replaceAll( " +", " " );
+						  }
+
+						  // Extract film cast
+						  Node l_filmCastNode = (Node) retrieveXpathExpression( XPATH_FILM_CAST ).evaluate( l_screeningNode, XPathConstants.NODE );
+						  String l_filmCast = "";
+						  if ( l_filmCastNode != null ) {
+							  l_filmCast = l_filmCastNode.getTextContent().replaceAll( "\\n", "" ).replaceAll( " +", " " );
+						  }
+
+						  // Add MyScreening
+						  MyScreening l_myScreening = new MyScreening();
+						  try {
+							  l_myScreening.fDate = fMyScreeningDateFormat.parse( String.format( "%s %s", l_screeningDateAsString, l_screeningTime ) );
+						  }
+						  catch ( ParseException l_exception ) {
+							  l_exception.printStackTrace();
+						  }
+
+						  //          if ( l_myScreening.fDate.before( new Date( System.currentTimeMillis() - ( System.currentTimeMillis() % 86400 ) ) ) ) {
+						  //        	  continue;
+						  //          }
+
+						  l_myScreening.fScreeningLocation = MyScreeningLocation.retrieveScreeningLocation( l_screeningLocation );
+						  l_myScreening.fFilmOriginalTitles = l_filmOriginalTitles.trim();
+						  l_myScreening.fFilmTitles = l_filmTitles.trim();
+						  l_myScreening.fFilmDetails = l_filmDetails.trim().replaceAll( "^[^a-zA-Z1-9]+", "" ).replaceAll( "[^a-zA-Z1-9]+$", "" );
+						  l_myScreening.fFilmDirectors = l_filmDirectors.trim();
+						  l_myScreening.fFilmCast = l_filmCast.trim();
+						  l_myScreening.fCinematekWebsiteLink = l_cinematekWebsiteLink.trim();
+						  fAllScreeningsMap.put( l_myScreening.fDate, l_myScreening );
+					  }
+					  catch ( Exception l_exception ) {
+						  l_exception.printStackTrace();
+						  if ( l_screeningNode != null ) {
+							  StringWriter writer = new StringWriter();
+							  Transformer transformer = TransformerFactory.newInstance().newTransformer();
+							  transformer.transform(new DOMSource(l_screeningNode), new StreamResult(writer));
+							  String xml = writer.toString();
+							  System.err.println( xml );
+						  }
+					  }
+				  }
+			  }
+			  catch ( Exception l_exception ) {
+				  l_exception.printStackTrace();
+			  }
+		  }
+	  }
+	  catch ( XPathExpressionException | DOMException | ParserConfigurationException | SAXException | IOException l_exception ) {
+		  l_exception.printStackTrace();
+	  }
   }
   
   public void writeCalendarIcsFile() {
