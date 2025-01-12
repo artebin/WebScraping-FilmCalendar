@@ -40,15 +40,16 @@ import com.gargoylesoftware.htmlunit.html.HtmlPage;
 
 public class CinematekCalendarWebScraping {
   
-  public static String                 CINEMATEK_CALENDAR_URL          = "https://cinematek.be/fr/programme/calendrier";
+  public static String                 CINEMATEK_CALENDAR_URL          = "https://cinematek.be/programme/calendrier";
 
   public static String                 XPATH_SCREENING_DATE_GROUP      = "//div[matches(@class,'(^|\\W)screening-date-group(\\W|$)')]";
   public static String                 XPATH_SCREENING_DATE            = ".//div[matches(@class,'(^|\\W)screening-date(\\W|$)')]";
   public static String                 XPATH_SCREENING_ELEMENTS        = ".//div[matches(@class,'(^|\\W)screening-elements(\\W|$)')]";
   public static String                 XPATH_SCREENING                 = ".//a[matches(@class,'(^|\\W)screening(\\W|$)')]";
   public static String                 XPATH_SCREENING_TIME            = ".//h4[matches(@class,'(^|\\W)screening__time(\\W|$)')]";
-  public static String                 XPATH_FILM_TITLES               = ".//span[matches(@class,'(^|\\W)film__title(\\W|$)')]";
   public static String                 XPATH_SCREENING_ORIGINAL_TITLES = ".//strong";
+  public static String                 XPATH_SCREENING_LOCATION        = ".//h4[matches(@class,'(^|\\W)screening__location(\\W|$)')]";
+  public static String                 XPATH_FILM_TITLES               = ".//span[matches(@class,'(^|\\W)film__title(\\W|$)')]";
   public static String                 XPATH_FILM_DETAILS              = ".//span[matches(@class,'(^|\\W)film__details(\\W|$)')]";
   public static String                 XPATH_FILM_DIRECTORS            = ".//span[matches(@class,'(^|\\W)film__directors(\\W|$)')]";
   public static String                 XPATH_FILM_CAST                 = ".//span[matches(@class,'(^|\\W)film__cast(\\W|$)')]";
@@ -162,10 +163,10 @@ public class CinematekCalendarWebScraping {
 						  String l_screeningTime = l_screeningTimeNode.getTextContent().replaceAll( "[^0-9:]", "" );
 
 						  // Extract the location
-						  Node l_screeningLocationNamedItem = l_screeningAttributes.getNamedItem( "data-location" );
+						  Node l_screeningLocationNode = (Node) retrieveXpathExpression( XPATH_SCREENING_LOCATION ).evaluate( l_screeningNode, XPathConstants.NODE );
 						  String l_screeningLocation = "";
-						  if ( l_screeningLocationNamedItem != null ) {
-							  l_screeningLocation = l_screeningLocationNamedItem.getNodeValue();
+						  if ( l_screeningLocationNode != null ) {
+							  l_screeningLocation = l_screeningLocationNode.getNodeValue();
 						  }
 
 						  // Extract link to cinematek website

@@ -1,0 +1,3397 @@
+BEGIN:VCALENDAR
+PRODID:-//trevize.net//NONSGML CINEMATEK calendar//EN
+VERSION:2.0
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VEVENT
+DTSTART:20240901T150000+0200
+DTEND:20240901T150000+0200
+DTSTAMP:20241018T151213+0200
+UID:165ddc96-e28d-4316-830c-77ff99376572
+SUMMARY:Le Manoir du Diable
+DESCRIPTION:Le Manoir du Diable\nDirectors: Georges Méliès, France 1896\nCast: \n[UNKNOWN] TIT: — ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-09-01-15-00/le-manoir-du-diable-la-maison-des-revenants-der-student-von-prag
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240901T170000+0200
+DTEND:20240901T170000+0200
+DTSTAMP:20241018T151213+0200
+UID:7c9f8da1-6bcc-4313-8b84-a2a63fa4ac2c
+SUMMARY:Johnny Stecchino
+DESCRIPTION:Johnny Stecchino\nDirectors: Roberto Benigni, Italie 1991\nCast: , Roberto Benigni, Nicoletta Braschi, Paolo Bonacelli\n[UNKNOWN] couleur ⁄ 114' ⁄ ST: FR\nhttps://cinematek.be/2024-09-01-17-00/johnny-stecchino
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240901T180000+0200
+DTEND:20240901T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:f6f778ca-3299-48cd-82d6-a7ab5089c6e9
+SUMMARY:Zéro de conduite
+DESCRIPTION:Zéro de conduite\nDirectors: Jean Vigo, France 1932\nCast: \n[UNKNOWN] NB ⁄ 43' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-09-01-18-00/zero-de-conduite-la-rentree-des-classes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240901T191500+0200
+DTEND:20240901T191500+0200
+DTSTAMP:20241018T151213+0200
+UID:d6edad00-f139-4403-bae1-cc56f9868598
+SUMMARY:The Searchers
+DESCRIPTION:La Prisonnière du désert ⁄ The Searchers ⁄ The Searchers\nDirectors: John Ford, USA 1956\nCast: , John Wayne, Jeffrey Hunter, Vera Miles, Natalie Wood\n[UNKNOWN] couleur ⁄ 114' ⁄ ST: NL - FR\nhttps://cinematek.be/2024-09-01-19-15/the-searchers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240901T200000+0200
+DTEND:20240901T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:de5e0213-6e91-47ea-9ea8-3af1a551e05d
+SUMMARY:The Bedford Incident
+DESCRIPTION:The Bedford Incident\nDirectors: James B. Harris, UK 1965\nCast: , Richard Widmark, Sidney Poitier, James MacArthur, Donald Sutherland\n[UNKNOWN] NB ⁄ 102' ⁄ V: EN ⁄ ST\nhttps://cinematek.be/2024-09-01-20-00/the-bedford-incident
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240901T213000+0200
+DTEND:20240901T213000+0200
+DTSTAMP:20241018T151213+0200
+UID:c90fba52-9703-4be6-92f8-af59c9cac7ce
+SUMMARY:Krasnaya palatka
+DESCRIPTION:The Red Tent ⁄ Krasnaya palatka\nDirectors: Mikhail Kalatozov, Italie, USSR 1970\nCast: , Sean Connery, Claudia Cardinale, Peter Finch, Nikita Mikhalkov\n[UNKNOWN] couleur ⁄ 121' ⁄ V: EN ⁄ ST\nhttps://cinematek.be/2024-09-01-21-30/krasnaya-palatka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240902T180000+0200
+DTEND:20240902T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:c2ecbadb-3861-4284-b175-2d6d53c8c88f
+SUMMARY:Yadon ilaheyya
+DESCRIPTION:Intervention divine ⁄ Divine Intervention ⁄ Yadon ilaheyya\nDirectors: Elia Suleiman, France, Palestine, Allemagne, Maroc 2002\nCast: , Elia Suleiman, Manal Khader, George Ibrahim\n[UNKNOWN] couleur ⁄ 92' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-02-18-00/yadon-ilaheyya
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240902T190000+0200
+DTEND:20240902T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:101a6cb9-d63e-4e08-baaa-a6f6e88295b1
+SUMMARY:Átame!
+DESCRIPTION:Attache-moi ! ⁄ Tie me up ! Tie me down ! ⁄ Átame!\nDirectors: Pedro Almodóvar, Espagne 1989\nCast: , Victoria Abril, Antonio Banderas, Loles León\n[UNKNOWN] couleur ⁄ 100' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-02-19-00/atame
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240902T200000+0200
+DTEND:20240902T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:f221b8d3-9f21-4199-83ab-47375ee04b27
+SUMMARY:La Chienne
+DESCRIPTION:La Chienne\nDirectors: Jean Renoir, France 1931\nCast: , Michel Simon, Janie Marèse, Georges Flamant\n[UNKNOWN] NB ⁄ 95' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-09-02-20-00/la-chienne
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240902T210000+0200
+DTEND:20240902T210000+0200
+DTSTAMP:20241018T151213+0200
+UID:a46e73db-7c55-4da1-88df-6b8021315a57
+SUMMARY:The Dirty Dozen
+DESCRIPTION:Les Douze Salopards ⁄ The Dirty Dozen\nDirectors: Robert Aldrich, USA, UK 1967\nCast: , Lee Marvin, Ernest Borgnine, Charles Bronson, Donald Sutherland\n[UNKNOWN] couleur ⁄ 150' ⁄ ST: FR\nhttps://cinematek.be/2024-09-02-21-00/the-dirty-dozen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240903T180000+0200
+DTEND:20240903T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:32c37f24-17c7-4f93-aeab-74f552cd07cb
+SUMMARY:Rapsodia satanica
+DESCRIPTION:Rhapsodie satanique / De duivelse rapsodie / Rapsodia satanica\nDirectors: Nino Oxilia, Italie 1914\nCast: \n[UNKNOWN] 42' ⁄ TIT: IT ⁄ ST: NL - FR ⁄ PIANO\nhttps://cinematek.be/2024-09-03-18-00/rapsodia-satanica-au-secours
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240903T190000+0200
+DTEND:20240903T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:2eeba5dd-5c48-419d-a103-3e12dc4177c1
+SUMMARY:Zazie dans le métro
+DESCRIPTION:Zazie dans le métro\nDirectors: Louis Malle, France 1960\nCast: , Catherine Demongeot, Philippe Noiret, Hubert Deschamps\n[UNKNOWN] couleur ⁄ 91' ⁄ ST: NL\nhttps://cinematek.be/2024-09-03-19-00/zazie-dans-le-metro
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240903T200000+0200
+DTEND:20240903T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:e3dfa7b9-2365-481f-976e-774fccdd6c39
+SUMMARY:Oedipus the King
+DESCRIPTION:Le Roi Œdipe ⁄ Oedipus the King\nDirectors: Philip Saville, UK 1967\nCast: , Christopher Plummer, Lilli Palmer, Orson Welles, Donald Sutherland\n[UNKNOWN] couleur ⁄ 97' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-03-20-00/oedipus-the-king
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240903T210000+0200
+DTEND:20240903T210000+0200
+DTSTAMP:20241018T151213+0200
+UID:877a9449-e424-450c-855d-f69e2476890e
+SUMMARY:Trois couleurs : Bleu
+DESCRIPTION:Trois couleurs : Bleu\nDirectors: Krzysztof Kieslowski, France, Pologne, Suisse 1993\nCast: , Juliette Binoche, Benoît Régent, Hélène Vincent\n[UNKNOWN] couleur ⁄ 96' ⁄ ST: NL\nhttps://cinematek.be/2024-09-03-21-00/trois-couleurs-bleu
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240904T180000+0200
+DTEND:20240904T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:a60f74c9-3fd1-420f-b617-5e486c4f8d2f
+SUMMARY:Wszystko na sprzedaz
+DESCRIPTION:Tout est à vendre ⁄ Everything for Sale ⁄ Wszystko na sprzedaz\nDirectors: Andrzej Wajda, Pologne 1968\nCast: , Beata Tyszkiewicz, Elzbieta Czyzewska, Andrzej Lapicki\n[UNKNOWN] couleur ⁄ 97' ⁄ ST: NL - FR\nhttps://cinematek.be/2024-09-04-18-00/wszystko-na-sprzedaz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240904T190000+0200
+DTEND:20240904T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:b4e26183-e565-4af5-9201-af0dec5a9aa9
+SUMMARY:Krasnaya palatka
+DESCRIPTION:The Red Tent ⁄ Krasnaya palatka\nDirectors: Mikhail Kalatozov, Italie, USSR 1970\nCast: , Sean Connery, Claudia Cardinale, Peter Finch, Nikita Mikhalkov\n[UNKNOWN] couleur ⁄ 121' ⁄ V: EN ⁄ ST\nhttps://cinematek.be/2024-09-04-19-00/krasnaya-palatka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240904T200000+0200
+DTEND:20240904T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:f0b3da22-47f2-462d-b600-ae4dec5a834b
+SUMMARY:Zéro de conduite
+DESCRIPTION:Zéro de conduite\nDirectors: Jean Vigo, France 1932\nCast: \n[UNKNOWN] NB ⁄ 43' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-09-04-20-00/zero-de-conduite-la-rentree-des-classes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240904T211500+0200
+DTEND:20240904T211500+0200
+DTSTAMP:20241018T151213+0200
+UID:08295de4-5dbc-4fcb-b00d-ac605c8ac159
+SUMMARY:Playtime
+DESCRIPTION:Playtime\nDirectors: Jacques Tati, France 1967\nCast: , Jacques Tati\n[UNKNOWN] couleur ⁄ 124' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-09-04-21-15/playtime
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240905T150000+0200
+DTEND:20240905T150000+0200
+DTSTAMP:20241018T151213+0200
+UID:07f9c90d-fc11-4d1a-a5d2-081395a51f9b
+SUMMARY:The Searchers
+DESCRIPTION:La Prisonnière du désert ⁄ The Searchers ⁄ The Searchers\nDirectors: John Ford, USA 1956\nCast: , John Wayne, Jeffrey Hunter, Vera Miles, Natalie Wood\n[UNKNOWN] couleur ⁄ 114' ⁄ ST: NL - FR\nhttps://cinematek.be/2024-09-05-15-00/the-searchers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240905T180000+0200
+DTEND:20240905T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:ef8fbb8e-706e-4e7f-9eec-bcda8389db1a
+SUMMARY:The Bedford Incident
+DESCRIPTION:The Bedford Incident\nDirectors: James B. Harris, UK 1965\nCast: , Richard Widmark, Sidney Poitier, James MacArthur, Donald Sutherland\n[UNKNOWN] NB ⁄ 102' ⁄ V: EN ⁄ ST\nhttps://cinematek.be/2024-09-05-18-00/the-bedford-incident
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240905T190000+0200
+DTEND:20240905T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:99fd55af-d356-4077-ad02-19f8aa86b6e9
+SUMMARY:10 Rillington Place
+DESCRIPTION:L’Étrangleur de Rillington Place ⁄ 10 Rillington Place\nDirectors: Richard Fleischer, UK 1971\nCast: , Richard Attenborough, Judy Geeson, John Hurt\n[UNKNOWN] couleur ⁄ 109' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-05-19-00/10-rillington-place
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240905T200000+0200
+DTEND:20240905T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:be4ba10d-cd16-43a4-aed4-436fc12ddb1c
+SUMMARY:Die Rache des Homunculus
+DESCRIPTION:La Vengeance du Homunculus ⁄ Wraak van de Homunculus ⁄ Die Rache des Homunculus\nDirectors: Otto Rippert, Albert Neuss, Allemagne 1915\nCast: , Olaf Fønss, Friedrich Kühne, Theodor Loos\n[UNKNOWN] 66' ⁄ TIT: NL - FR ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-09-05-20-00/die-rache-des-homunculus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240905T213000+0200
+DTEND:20240905T213000+0200
+DTSTAMP:20241018T151213+0200
+UID:7db6d4b4-3343-4987-ac6f-67d766f8a089
+SUMMARY:Ferris Bueller’s Day Off
+DESCRIPTION:Folle journée de Ferris Bueller ⁄ Ferris Bueller’s Day Off\nDirectors: John Hughes, USA 1986\nCast: , Matthew Broderick, Alan Ruck, Mia Sara, Jeffrey Jones\n[UNKNOWN] couleur ⁄ 101' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-05-21-30/ferris-buellers-day-off
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240906T180000+0200
+DTEND:20240906T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:81f99bf6-5ac1-47e9-8607-008c625d851a
+SUMMARY:La Chienne
+DESCRIPTION:La Chienne\nDirectors: Jean Renoir, France 1931\nCast: , Michel Simon, Janie Marèse, Georges Flamant\n[UNKNOWN] NB ⁄ 95' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-09-06-18-00/la-chienne
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240906T190000+0200
+DTEND:20240906T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:7ffc1b17-e76d-4784-8e27-52152c61054f
+SUMMARY:Johnny Stecchino
+DESCRIPTION:Johnny Stecchino\nDirectors: Roberto Benigni, Italie 1991\nCast: , Roberto Benigni, Nicoletta Braschi, Paolo Bonacelli\n[UNKNOWN] couleur ⁄ 114' ⁄ ST: FR\nhttps://cinematek.be/2024-09-06-19-00/johnny-stecchino
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240906T200000+0200
+DTEND:20240906T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:522d2902-26ba-4b36-b5de-fb6d18d1bc39
+SUMMARY:Interlude
+DESCRIPTION:Interlude\nDirectors: Kevin Billington, UK 1968\nCast: , Oskar Werner, Barbara Ferris, Virginia Maskell, Donald Sutherland\n[UNKNOWN] couleur ⁄ 112' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-06-20-00/interlude
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240906T211500+0200
+DTEND:20240906T211500+0200
+DTSTAMP:20241018T151213+0200
+UID:cc68e9b0-4cf9-4494-9e71-4717b62fdf80
+SUMMARY:Wuthering Heights
+DESCRIPTION:Les Hauts de Hurlevent ⁄ Wuthering Heights\nDirectors: William Wyler, USA 1939\nCast: , Merle Oberon, Laurence Olivier, David Niven\n[UNKNOWN] NB ⁄ 103' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-06-21-15/wuthering-heights
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240907T170000+0200
+DTEND:20240907T170000+0200
+DTSTAMP:20241018T151213+0200
+UID:5a7beb89-dae9-409f-9f55-3f3816e060f5
+SUMMARY:Playtime
+DESCRIPTION:Playtime\nDirectors: Jacques Tati, France 1967\nCast: , Jacques Tati\n[UNKNOWN] couleur ⁄ 124' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-09-07-17-00/playtime
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240907T180000+0200
+DTEND:20240907T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:ac9d40a8-3ac4-4588-9b58-6239750681f6
+SUMMARY:Zéro de conduite
+DESCRIPTION:Zéro de conduite\nDirectors: Jean Vigo, France 1932\nCast: \n[UNKNOWN] NB ⁄ 43' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-09-07-18-00/zero-de-conduite-la-rentree-des-classes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240907T191500+0200
+DTEND:20240907T191500+0200
+DTSTAMP:20241018T151213+0200
+UID:4ead4f6f-5b82-435b-b5f5-8b155f1080fe
+SUMMARY:M*A*S*H
+DESCRIPTION:M*A*S*H\nDirectors: Robert Altman, USA 1970\nCast: , Donald Sutherland, Elliott Gould, Tom Skerritt\n[UNKNOWN] couleur ⁄ 115' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-07-19-15/m-a-s-h
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240907T200000+0200
+DTEND:20240907T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:d840bc30-779e-440e-97d2-ad1304521514
+SUMMARY:Körkarlen
+DESCRIPTION:La Charrette fantôme ⁄ De spookkar ⁄ Körkarlen\nDirectors: Victor Sjöström, Suède 1920\nCast: , Victor Sjöström, Hilda Borgström, Tore Svennberg\n[UNKNOWN] 85' ⁄ TIT: SV ⁄ ST: FR - NL ⁄ PIANO\nhttps://cinematek.be/2024-09-07-20-00/korkarlen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240907T213000+0200
+DTEND:20240907T213000+0200
+DTSTAMP:20241018T151213+0200
+UID:6b37b945-eef5-40ff-b738-0ca9b0d81d66
+SUMMARY:The Searchers
+DESCRIPTION:La Prisonnière du désert ⁄ The Searchers ⁄ The Searchers\nDirectors: John Ford, USA 1956\nCast: , John Wayne, Jeffrey Hunter, Vera Miles, Natalie Wood\n[UNKNOWN] couleur ⁄ 114' ⁄ ST: NL - FR\nhttps://cinematek.be/2024-09-07-21-30/the-searchers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240908T150000+0200
+DTEND:20240908T150000+0200
+DTSTAMP:20241018T151213+0200
+UID:328ce356-4235-4c3e-abae-dae98fb64c4e
+SUMMARY:Wuthering Heights
+DESCRIPTION:Les Hauts de Hurlevent ⁄ Wuthering Heights\nDirectors: William Wyler, USA 1939\nCast: , Merle Oberon, Laurence Olivier, David Niven\n[UNKNOWN] NB ⁄ 103' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-08-15-00/wuthering-heights
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240908T170000+0200
+DTEND:20240908T170000+0200
+DTSTAMP:20241018T151213+0200
+UID:077c99fa-6e51-43a0-a817-6aa77348765f
+SUMMARY:Written on the Wind
+DESCRIPTION:Écrit sur du vent ⁄ Written on the Wind\nDirectors: Douglas Sirk, USA 1956\nCast: , Rock Hudson, Lauren Bacall, Robert Stack\n[UNKNOWN] couleur ⁄ 99' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-08-17-00/written-on-the-wind
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240908T180000+0200
+DTEND:20240908T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:d93f945c-8a29-45f0-bb2e-4ea5e84f1211
+SUMMARY:Oedipus the King
+DESCRIPTION:Le Roi Œdipe ⁄ Oedipus the King\nDirectors: Philip Saville, UK 1967\nCast: , Christopher Plummer, Lilli Palmer, Orson Welles, Donald Sutherland\n[UNKNOWN] couleur ⁄ 97' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-08-18-00/oedipus-the-king
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240908T190000+0200
+DTEND:20240908T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:31a8fbb8-30b1-4675-85ae-95e71a733ccf
+SUMMARY:Zazie dans le métro
+DESCRIPTION:Zazie dans le métro\nDirectors: Louis Malle, France 1960\nCast: , Catherine Demongeot, Philippe Noiret, Hubert Deschamps\n[UNKNOWN] couleur ⁄ 91' ⁄ ST: NL\nhttps://cinematek.be/2024-09-08-19-00/zazie-dans-le-metro
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240908T200000+0200
+DTEND:20240908T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:207159b7-4f14-47ef-b3b6-428892447bc4
+SUMMARY:American Madness
+DESCRIPTION:La Ruée ⁄ American Madness\nDirectors: Frank Capra, USA 1932\nCast: , Walter Huston, Pat O'Brien, Kay Johnson\n[UNKNOWN] NB ⁄ 76' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-08-20-00/american-madness
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240908T210000+0200
+DTEND:20240908T210000+0200
+DTSTAMP:20241018T151213+0200
+UID:d536e20e-7f3f-466f-a851-c9aee5e07577
+SUMMARY:Átame!
+DESCRIPTION:Attache-moi ! ⁄ Tie me up ! Tie me down ! ⁄ Átame!\nDirectors: Pedro Almodóvar, Espagne 1989\nCast: , Victoria Abril, Antonio Banderas, Loles León\n[UNKNOWN] couleur ⁄ 100' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-08-21-00/atame
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240909T180000+0200
+DTEND:20240909T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:6bb2eccc-9a5c-46ad-91c9-039181f2230c
+SUMMARY:La Chienne
+DESCRIPTION:La Chienne\nDirectors: Jean Renoir, France 1931\nCast: , Michel Simon, Janie Marèse, Georges Flamant\n[UNKNOWN] NB ⁄ 95' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-09-09-18-00/la-chienne
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240909T200000+0200
+DTEND:20240909T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:7342ac8b-b300-41e7-b4f0-9cb21441d0c5
+SUMMARY:A Kid for Two Farthings
+DESCRIPTION:L’Enfant et la Licorne ⁄ A Kid for Two Farthings\nDirectors: Carol Reed, UK 1955\nCast: , Celia Johnson, Diana Dors, Jonathan Ashmore\n[UNKNOWN] couleur ⁄ 92' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-09-20-00/a-kid-for-two-farthings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240910T180000+0200
+DTEND:20240910T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:19e5c548-a451-4685-b1fb-c7fbbfe4ef67
+SUMMARY:Die Rache des Homunculus
+DESCRIPTION:La Vengeance du Homunculus ⁄ Wraak van de Homunculus ⁄ Die Rache des Homunculus\nDirectors: Otto Rippert, Albert Neuss, Allemagne 1915\nCast: , Olaf Fønss, Friedrich Kühne, Theodor Loos\n[UNKNOWN] 66' ⁄ TIT: NL - FR ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-09-10-18-00/die-rache-des-homunculus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240910T190000+0200
+DTEND:20240910T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:f0c7fe1e-b4fe-4635-be02-eeb53d306d52
+SUMMARY:Trois couleurs : Bleu
+DESCRIPTION:Trois couleurs : Bleu\nDirectors: Krzysztof Kieslowski, France, Pologne, Suisse 1993\nCast: , Juliette Binoche, Benoît Régent, Hélène Vincent\n[UNKNOWN] couleur ⁄ 96' ⁄ ST: NL\nhttps://cinematek.be/2024-09-10-19-00/trois-couleurs-bleu
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240910T200000+0200
+DTEND:20240910T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:70c8b223-3fcd-4b03-ae8d-46e4d488f23d
+SUMMARY:Yadon ilaheyya
+DESCRIPTION:Intervention divine ⁄ Divine Intervention ⁄ Yadon ilaheyya\nDirectors: Elia Suleiman, France, Palestine, Allemagne, Maroc 2002\nCast: , Elia Suleiman, Manal Khader, George Ibrahim\n[UNKNOWN] couleur ⁄ 92' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-10-20-00/yadon-ilaheyya
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240910T210000+0200
+DTEND:20240910T210000+0200
+DTSTAMP:20241018T151213+0200
+UID:513c533a-98b7-46d7-aac2-a0b6fa517ff3
+SUMMARY:Kelly’s Heroes
+DESCRIPTION:De l’or pour les braves ⁄ Kelly’s Heroes\nDirectors: Brian G. Hutton, USA, Yougoslavie 1970\nCast: , Clint Eastwood, Telly Savalas, Donald Sutherland\n[UNKNOWN] couleur ⁄ 140' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-10-21-00/kellys-heroes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240911T180000+0200
+DTEND:20240911T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:d7a0a7d9-3d27-46f6-b8e9-2ebec5d60f81
+SUMMARY:Interlude
+DESCRIPTION:Interlude\nDirectors: Kevin Billington, UK 1968\nCast: , Oskar Werner, Barbara Ferris, Virginia Maskell, Donald Sutherland\n[UNKNOWN] couleur ⁄ 112' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-11-18-00/interlude
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240911T190000+0200
+DTEND:20240911T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:1a9e9d28-9ca2-477d-9acd-578a2651287d
+SUMMARY:Ai to kibô no machi
+DESCRIPTION:A Town of Love and Hope ⁄ Ai to kibô no machi\nDirectors: Nagisa Ôshima, Japon 1959\nCast: , Fumio Watanabe, Yuki Tominaga, Yûko Mochizuki\n[UNKNOWN] couleur ⁄ 62' ⁄ ST: EN\nhttps://cinematek.be/2024-09-11-19-00/ai-to-kibo-no-machi
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240911T201500+0200
+DTEND:20240911T201500+0200
+DTSTAMP:20241018T151213+0200
+UID:7db3e7e5-165b-4743-b5ab-7efdde49c037
+SUMMARY:Zéro de conduite
+DESCRIPTION:Zéro de conduite\nDirectors: Jean Vigo, France 1932\nCast: \n[UNKNOWN] NB ⁄ 43' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-09-11-20-15/zero-de-conduite-la-rentree-des-classes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240911T210000+0200
+DTEND:20240911T210000+0200
+DTSTAMP:20241018T151213+0200
+UID:55f0d5ba-31d1-47fd-9d46-45bc8f6e0ebf
+SUMMARY:The Searchers
+DESCRIPTION:La Prisonnière du désert ⁄ The Searchers ⁄ The Searchers\nDirectors: John Ford, USA 1956\nCast: , John Wayne, Jeffrey Hunter, Vera Miles, Natalie Wood\n[UNKNOWN] couleur ⁄ 114' ⁄ ST: NL - FR\nhttps://cinematek.be/2024-09-11-21-00/the-searchers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240912T150000+0200
+DTEND:20240912T150000+0200
+DTSTAMP:20241018T151213+0200
+UID:9d4707eb-b12c-4eb4-930f-d58e4344b836
+SUMMARY:Playtime
+DESCRIPTION:Playtime\nDirectors: Jacques Tati, France 1967\nCast: , Jacques Tati\n[UNKNOWN] couleur ⁄ 124' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-09-12-15-00/playtime
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240912T180000+0200
+DTEND:20240912T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:f1edbd02-c424-47dc-9178-12c2a62af3a8
+SUMMARY:Little Murders
+DESCRIPTION:Petits meurtres sans importance ⁄ Little Murders\nDirectors: Alan Arkin, USA 1971\nCast: , Elliott Gould, Marcia Rodd, Vincent Gardenia, Donald Sutherland\n[UNKNOWN] couleur ⁄ 106' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-12-18-00/little-murders
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240912T190000+0200
+DTEND:20240912T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:1afe870e-a789-4706-bc85-5034264a6993
+SUMMARY:Wesh wesh, qu’est-ce qui se passe ?
+DESCRIPTION:Wesh Wesh, What’s Happening? ⁄ Wesh wesh, qu’est-ce qui se passe ?\nDirectors: Rabah Ameur-Zaïmeche, France 2001\nCast: , Ahmed Hammoudi, Rabah Ameur-Zaïmeche, Brahim Ameur-Zaïmeche\n[UNKNOWN] couleur ⁄ 83' ⁄ ST: EN\nhttps://cinematek.be/2024-09-12-19-00/wesh-wesh-quest-ce-qui-se-passe
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240912T200000+0200
+DTEND:20240912T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:c0abe529-f3f0-40c4-a42f-f61b255eeb29
+SUMMARY:Rapsodia satanica
+DESCRIPTION:Rhapsodie satanique / De duivelse rapsodie / Rapsodia satanica\nDirectors: Nino Oxilia, Italie 1914\nCast: \n[UNKNOWN] 42' ⁄ TIT: IT ⁄ ST: NL - FR ⁄ PIANO\nhttps://cinematek.be/2024-09-12-20-00/rapsodia-satanica-au-secours
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240912T210000+0200
+DTEND:20240912T210000+0200
+DTSTAMP:20241018T151213+0200
+UID:7c74dc6b-6479-44c8-b215-98f7519dc41e
+SUMMARY:Written on the Wind
+DESCRIPTION:Écrit sur du vent ⁄ Written on the Wind\nDirectors: Douglas Sirk, USA 1956\nCast: , Rock Hudson, Lauren Bacall, Robert Stack\n[UNKNOWN] couleur ⁄ 99' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-12-21-00/written-on-the-wind
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240913T180000+0200
+DTEND:20240913T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:3ab891cc-6e4c-4581-8534-247a94b75050
+SUMMARY:Murder, My Sweet
+DESCRIPTION:Adieu, ma belle ⁄ Murder, My Sweet\nDirectors: Edward Dmytryk, USA 1945\nCast: , Dick Powell, Claire Trevor, Anne Shirley\n[UNKNOWN] NB ⁄ 95' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-13-18-00/farewell-my-lovely
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240913T190000+0200
+DTEND:20240913T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:88d4dbd1-1390-40e4-82b2-9c5a92fae456
+SUMMARY:Átame!
+DESCRIPTION:Attache-moi ! ⁄ Tie me up ! Tie me down ! ⁄ Átame!\nDirectors: Pedro Almodóvar, Espagne 1989\nCast: , Victoria Abril, Antonio Banderas, Loles León\n[UNKNOWN] couleur ⁄ 100' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-13-19-00/atame
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240913T200000+0200
+DTEND:20240913T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:a201771e-f705-4e71-b2a5-daa2388d634a
+SUMMARY:Wszystko na sprzedaz
+DESCRIPTION:Tout est à vendre ⁄ Everything for Sale ⁄ Wszystko na sprzedaz\nDirectors: Andrzej Wajda, Pologne 1968\nCast: , Beata Tyszkiewicz, Elzbieta Czyzewska, Andrzej Lapicki\n[UNKNOWN] couleur ⁄ 97' ⁄ ST: NL - FR\nhttps://cinematek.be/2024-09-13-20-00/wszystko-na-sprzedaz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240913T211500+0200
+DTEND:20240913T211500+0200
+DTSTAMP:20241018T151213+0200
+UID:9c9f7857-24e9-40f2-af32-594b141acee1
+SUMMARY:Taiyô no hakaba
+DESCRIPTION:The Sun’s Burial ⁄ Taiyô no hakaba\nDirectors: Nagisa Ôshima, Japon 1960\nCast: , Kayoko Honoo, Kôji Nakahara, Fumio Watanabe\n[UNKNOWN] couleur ⁄ 87' ⁄ ST: EN\nhttps://cinematek.be/2024-09-13-21-15/taiyo-no-hakaba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240914T170000+0200
+DTEND:20240914T170000+0200
+DTSTAMP:20241018T151213+0200
+UID:c52801ad-0a6f-4c08-b376-40f1bf1b2d1c
+SUMMARY:Ferris Bueller’s Day Off
+DESCRIPTION:Folle journée de Ferris Bueller ⁄ Ferris Bueller’s Day Off\nDirectors: John Hughes, USA 1986\nCast: , Matthew Broderick, Alan Ruck, Mia Sara, Jeffrey Jones\n[UNKNOWN] couleur ⁄ 101' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-14-17-00/ferris-buellers-day-off
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240914T180000+0200
+DTEND:20240914T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:8c77e18a-b715-455e-957d-84898c08a888
+SUMMARY:American Madness
+DESCRIPTION:La Ruée ⁄ American Madness\nDirectors: Frank Capra, USA 1932\nCast: , Walter Huston, Pat O'Brien, Kay Johnson\n[UNKNOWN] NB ⁄ 76' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-14-18-00/american-madness
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240914T190000+0200
+DTEND:20240914T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:e2d5d6bc-a4aa-47fe-b2b7-7d2d58602b41
+SUMMARY:Átame!
+DESCRIPTION:Attache-moi ! ⁄ Tie me up ! Tie me down ! ⁄ Átame!\nDirectors: Pedro Almodóvar, Espagne 1989\nCast: , Victoria Abril, Antonio Banderas, Loles León\n[UNKNOWN] couleur ⁄ 100' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-14-19-00/johnny-got-his-gun
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240914T200000+0200
+DTEND:20240914T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:41b1d8e4-d25e-4bb3-a5ac-5c2a778f13ec
+SUMMARY:Der Golem, wie er in die Welt kam
+DESCRIPTION:Le Golem ⁄ Der Golem, wie er in die Welt kam\nDirectors: Paul Wegener, Carl Boese, Allemagne 1920\nCast: , Paul Wegener, Albert Steinrück, Lyda Salmonova\n[UNKNOWN] 100' ⁄ TIT: FR - NL ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-09-14-20-00/der-golem-wie-er-in-die-welt-kam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240914T211500+0200
+DTEND:20240914T211500+0200
+DTSTAMP:20241018T151213+0200
+UID:1d120f7c-7887-4b27-b848-a3cf607b394f
+SUMMARY:Trois couleurs : Bleu
+DESCRIPTION:Trois couleurs : Bleu\nDirectors: Krzysztof Kieslowski, France, Pologne, Suisse 1993\nCast: , Juliette Binoche, Benoît Régent, Hélène Vincent\n[UNKNOWN] couleur ⁄ 96' ⁄ ST: NL\nhttps://cinematek.be/2024-09-14-21-15/trois-couleurs-bleu
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240915T150000+0200
+DTEND:20240915T150000+0200
+DTSTAMP:20241018T151213+0200
+UID:7bd1afa3-005f-48f6-98d6-e64325bc7404
+SUMMARY:Zazie dans le métro
+DESCRIPTION:Zazie dans le métro\nDirectors: Louis Malle, France 1960\nCast: , Catherine Demongeot, Philippe Noiret, Hubert Deschamps\n[UNKNOWN] couleur ⁄ 91' ⁄ ST: NL\nhttps://cinematek.be/2024-09-15-15-00/zazie-dans-le-metro
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240915T170000+0200
+DTEND:20240915T170000+0200
+DTSTAMP:20241018T151213+0200
+UID:6da0ba67-90f4-4b47-959d-ffa8431532c4
+SUMMARY:Wuthering Heights
+DESCRIPTION:Les Hauts de Hurlevent ⁄ Wuthering Heights\nDirectors: William Wyler, USA 1939\nCast: , Merle Oberon, Laurence Olivier, David Niven\n[UNKNOWN] NB ⁄ 103' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-15-17-00/wuthering-heights
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240915T180000+0200
+DTEND:20240915T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:eedeaad4-91e3-4a0d-bc6e-c7ba813c419d
+SUMMARY:The Bamboo Blonde
+DESCRIPTION:The Bamboo Blonde\nDirectors: Anthony Mann, USA 1946\nCast: , Frances Langford, Ralph Edwards, Russell Wade\n[UNKNOWN] NB ⁄ 67' ⁄ V: EN ⁄ ST\nhttps://cinematek.be/2024-09-15-18-00/the-bamboo-blonde
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240915T190000+0200
+DTEND:20240915T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:4eb16fd0-05c5-4161-a8ad-8cd20f34878d
+SUMMARY:Klute
+DESCRIPTION:Klute\nDirectors: Alan J. Pakula, USA 1971\nCast: , Jane Fonda, Donald Sutherland, Charles Cioffi\n[UNKNOWN] couleur ⁄ 111' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-15-19-00/klute
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240915T200000+0200
+DTEND:20240915T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:a0f6f70d-c8d9-4b12-a558-101e554b696b
+SUMMARY:La Chienne
+DESCRIPTION:La Chienne\nDirectors: Jean Renoir, France 1931\nCast: , Michel Simon, Janie Marèse, Georges Flamant\n[UNKNOWN] NB ⁄ 95' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-09-15-20-00/la-chienne
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240915T211500+0200
+DTEND:20240915T211500+0200
+DTSTAMP:20241018T151213+0200
+UID:49282609-7d1c-48e2-bcc6-f433fec470d8
+SUMMARY:Playtime
+DESCRIPTION:Playtime\nDirectors: Jacques Tati, France 1967\nCast: , Jacques Tati\n[UNKNOWN] couleur ⁄ 124' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-09-15-21-15/playtime
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240916T180000+0200
+DTEND:20240916T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:ebd0ced1-e43e-4561-8246-2b69cb13476c
+SUMMARY:Baxter, Vera Baxter
+DESCRIPTION:Vera Baxter ⁄ Baxter, Vera Baxter\nDirectors: Marguerite Duras, France 1977\nCast: , Delphine Seyrig, Noëlle Châtelet, Nathalie Nell\n[UNKNOWN] couleur ⁄ 95' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-09-16-18-00/baxter-vera-baxter
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240916T190000+0200
+DTEND:20240916T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:939607ce-248f-4041-be72-87a54c28a77c
+SUMMARY:Nihon no yoru to kiri
+DESCRIPTION:Night and Fog in Japan ⁄ Nihon no yoru to kiri\nDirectors: Nagisa Ôshima, Japon 1960\nCast: , Miyuki Kuwano, Fumio Watanabe, Masahiko Tsugawa\n[UNKNOWN] couleur ⁄ 107' ⁄ ST: EN\nhttps://cinematek.be/2024-09-16-19-00/nihon-no-yoru-to-kiri
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240916T200000+0200
+DTEND:20240916T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:489faad3-6d19-4e97-b0fb-868a4fbc6e9a
+SUMMARY:Little Murders
+DESCRIPTION:Petits meurtres sans importance ⁄ Little Murders\nDirectors: Alan Arkin, USA 1971\nCast: , Elliott Gould, Marcia Rodd, Vincent Gardenia, Donald Sutherland\n[UNKNOWN] couleur ⁄ 106' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-16-20-00/little-murders
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240916T210000+0200
+DTEND:20240916T210000+0200
+DTSTAMP:20241018T151213+0200
+UID:7844d8e5-1009-43e2-82fd-4257e78fcb4c
+SUMMARY:The Hill
+DESCRIPTION:La Colline des hommes perdus ⁄ The Hill\nDirectors: Sidney Lumet, UK 1965\nCast: , Sean Connery, Harry Andrews, Ian Bannen\n[UNKNOWN] NB ⁄ 122' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-16-21-00/the-hill
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240917T180000+0200
+DTEND:20240917T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:c0bc0a3e-dc04-41b1-a22b-67780176400a
+SUMMARY:A Kid for Two Farthings
+DESCRIPTION:L’Enfant et la Licorne ⁄ A Kid for Two Farthings\nDirectors: Carol Reed, UK 1955\nCast: , Celia Johnson, Diana Dors, Jonathan Ashmore\n[UNKNOWN] couleur ⁄ 92' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-17-18-00/a-kid-for-two-farthings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240917T190000+0200
+DTEND:20240917T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:49e4f63e-b40a-46ce-ab3e-639c115422ef
+SUMMARY:La Captive
+DESCRIPTION:The Captive ⁄ La Captive\nDirectors: Chantal Akerman, France, Belgique 2000\nCast: , Stanislas Merhar, Sylvie Testud, Aurore Clément, Olivia Bonamy\n[UNKNOWN] couleur ⁄ 117' ⁄ ST: EN\nhttps://cinematek.be/2024-09-17-19-00/la-captive
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240917T200000+0200
+DTEND:20240917T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:b5013ad9-581a-4ce2-b06f-866e13b6a9f8
+SUMMARY:Körkarlen
+DESCRIPTION:La Charrette fantôme ⁄ De spookkar ⁄ Körkarlen\nDirectors: Victor Sjöström, Suède 1920\nCast: , Victor Sjöström, Hilda Borgström, Tore Svennberg\n[UNKNOWN] 85' ⁄ TIT: SV ⁄ ST: FR - NL ⁄ PIANO\nhttps://cinematek.be/2024-09-17-20-00/korkarlen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240917T213000+0200
+DTEND:20240917T213000+0200
+DTSTAMP:20241018T151213+0200
+UID:a04bb38e-5dcc-4d56-8a3d-6949d6471e25
+SUMMARY:Loong Boonmee raleuk chat
+DESCRIPTION:Oncle Boonmee (celui qui se souvient de ses vies antérieures) ⁄ Uncle Boonmee Who Can Recall His Past Lives ⁄ Loong Boonmee raleuk chat\nDirectors: Apichatpong Weerasethakul, UK, Thaïlande, France, Espagne, Allemagne 2010\nCast: , Thanapat Saisaymar, Jenjira Pongpas, Sakda Kaewbuadee\n[UNKNOWN] couleur ⁄ 113' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-17-21-30/loong-boonmee-raleuk-chat
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240918T180000+0200
+DTEND:20240918T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:b8770fa9-b4f8-4f07-9d6e-48d7565400e1
+SUMMARY:Murder, My Sweet
+DESCRIPTION:Adieu, ma belle ⁄ Murder, My Sweet\nDirectors: Edward Dmytryk, USA 1945\nCast: , Dick Powell, Claire Trevor, Anne Shirley\n[UNKNOWN] NB ⁄ 95' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-18-18-00/farewell-my-lovely
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240918T190000+0200
+DTEND:20240918T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:c5b47126-f952-461d-bbcc-43a8b91f38cd
+SUMMARY:Het kwade oog
+DESCRIPTION:Le Mauvais oeil ⁄ Het kwade oog\nDirectors: Charles Dekeukeleire, Belgique 1937\nCast: \n[UNKNOWN] NB ⁄ 74' ⁄ ST: FR\nhttps://cinematek.be/2024-09-18-19-00/het-kwade-oog
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240918T200000+0200
+DTEND:20240918T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:839e7ee4-31f1-4f30-9d77-b73924aa80c0
+SUMMARY:Steelyard Blues
+DESCRIPTION:Steelyard Blues\nDirectors: Alan Myerson, USA 1972\nCast: , Donald Sutherland, Howard Hesseman, Jessica Myerson\n[UNKNOWN] couleur ⁄ 92' ⁄ ST: NL - FR\nhttps://cinematek.be/2024-09-18-20-00/steelyard-blues
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240918T210000+0200
+DTEND:20240918T210000+0200
+DTSTAMP:20241018T151213+0200
+UID:20a274ac-84c6-4f11-91fe-718ea98b4719
+SUMMARY:Shiiku
+DESCRIPTION:The Catch ⁄ Shiiku\nDirectors: Nagisa Ôshima, Japon 1961\nCast: , Rentarô Mikuni, Akiko Koyama, Yôko Mihara\n[UNKNOWN] NB ⁄ 104' ⁄ ST: EN\nhttps://cinematek.be/2024-09-18-21-00/shiiku
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240919T150000+0200
+DTEND:20240919T150000+0200
+DTSTAMP:20241018T151213+0200
+UID:8a7f2a88-3049-4c64-83c6-8855513ef24a
+SUMMARY:Written on the Wind
+DESCRIPTION:Écrit sur du vent ⁄ Written on the Wind\nDirectors: Douglas Sirk, USA 1956\nCast: , Rock Hudson, Lauren Bacall, Robert Stack\n[UNKNOWN] couleur ⁄ 99' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-19-15-00/written-on-the-wind
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240919T180000+0200
+DTEND:20240919T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:30463490-8b24-4201-89ca-f3bf38984ec6
+SUMMARY:Der Golem, wie er in die Welt kam
+DESCRIPTION:Le Golem ⁄ Der Golem, wie er in die Welt kam\nDirectors: Paul Wegener, Carl Boese, Allemagne 1920\nCast: , Paul Wegener, Albert Steinrück, Lyda Salmonova\n[UNKNOWN] 100' ⁄ TIT: FR - NL ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-09-19-18-00/der-golem-wie-er-in-die-welt-kam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240919T190000+0200
+DTEND:20240919T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:3ef4f1d6-0a0d-4689-b4ee-3709de535543
+SUMMARY:Badlands
+DESCRIPTION:La Balade sauvage ⁄ Badlands\nDirectors: Terrence Malick, USA 1973\nCast: , Martin Sheen, Sissy Spacek, Warren Oates\n[UNKNOWN] couleur ⁄ 93' ⁄ V: EN ⁄ ST\nhttps://cinematek.be/2024-09-19-19-00/badlands
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240919T200000+0200
+DTEND:20240919T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:2bb9998b-19d4-42fe-a537-661c946430e7
+SUMMARY:FTA
+DESCRIPTION:Fuck the Army ⁄ FTA\nDirectors: Francine Parker, USA 1972\nCast: \n[UNKNOWN] couleur ⁄ 96' ⁄ ST: FR\nhttps://cinematek.be/2024-09-19-20-00/fta
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240919T210000+0200
+DTEND:20240919T210000+0200
+DTSTAMP:20241018T151213+0200
+UID:96ba6f0c-1640-4621-901f-9c136f877ac6
+SUMMARY:Bled Number One
+DESCRIPTION:Back Home ⁄ Bled Number One\nDirectors: Rabah Ameur-Zaïmeche, France, Algérie 2006\nCast: , Meriem Serbah, Abel Jafri, Rabah Ameur-Zaïmeche\n[UNKNOWN] couleur ⁄ 102' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-19-21-00/bled-number-one
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240920T180000+0200
+DTEND:20240920T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:a31f6f79-d8e5-493e-8d68-b034dfcb65ac
+SUMMARY:Baxter, Vera Baxter
+DESCRIPTION:Vera Baxter ⁄ Baxter, Vera Baxter\nDirectors: Marguerite Duras, France 1977\nCast: , Delphine Seyrig, Noëlle Châtelet, Nathalie Nell\n[UNKNOWN] couleur ⁄ 95' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-09-20-18-00/baxter-vera-baxter
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240920T190000+0200
+DTEND:20240920T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:775345e1-6762-4d2f-9b53-69866ae5a474
+SUMMARY:Kôshikei
+DESCRIPTION:La Pendaison ⁄ Ophanging ⁄ Kôshikei\nDirectors: Nagisa Ôshima, Japon 1968\nCast: , Kei Satô, Do-yun Yu, Fumio Watanabe\n[UNKNOWN] NB ⁄ 118' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-20-19-00/koshikei
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240920T200000+0200
+DTEND:20240920T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:11cd0ea1-f82f-44b0-a8ea-e4df6096d23a
+SUMMARY:The Bamboo Blonde
+DESCRIPTION:The Bamboo Blonde\nDirectors: Anthony Mann, USA 1946\nCast: , Frances Langford, Ralph Edwards, Russell Wade\n[UNKNOWN] NB ⁄ 67' ⁄ V: EN ⁄ ST\nhttps://cinematek.be/2024-09-20-20-00/the-bamboo-blonde
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240920T211500+0200
+DTEND:20240920T211500+0200
+DTSTAMP:20241018T151213+0200
+UID:a4596df3-2d2d-4a59-83e7-f444ca01875c
+SUMMARY:Ghost Dog: The Way of the Samurai
+DESCRIPTION:Ghost Dog, la voie du samouraï ⁄ Ghost Dog: The Way of the Samurai\nDirectors: Jim Jarmusch, USA, France 1999\nCast: , Forest Withaker, Henry Silva, Isaach De Bankolé\n[UNKNOWN] couleur ⁄ 115' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-20-21-15/ghost-dog-the-way-of-the-samurai
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240921T170000+0200
+DTEND:20240921T170000+0200
+DTSTAMP:20241018T151213+0200
+UID:0138325e-dafe-43b0-8cf8-f0aaf8c3ab8c
+SUMMARY:La Machine à refaire la vie
+DESCRIPTION:La Machine à refaire la vie\nDirectors: Julien Duvivier, Henry Lepage, France 1943\nCast: \n[UNKNOWN] NB ⁄ 29' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-09-21-17-00/la-machine-a-refaire-la-vie-untel-pere-et-fils
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240921T180000+0200
+DTEND:20240921T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:68151950-f356-4268-85b8-4630a5be8505
+SUMMARY:Spice World
+DESCRIPTION:Spice World\nDirectors: Bob Spiers, UK 1997\nCast: , Mel B, Emma Bunton, Melanie C, Geraldine Halliwell, Victoria Beckham\n[UNKNOWN] couleur ⁄ 91' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-21-18-00/spice-world
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240921T190000+0200
+DTEND:20240921T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:900a5b93-dfdb-4264-8bb6-305d132c75b3
+SUMMARY:Loong Boonmee raleuk chat
+DESCRIPTION:Oncle Boonmee (celui qui se souvient de ses vies antérieures) ⁄ Uncle Boonmee Who Can Recall His Past Lives ⁄ Loong Boonmee raleuk chat\nDirectors: Apichatpong Weerasethakul, UK, Thaïlande, France, Espagne, Allemagne 2010\nCast: , Thanapat Saisaymar, Jenjira Pongpas, Sakda Kaewbuadee\n[UNKNOWN] couleur ⁄ 113' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-21-19-00/dont-look-now
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240921T200000+0200
+DTEND:20240921T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:bbcdfc5f-fd7a-4089-89d2-eacd80150c76
+SUMMARY:Dr. Jekyll and Mr. Hyde
+DESCRIPTION:Dr. Jekyll and Mr. Hyde\nDirectors: John Stuart Robertson, USA 1920\nCast: , John Barrymore, Brandon Hurst, Martha Mansfield\n[UNKNOWN] 92' ⁄ TIT: EN ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-09-21-20-00/dr-jekyll-and-mr-hyde
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240921T211500+0200
+DTEND:20240921T211500+0200
+DTSTAMP:20241018T151213+0200
+UID:927c2f8f-ffcc-4b35-9401-fdb882cbc846
+SUMMARY:Badlands
+DESCRIPTION:La Balade sauvage ⁄ Badlands\nDirectors: Terrence Malick, USA 1973\nCast: , Martin Sheen, Sissy Spacek, Warren Oates\n[UNKNOWN] couleur ⁄ 93' ⁄ V: EN ⁄ ST\nhttps://cinematek.be/2024-09-21-21-15/badlands
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240922T150000+0200
+DTEND:20240922T150000+0200
+DTSTAMP:20241018T151213+0200
+UID:301b57ea-c8ac-4e33-b33b-833fbb72f9f5
+SUMMARY:Viskningar och rop
+DESCRIPTION:Cris et Chuchotements ⁄ Cries and Whispers ⁄ Viskningar och rop\nDirectors: Ingmar Bergman, Suède 1972\nCast: , Harriet Andersson, Liv Ullmann, Ingrid Thulin, Kari Sylwan\n[UNKNOWN] couleur ⁄ 91' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-22-15-00/viskningar-och-rop
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240922T170000+0200
+DTEND:20240922T170000+0200
+DTSTAMP:20241018T151213+0200
+UID:f2603ce4-1495-4ef4-9bb4-186d8b2ec2b9
+SUMMARY:Cross of Iron
+DESCRIPTION:Croix de fer ⁄ Cross of Iron\nDirectors: Sam Peckinpah, UK, RFA 1977\nCast: , James Coburn, Maximilian Schell, James Mason\n[UNKNOWN] 130' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-22-17-00/cross-of-iron
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240922T180000+0200
+DTEND:20240922T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:279bdd7f-c6d1-4da3-aec1-95718123de98
+SUMMARY:Steelyard Blues
+DESCRIPTION:Steelyard Blues\nDirectors: Alan Myerson, USA 1972\nCast: , Donald Sutherland, Howard Hesseman, Jessica Myerson\n[UNKNOWN] couleur ⁄ 92' ⁄ ST: NL - FR\nhttps://cinematek.be/2024-09-22-18-00/steelyard-blues
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240922T193000+0200
+DTEND:20240922T193000+0200
+DTSTAMP:20241018T151213+0200
+UID:f855517e-e0d0-40eb-a751-0940a1e06749
+SUMMARY:Written on the Wind
+DESCRIPTION:Écrit sur du vent ⁄ Written on the Wind\nDirectors: Douglas Sirk, USA 1956\nCast: , Rock Hudson, Lauren Bacall, Robert Stack\n[UNKNOWN] couleur ⁄ 99' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-22-19-30/written-on-the-wind
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240922T200000+0200
+DTEND:20240922T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:682f2106-dd47-4f5c-a4cc-e41ee74e0ecd
+SUMMARY:Murder, My Sweet
+DESCRIPTION:Adieu, ma belle ⁄ Murder, My Sweet\nDirectors: Edward Dmytryk, USA 1945\nCast: , Dick Powell, Claire Trevor, Anne Shirley\n[UNKNOWN] NB ⁄ 95' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-22-20-00/farewell-my-lovely
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240922T213000+0200
+DTEND:20240922T213000+0200
+DTSTAMP:20241018T151213+0200
+UID:85fdcf4f-d85c-4f0d-a2d1-e533268690bb
+SUMMARY:Yunbogi no nikki
+DESCRIPTION:Le Journal de Yunbogi / Dagboek van Yunbogi / Yunbogi no nikki\nDirectors: Nagisa Ôshima, Japon 1965\nCast: \n[UNKNOWN] NB ⁄ 24' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-22-21-30/yunbogi-no-nikki-kaette-kita-yopparai
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240923T180000+0200
+DTEND:20240923T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:cbae9176-eb19-4072-8e7b-f7e8511a6d1f
+SUMMARY:The Day of the Locust
+DESCRIPTION:Le Jour du fléau ⁄ The Day of the Locust\nDirectors: John Schlesinger, USA 1975\nCast: , Donald Sutherland, Karen Black, Burgess Meredith\n[UNKNOWN] couleur ⁄ 144' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-23-18-00/the-day-of-the-locust
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240923T190000+0200
+DTEND:20240923T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:5b25ee30-6ef2-4f2e-bb0f-a17db7b94d77
+SUMMARY:Ghost Dog: The Way of the Samurai
+DESCRIPTION:Ghost Dog, la voie du samouraï ⁄ Ghost Dog: The Way of the Samurai\nDirectors: Jim Jarmusch, USA, France 1999\nCast: , Forest Withaker, Henry Silva, Isaach De Bankolé\n[UNKNOWN] couleur ⁄ 115' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-23-19-00/ghost-dog-the-way-of-the-samurai
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240923T204500+0200
+DTEND:20240923T204500+0200
+DTSTAMP:20241018T151213+0200
+UID:a4a98263-fe6a-426e-9ea1-79ecca29fab8
+SUMMARY:Baxter, Vera Baxter
+DESCRIPTION:Vera Baxter ⁄ Baxter, Vera Baxter\nDirectors: Marguerite Duras, France 1977\nCast: , Delphine Seyrig, Noëlle Châtelet, Nathalie Nell\n[UNKNOWN] couleur ⁄ 95' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-09-23-20-45/baxter-vera-baxter
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240923T211500+0200
+DTEND:20240923T211500+0200
+DTSTAMP:20241018T151213+0200
+UID:d58c9f1c-a62c-4c1e-a58d-5a6ad65b9f48
+SUMMARY:Shinjuku Dorobô Nikki
+DESCRIPTION:Diary of a Shinjuku Thief ⁄ Shinjuku Dorobô Nikki\nDirectors: Nagisa Ôshima, Japon 1969\nCast: , Tadanori Yokoo, Rie Yokoyama, Kei Satô\n[UNKNOWN] NB + couleur ⁄ 96' ⁄ ST: EN\nhttps://cinematek.be/2024-09-23-21-15/shinjuku-dorobo-nikki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240924T180000+0200
+DTEND:20240924T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:15d9a1e2-2bf5-4145-98f5-28d907461b53
+SUMMARY:FTA
+DESCRIPTION:Fuck the Army ⁄ FTA\nDirectors: Francine Parker, USA 1972\nCast: \n[UNKNOWN] couleur ⁄ 96' ⁄ ST: FR\nhttps://cinematek.be/2024-09-24-18-00/fta
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240924T190000+0200
+DTEND:20240924T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:dbb137a2-5f1f-4f01-92ea-1f69882b0d78
+SUMMARY:Étincelles
+DESCRIPTION:Étincelles\nDirectors: Romain Cassandre Versaevel, Belgique 2024\nCast: , Louis Affergan, Nour Beetch, Schaharazede Bentahar\n[UNKNOWN] couleur ⁄ 90' ⁄ ST: EN\nhttps://cinematek.be/2024-09-24-19-00/etincelles
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240924T200000+0200
+DTEND:20240924T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:88cd8136-da5f-44cc-9b7b-3a81c0f74b34
+SUMMARY:Häxan
+DESCRIPTION:La Sorcellerie à travers les âges ⁄ Heksen ⁄ Häxan\nDirectors: Benjamin Christensen, Suède 1921\nCast: , Maren Pedersen, Clara Pontoppidan, Elith Pio\n[UNKNOWN] TINTED ⁄ 111' ⁄ TIT: FR - NL ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-09-24-20-00/haxan
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240924T213000+0200
+DTEND:20240924T213000+0200
+DTSTAMP:20241018T151213+0200
+UID:92865f26-a27c-484d-9532-738832166efc
+SUMMARY:Shônen
+DESCRIPTION:Boy ⁄ Shônen\nDirectors: Nagisa Ôshima, Japon 1969\nCast: , Fumio Watanabe, Akiko Koyama, Tetsuo Abe\n[UNKNOWN] couleur ⁄ 97' ⁄ ST: EN\nhttps://cinematek.be/2024-09-24-21-30/shonen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240925T180000+0200
+DTEND:20240925T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:965c4f08-ee7f-4a77-9326-b47d1c99ef3c
+SUMMARY:Prawdziwy koniec wielkiej wojny
+DESCRIPTION:La Vraie Fin de la guerre ⁄ Real End of the Great War ⁄ Prawdziwy koniec wielkiej wojny\nDirectors: Jerzy Kawalerowicz, Pologne 1957\nCast: , Lucyna Winnicka, Roland Glowacki, Andrzej Szalawski\n[UNKNOWN] NB ⁄ 88' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-25-18-00/prawdziwy-koniec-wielkiej-wojny
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240925T190000+0200
+DTEND:20240925T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:0d9bc85e-d733-434b-bb61-f52e6f8233a3
+SUMMARY:The Terence Davies Trilogy
+DESCRIPTION:The Terence Davies Trilogy\nDirectors: Terence Davies, UK 1976-1983\nCast: , Phillip Mawdsley, Nick Stringer, Valerie Lilley\n[UNKNOWN] NB ⁄ 101' ⁄ ST: FR\nhttps://cinematek.be/2024-09-25-19-00/the-terence-davies-trilogy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240925T200000+0200
+DTEND:20240925T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:43a52045-462d-423e-a031-7635d0a8689b
+SUMMARY:Murder, My Sweet
+DESCRIPTION:Adieu, ma belle ⁄ Murder, My Sweet\nDirectors: Edward Dmytryk, USA 1945\nCast: , Dick Powell, Claire Trevor, Anne Shirley\n[UNKNOWN] NB ⁄ 95' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-25-20-00/farewell-my-lovely
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240925T211500+0200
+DTEND:20240925T211500+0200
+DTSTAMP:20241018T151213+0200
+UID:d276a8ba-8121-4371-bfc7-9064793018e2
+SUMMARY:The Long Day Closes
+DESCRIPTION:Une longue journée qui s’achève ⁄ The Long Day Closes\nDirectors: Terence Davies, UK 1992\nCast: , Leigh McCormack, Marjorie Yates, Anthony Watson\n[UNKNOWN] couleur ⁄ 85' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-25-21-15/the-long-day-closes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240926T150000+0200
+DTEND:20240926T150000+0200
+DTSTAMP:20241018T151213+0200
+UID:008bd3dc-c98c-4e88-93e2-e22b940d09f0
+SUMMARY:La Machine à refaire la vie
+DESCRIPTION:La Machine à refaire la vie\nDirectors: Julien Duvivier, Henry Lepage, France 1943\nCast: \n[UNKNOWN] NB ⁄ 29' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-09-26-15-00/la-machine-a-refaire-la-vie-untel-pere-et-fils
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240926T180000+0200
+DTEND:20240926T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:cac8cfe4-59d4-4f64-ab83-410ba9e8a187
+SUMMARY:Dr. Jekyll and Mr. Hyde
+DESCRIPTION:Dr. Jekyll and Mr. Hyde\nDirectors: John Stuart Robertson, USA 1920\nCast: , John Barrymore, Brandon Hurst, Martha Mansfield\n[UNKNOWN] 92' ⁄ TIT: EN ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-09-26-18-00/dr-jekyll-and-mr-hyde
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240926T190000+0200
+DTEND:20240926T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:c2727170-2142-45ef-8595-ffa6a13890f7
+SUMMARY:La Planète sauvage
+DESCRIPTION:La Planète sauvage\nDirectors: René Laloux, France, Tchécoslovaquie 1973\nCast: \n[UNKNOWN] couleur ⁄ 71' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-09-26-19-00/la-planete-sauvage
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240926T200000+0200
+DTEND:20240926T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:c851e643-3f74-4080-8980-a920396f09ff
+SUMMARY:The Day of the Locust
+DESCRIPTION:Le Jour du fléau ⁄ The Day of the Locust\nDirectors: John Schlesinger, USA 1975\nCast: , Donald Sutherland, Karen Black, Burgess Meredith\n[UNKNOWN] couleur ⁄ 144' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-26-20-00/the-day-of-the-locust
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240926T210000+0200
+DTEND:20240926T210000+0200
+DTSTAMP:20241018T151213+0200
+UID:14916bee-5420-40d9-a9c0-be3aded4ed88
+SUMMARY:Adhen
+DESCRIPTION:Dernier Maquis ⁄ Adhen\nDirectors: Rabah Ameur-Zaïmeche, Algérie, France 2008\nCast: , Salim Ameur-Zaïmeche, Abel Jafri, Sylvain Roume\n[UNKNOWN] couleur ⁄ 93' ⁄ ST: EN\nhttps://cinematek.be/2024-09-26-21-00/dernier-maquis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240927T180000+0200
+DTEND:20240927T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:f0df59f4-ce66-4c7b-9335-1d61274a6ab2
+SUMMARY:Spice World
+DESCRIPTION:Spice World\nDirectors: Bob Spiers, UK 1997\nCast: , Mel B, Emma Bunton, Melanie C, Geraldine Halliwell, Victoria Beckham\n[UNKNOWN] couleur ⁄ 91' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-27-18-00/spice-world
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240927T190000+0200
+DTEND:20240927T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:49b93101-01bf-4c52-ba9f-a0b540beb404
+SUMMARY:Maidens of Fetish Street
+DESCRIPTION:Les Filles de rues ⁄ Maidens of Fetish Street\nDirectors: Saul Resnick, USA 1966\nCast: , Ken McCormick, Toni Lee Oliver, Althea Currier\n[UNKNOWN] NB ⁄ 64' ⁄ V: EN ⁄ ST\nhttps://cinematek.be/2024-09-27-19-00/maidens-of-fetish-street
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240927T200000+0200
+DTEND:20240927T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:397977e8-d359-4619-933e-7f297de86e76
+SUMMARY:FTA
+DESCRIPTION:Fuck the Army ⁄ FTA\nDirectors: Francine Parker, USA 1972\nCast: \n[UNKNOWN] couleur ⁄ 96' ⁄ ST: FR\nhttps://cinematek.be/2024-09-27-20-00/fta
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240927T210000+0200
+DTEND:20240927T210000+0200
+DTSTAMP:20241018T151213+0200
+UID:c0a7afcd-cd65-421f-9202-2052e0ff3e6a
+SUMMARY:Bilbao
+DESCRIPTION:Bilbao\nDirectors: José Juan Bigas Luna, Espagne 1978\nCast: , Àngel Jové, María Martín, Isabel Pisano\n[UNKNOWN] couleur ⁄ 97' ⁄ ST: FR\nhttps://cinematek.be/2024-09-27-21-00/bilbao
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240928T150000+0200
+DTEND:20240928T150000+0200
+DTSTAMP:20241018T151213+0200
+UID:2ffa98d4-915d-49d7-8151-1ccc56c2e3d9
+SUMMARY:La Méthode du Dr. Spongiak
+DESCRIPTION:La Méthode du Dr. Spongiak\nDirectors: \nCast: \n[UNKNOWN] Compagnie Moquette Production ⁄ 50' ⁄ FR ⁄   5\nhttps://cinematek.be/2024-09-28-15-00/test
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240928T180000+0200
+DTEND:20240928T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:a5b2cb3c-ff87-48ef-90c7-e5e107865fe8
+SUMMARY:Prawdziwy koniec wielkiej wojny
+DESCRIPTION:La Vraie Fin de la guerre ⁄ Real End of the Great War ⁄ Prawdziwy koniec wielkiej wojny\nDirectors: Jerzy Kawalerowicz, Pologne 1957\nCast: , Lucyna Winnicka, Roland Glowacki, Andrzej Szalawski\n[UNKNOWN] NB ⁄ 88' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-28-18-00/prawdziwy-koniec-wielkiej-wojny
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240928T190000+0200
+DTEND:20240928T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:17285564-f17b-4a81-b6a1-119f163fa292
+SUMMARY:The Rocky Horror Picture Show
+DESCRIPTION:The Rocky Horror Picture Show\nDirectors: Jim Sharman, USA, UK 1975\nCast: , Tim Curry, Susan Sarandon, Barry Bostwick, Richard O'Brien\n[UNKNOWN] couleur ⁄ 100' ⁄ ST: FR\nhttps://cinematek.be/2024-09-28-19-00/the-rocky-horror-picture-show
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240928T200000+0200
+DTEND:20240928T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:1cb5255d-d442-47af-9d73-4a1a4db59367
+SUMMARY:Häxan
+DESCRIPTION:La Sorcellerie à travers les âges ⁄ Heksen ⁄ Häxan\nDirectors: Benjamin Christensen, Suède 1921\nCast: , Maren Pedersen, Clara Pontoppidan, Elith Pio\n[UNKNOWN] TINTED ⁄ 111' ⁄ TIT: FR - NL ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-09-28-20-00/haxan
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240928T213000+0200
+DTEND:20240928T213000+0200
+DTSTAMP:20241018T151213+0200
+UID:8075ae9d-bf46-4f0d-86f3-80571681f6fe
+SUMMARY:Don’t Look Now
+DESCRIPTION:Ne vous retournez pas ⁄ Don’t Look Now\nDirectors: Nicolas Roeg, UK, Italie 1973\nCast: , Julie Christie, Donald Sutherland, Massimo Serato\n[UNKNOWN] couleur ⁄ 110' ⁄ ST: FR\nhttps://cinematek.be/2024-09-28-21-30/dont-look-now
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240929T150000+0200
+DTEND:20240929T150000+0200
+DTSTAMP:20241018T151213+0200
+UID:416f0490-0d50-4012-a239-16736cdb1fd3
+SUMMARY:Le Petit Monde de Charlotte
+DESCRIPTION:Le Petit Monde de Charlotte\nDirectors: Gary Winick, USA, Allemagne 2006\nCast: , Dakota Fanning, Kevin Anderson, Essie Davis\n[UNKNOWN] couleur ⁄ 97' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-09-29-15-00/le-petit-monde-de-charlotte
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240929T151500+0200
+DTEND:20240929T151500+0200
+DTSTAMP:20241018T151213+0200
+UID:b55332e1-9b43-4743-943c-075fd1e4c725
+SUMMARY:Charlotte’s Web
+DESCRIPTION:Charlotte’s Web\nDirectors: Gary Winick, USA, Allemagne 2006\nCast: , Dakota Fanning, Kevin Anderson, Essie Davis\n[UNKNOWN] couleur ⁄ 97' ⁄ V: NL ⁄ ST\nhttps://cinematek.be/2024-09-29-15-15/charlottes-web-2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240929T170000+0200
+DTEND:20240929T170000+0200
+DTSTAMP:20241018T151213+0200
+UID:17bb26a9-b773-4c72-8df7-959ede3e8855
+SUMMARY:Badlands
+DESCRIPTION:La Balade sauvage ⁄ Badlands\nDirectors: Terrence Malick, USA 1973\nCast: , Martin Sheen, Sissy Spacek, Warren Oates\n[UNKNOWN] couleur ⁄ 93' ⁄ V: EN ⁄ ST\nhttps://cinematek.be/2024-09-29-17-00/badlands
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240929T180000+0200
+DTEND:20240929T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:2d4b3ab8-c356-48af-93ed-cee69b234da2
+SUMMARY:Les Inconnus dans la maison
+DESCRIPTION:Onbekenden in huis ⁄ Les Inconnus dans la maison\nDirectors: Henri Decoin, France 1942\nCast: , Raimu, Juliette Faber, Gabrielle Fontan\n[UNKNOWN] NB ⁄ 95' ⁄ ST: NL\nhttps://cinematek.be/2024-09-29-18-00/les-inconnus-dans-la-maison
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240929T190000+0200
+DTEND:20240929T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:232d5e8d-d22e-471f-af05-44a0d8d47b3a
+SUMMARY:La Machine à refaire la vie
+DESCRIPTION:La Machine à refaire la vie\nDirectors: Julien Duvivier, Henry Lepage, France 1943\nCast: \n[UNKNOWN] NB ⁄ 29' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-09-29-19-00/la-machine-a-refaire-la-vie-untel-pere-et-fils
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240929T200000+0200
+DTEND:20240929T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:314b90b1-4324-4709-856b-c6599eb93bd9
+SUMMARY:Gegen die Wand
+DESCRIPTION:Head-On ⁄ Gegen die Wand\nDirectors: Fatih Akin, Allemagne, Turquie 2003\nCast: , Birol Ünel, Sibel Kekilli, Güven Kiraç\n[UNKNOWN] couleur ⁄ 121' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-29-20-00/gegen-die-wand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240929T210000+0200
+DTEND:20240929T210000+0200
+DTSTAMP:20241018T151213+0200
+UID:dc25285f-ad95-48f4-b812-db682b2f7e02
+SUMMARY:Gishiki
+DESCRIPTION:The Ceremony ⁄ Gishiki\nDirectors: Nagisa Ôshima, Japon 1971\nCast: , Kenzô Kawarasaki, Atsuko Kaku, Atsuo Nakamura\n[UNKNOWN] couleur ⁄ 121' ⁄ ST: NL\nhttps://cinematek.be/2024-09-29-21-00/gishiki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240930T151400+0200
+DTEND:20240930T151400+0200
+DTSTAMP:20241018T151213+0200
+UID:16fb4ab9-d838-4433-bfaf-2653e1e89c4b
+SUMMARY:Pré-ciné
+DESCRIPTION:Pré-ciné\nDirectors: \nCast: \n[UNKNOWN] CUISTAX ⁄ 60' ⁄ FR - NL ⁄   10 ⁄   60 ⁄ ENTRÉE LIBRE\nhttps://cinematek.be/2024-09-28-13-30/atelier-pré-ciné-precinema
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240930T180000+0200
+DTEND:20240930T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:52b33de9-8162-43c2-aba6-cfe97b4a8f5d
+SUMMARY:Calle Mayor
+DESCRIPTION:Grand’rue ⁄ Calle Mayor\nDirectors: Juan Antonio Bardem, Espagne 1956\nCast: , Betsy Blair, José Suárez, Yves Massard\n[UNKNOWN] NB ⁄ 96' ⁄ ST: FR\nhttps://cinematek.be/2024-09-30-18-00/calle-mayor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240930T190000+0200
+DTEND:20240930T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:1c4628f2-f2b5-4151-a853-1f057a89653e
+SUMMARY:Les Chants de Mandrin
+DESCRIPTION:Smugglers’ Songs ⁄ Les Chants de Mandrin\nDirectors: Rabah Ameur-Zaïmeche, France 2011\nCast: , Jacques Nolot, Christian Milia-Darmezin, Kenji Levan\n[UNKNOWN] couleur ⁄ 97' ⁄ ST: EN\nhttps://cinematek.be/2024-09-30-19-00/les-chants-de-mandrin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240930T200000+0200
+DTEND:20240930T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:fb1bc5e0-5ee4-48dc-bab3-330fd0b2948a
+SUMMARY:Prawdziwy koniec wielkiej wojny
+DESCRIPTION:La Vraie Fin de la guerre ⁄ Real End of the Great War ⁄ Prawdziwy koniec wielkiej wojny\nDirectors: Jerzy Kawalerowicz, Pologne 1957\nCast: , Lucyna Winnicka, Roland Glowacki, Andrzej Szalawski\n[UNKNOWN] NB ⁄ 88' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-09-30-20-00/prawdziwy-koniec-wielkiej-wojny
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240930T210000+0200
+DTEND:20240930T210000+0200
+DTSTAMP:20241018T151213+0200
+UID:40adbde7-ae4c-4f3d-bd1f-10b7047cf288
+SUMMARY:Verbrande aarde
+DESCRIPTION:Verbrande aarde\nDirectors: Fien Troch, Belgique 1998\nCast: \n[UNKNOWN] couleur ⁄ 7' ⁄ V: NL ⁄ ST\nhttps://cinematek.be/2024-09-30-21-00/fien-troch-shorts
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241001T180000+0200
+DTEND:20241001T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:e6a7f234-7076-49e0-8ecb-f66bca155386
+SUMMARY:The Hound of the Baskervilles
+DESCRIPTION:The Hound of the Baskervilles\nDirectors: Maurice Elvey, UK 1921\nCast: , Eille Norwood, Catina Campbell, Rex McDougall\n[UNKNOWN] 75' ⁄ TIT: EN ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-10-01-18-00/the-hound-of-the-baskervilles
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241001T190000+0200
+DTEND:20241001T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:c2887682-2e4d-4986-9a83-ca6689dff08c
+SUMMARY:Ghost Dog: The Way of the Samurai
+DESCRIPTION:Ghost Dog, la voie du samouraï ⁄ Ghost Dog: The Way of the Samurai\nDirectors: Jim Jarmusch, USA, France 1999\nCast: , Forest Withaker, Henry Silva, Isaach De Bankolé\n[UNKNOWN] couleur ⁄ 115' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-01-19-00/ghost-dog-the-way-of-the-samurai
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241001T200000+0200
+DTEND:20241001T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:715203b2-1339-477a-908b-fc1e8ed4893e
+SUMMARY:Die verkaufte Braut
+DESCRIPTION:La fiancée vendue ⁄ De verkochte bruid ⁄ Die verkaufte Braut\nDirectors: Max Ophüls, Allemagne 1932\nCast: , Max Nadler, Jarmila Novotna, Otto Wernicke\n[UNKNOWN] NB ⁄ 77' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-01-20-00/die-verkaufte-braut
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241001T211500+0200
+DTEND:20241001T211500+0200
+DTSTAMP:20241018T151213+0200
+UID:645bd80d-4661-4e8a-9670-73a80270be42
+SUMMARY:Een ander zijn geluk
+DESCRIPTION:Le Bonheur de l’autre ⁄ Een ander zijn geluk\nDirectors: Fien Troch, Belgique, Pays-Bas 2005\nCast: , Ina Geerts, Johanna ter Steege, Jan Decleir\n[UNKNOWN] couleur ⁄ 101' ⁄ ST: FR\nhttps://cinematek.be/2024-10-01-21-15/een-ander-zijn-geluk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241002T180000+0200
+DTEND:20241002T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:359b6c84-66cc-46c0-bc46-a6c37218ed8c
+SUMMARY:Gegen die Wand
+DESCRIPTION:Head-On ⁄ Gegen die Wand\nDirectors: Fatih Akin, Allemagne, Turquie 2003\nCast: , Birol Ünel, Sibel Kekilli, Güven Kiraç\n[UNKNOWN] couleur ⁄ 121' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-02-18-00/gegen-die-wand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241002T190000+0200
+DTEND:20241002T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:24cf5465-a115-439c-bd55-3efbb8835865
+SUMMARY:Unspoken
+DESCRIPTION:Unspoken\nDirectors: Fien Troch, Belgique 2008\nCast: , Emmanuelle Devos, Bruno Todeschini\n[UNKNOWN] couleur ⁄ 101' ⁄ ST: NL\nhttps://cinematek.be/2024-10-02-19-00/unspoken
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241002T201500+0200
+DTEND:20241002T201500+0200
+DTSTAMP:20241018T151213+0200
+UID:0c5fa9ef-10d6-4e68-ab4c-19ae9bf112fe
+SUMMARY:The Day of the Locust
+DESCRIPTION:Le Jour du fléau ⁄ The Day of the Locust\nDirectors: John Schlesinger, USA 1975\nCast: , Donald Sutherland, Karen Black, Burgess Meredith\n[UNKNOWN] couleur ⁄ 144' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-02-20-15/the-day-of-the-locust
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241002T210000+0200
+DTEND:20241002T210000+0200
+DTSTAMP:20241018T151213+0200
+UID:1f910c21-fa6e-4b14-a365-27cbbec70d25
+SUMMARY:Ai no korîda
+DESCRIPTION:L’Empire des sens ⁄ Ai no korîda\nDirectors: Nagisa Ôshima, Japon, France 1976\nCast: , Tatsuya Fuji, Eiko Matsuda, Aoi Nakajima\n[UNKNOWN] couleur ⁄ 110' ⁄ ST: FR\nhttps://cinematek.be/2024-10-02-21-00/ai-no-korida
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241003T150000+0200
+DTEND:20241003T150000+0200
+DTSTAMP:20241018T151213+0200
+UID:45233a0d-6d24-4a5a-97f5-baeff041fb35
+SUMMARY:Cabaret
+DESCRIPTION:Cabaret\nDirectors: Bob Fosse, USA 1972\nCast: , Liza Minnelli, Michael York, Helmut Griem\n[UNKNOWN] couleur ⁄ 123' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-03-15-00/cabaret
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241003T180000+0200
+DTEND:20241003T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:d8125db6-dffe-4eb6-b01d-8ad07a3c3d99
+SUMMARY:The Hunchback of Notre Dame
+DESCRIPTION:Notre-Dame de Paris ⁄ The Hunchback of Notre Dame\nDirectors: Wallace Worsley, USA 1923\nCast: , Lon Chaney Sr., Patsy Ruth Miller, Norman Kerry\n[UNKNOWN] 94' ⁄ TIT: FR ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-10-03-18-00/the-hunchback-of-notre-dame
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241003T190000+0200
+DTEND:20241003T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:393d16e8-eb04-4e69-aaed-8a725f910331
+SUMMARY:Kid
+DESCRIPTION:Kid\nDirectors: Fien Troch, Belgique 2012\nCast: , Bent Simons, Gabriela Carrizo, Maarten Meeusen\n[UNKNOWN] couleur ⁄ 90' ⁄ ST: FR\nhttps://cinematek.be/2024-10-03-19-00/kid
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241003T200000+0200
+DTEND:20241003T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:130ebe07-cb4f-47d3-9c24-c5a5eb7703e8
+SUMMARY:Lachende Erben
+DESCRIPTION:Les Joyeux Héritiers ⁄ Lachende Erben\nDirectors: Max Ophüls, Allemagne 1932\nCast: , Lien Deyers, Heinz Rühmann, Ida Wüst\n[UNKNOWN] NB ⁄ 75' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-03-20-00/lachende-erben
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241003T210000+0200
+DTEND:20241003T210000+0200
+DTSTAMP:20241018T151213+0200
+UID:1969b2b7-3d99-4b1b-beb2-990fcba2e0b1
+SUMMARY:Histoire de Judas
+DESCRIPTION:Story of Judas ⁄ Histoire de Judas\nDirectors: Rabah Ameur-Zaïmeche, France 2011\nCast: , Nabil Djedouani, Rabah Ameur-Zaïmeche, Mohamed Aroussi\n[UNKNOWN] couleur ⁄ ST: EN\nhttps://cinematek.be/2024-10-03-21-00/histoire-de-judas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241004T180000+0200
+DTEND:20241004T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:be132796-c79a-46ad-9a3a-48d085a31791
+SUMMARY:Les Inconnus dans la maison
+DESCRIPTION:Onbekenden in huis ⁄ Les Inconnus dans la maison\nDirectors: Henri Decoin, France 1942\nCast: , Raimu, Juliette Faber, Gabrielle Fontan\n[UNKNOWN] NB ⁄ 95' ⁄ ST: NL\nhttps://cinematek.be/2024-10-04-18-00/les-inconnus-dans-la-maison
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241004T190000+0200
+DTEND:20241004T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:5ed6b528-1cd2-4858-bf40-23a7e5b9a350
+SUMMARY:Home
+DESCRIPTION:Home\nDirectors: Fien Troch, Belgique 2016\nCast: , Sebastian Van Dun, Mistral Guidotti, Lena Suijkerbuijk\n[UNKNOWN] couleur ⁄ 103' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-04-19-00/home
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241004T200000+0200
+DTEND:20241004T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:92a7242f-4efc-444d-b1b8-aaabed7e7b94
+SUMMARY:Baxter, Vera Baxter
+DESCRIPTION:Vera Baxter ⁄ Baxter, Vera Baxter\nDirectors: Marguerite Duras, France 1977\nCast: , Delphine Seyrig, Noëlle Châtelet, Nathalie Nell\n[UNKNOWN] couleur ⁄ 95' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-10-04-20-00/baxter-vera-baxter
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241004T213000+0200
+DTEND:20241004T213000+0200
+DTSTAMP:20241018T151213+0200
+UID:c5394b52-410e-4d9b-af1e-d25a082d17ba
+SUMMARY:Ai no bôrei
+DESCRIPTION:L’Empire de la passion ⁄ Empire of Passion ⁄ Ai no bôrei\nDirectors: Nagisa Ôshima, Japon, France 1978\nCast: , Tatsuya Fuji, Kazuko Yoshiyuki, Takahiro Tamura\n[UNKNOWN] couleur ⁄ 104' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-04-21-30/ai-no-borei
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241005T170000+0200
+DTEND:20241005T170000+0200
+DTSTAMP:20241018T151213+0200
+UID:ab16a9c2-b1d5-4c9f-9275-52c3b7d3de78
+SUMMARY:Chantal Akerman – Altijd onderweg
+DESCRIPTION:Chantal Akerman – Altijd onderweg\nDirectors: Pieter Verbiest, Katherine Schmelzer, Belgique 2024\nCast: \n[UNKNOWN] NB + couleur ⁄ ST: EN\nhttps://cinematek.be/2024-10-05-17-00/chantal-akerman---altijd-onderweg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241005T180000+0200
+DTEND:20241005T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:522fff0b-7d91-46a2-9814-2df7b0a8f372
+SUMMARY:Die verkaufte Braut
+DESCRIPTION:La fiancée vendue ⁄ De verkochte bruid ⁄ Die verkaufte Braut\nDirectors: Max Ophüls, Allemagne 1932\nCast: , Max Nadler, Jarmila Novotna, Otto Wernicke\n[UNKNOWN] NB ⁄ 77' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-05-18-00/die-verkaufte-braut
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241005T190000+0200
+DTEND:20241005T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:2c504284-5546-433f-9524-2e3ae54ee22f
+SUMMARY:In Conversation: Fien Troch
+DESCRIPTION:In Conversation: Fien Troch\nDirectors: \nCast: \n[UNKNOWN] 105' ⁄ FR ⁄   105\nhttps://cinematek.be/2024-10-05-19-00/2024-10-05
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241005T200000+0200
+DTEND:20241005T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:73492fe4-d97d-478b-bb57-27c697089ec9
+SUMMARY:Prawdziwy koniec wielkiej wojny
+DESCRIPTION:La Vraie Fin de la guerre ⁄ Real End of the Great War ⁄ Prawdziwy koniec wielkiej wojny\nDirectors: Jerzy Kawalerowicz, Pologne 1957\nCast: , Lucyna Winnicka, Roland Glowacki, Andrzej Szalawski\n[UNKNOWN] NB ⁄ 88' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-05-20-00/prawdziwy-koniec-wielkiej-wojny
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241005T210000+0200
+DTEND:20241005T210000+0200
+DTSTAMP:20241018T151213+0200
+UID:fa666878-5fa8-4701-b698-67fdce79b86d
+SUMMARY:Holly
+DESCRIPTION:Holly\nDirectors: Fien Troch, Belgique, Luxembourg, Pays-Bas 2023\nCast: , Cathalina Geeraerts, Felix Heremans, Greet Verstraete\n[UNKNOWN] couleur ⁄ 102' ⁄ ST: FR\nhttps://cinematek.be/2024-10-05-21-00/holly
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241006T150000+0200
+DTEND:20241006T150000+0200
+DTSTAMP:20241018T151213+0200
+UID:b3499c90-1a4e-4f85-8211-a1bc0280e128
+SUMMARY:Orlacs Hände
+DESCRIPTION:Les Mains d’Orlac ⁄ Orlacs Hände\nDirectors: Robert Wiene, Autriche 1924\nCast: , Conrad Veidt, Alexandra Sorina, Fritz Strassny\n[UNKNOWN] 93' ⁄ TIT: FR - NL ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-10-06-15-00/orlacs-hande
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241006T170000+0200
+DTEND:20241006T170000+0200
+DTSTAMP:20241018T151213+0200
+UID:ba192ae8-6f6b-4855-a5e9-6837032ffe66
+SUMMARY:Viskningar och rop
+DESCRIPTION:Cris et Chuchotements ⁄ Cries and Whispers ⁄ Viskningar och rop\nDirectors: Ingmar Bergman, Suède 1972\nCast: , Harriet Andersson, Liv Ullmann, Ingrid Thulin, Kari Sylwan\n[UNKNOWN] couleur ⁄ 91' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-06-17-00/viskningar-och-rop
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241006T180000+0200
+DTEND:20241006T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:e047e934-a69e-4097-9739-5e63270f542c
+SUMMARY:Calle Mayor
+DESCRIPTION:Grand’rue ⁄ Calle Mayor\nDirectors: Juan Antonio Bardem, Espagne 1956\nCast: , Betsy Blair, José Suárez, Yves Massard\n[UNKNOWN] NB ⁄ 96' ⁄ ST: FR\nhttps://cinematek.be/2024-10-06-18-00/calle-mayor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241006T190000+0200
+DTEND:20241006T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:9603e374-54b6-48b0-a7df-9fc8abb26a0e
+SUMMARY:Merry Christmas, Mr. Lawrence
+DESCRIPTION:Furyo ⁄ Merry Christmas, Mr. Lawrence\nDirectors: Nagisa Ôshima, UK 1982\nCast: , David Bowie, Tom Conti, Ryuichi Sakamoto\n[UNKNOWN] couleur ⁄ 122' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-06-19-00/merry-christmas-mr-lawrence
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241006T200000+0200
+DTEND:20241006T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:6d1192d7-f6be-4cf5-8001-f8d10336244b
+SUMMARY:Les Inconnus dans la maison
+DESCRIPTION:Onbekenden in huis ⁄ Les Inconnus dans la maison\nDirectors: Henri Decoin, France 1942\nCast: , Raimu, Juliette Faber, Gabrielle Fontan\n[UNKNOWN] NB ⁄ 95' ⁄ ST: NL\nhttps://cinematek.be/2024-10-06-20-00/les-inconnus-dans-la-maison
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241006T211500+0200
+DTEND:20241006T211500+0200
+DTSTAMP:20241018T151213+0200
+UID:1b9c7ea8-43e5-4cb1-8190-6db73b802de7
+SUMMARY:La Machine à refaire la vie
+DESCRIPTION:La Machine à refaire la vie\nDirectors: Julien Duvivier, Henry Lepage, France 1943\nCast: \n[UNKNOWN] NB ⁄ 29' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-10-06-21-15/la-machine-a-refaire-la-vie-untel-pere-et-fils
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241007T180000+0200
+DTEND:20241007T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:431cdf65-64f0-4df9-99c2-0006e36f12e9
+SUMMARY:Liebelei
+DESCRIPTION:Une histoire d’amour ⁄ Liebelei\nDirectors: Max Ophüls, Allemagne 1933\nCast: , Wolfgang Liebeneiner, Carl Esmond, Magda Schneider\n[UNKNOWN] NB ⁄ 87' ⁄ ST: FR\nhttps://cinematek.be/2024-10-07-18-00/liebelei
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241007T190000+0200
+DTEND:20241007T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:15d7f244-722c-4e11-8d9d-4a08490c4a9a
+SUMMARY:Cabaret
+DESCRIPTION:Cabaret\nDirectors: Bob Fosse, USA 1972\nCast: , Liza Minnelli, Michael York, Helmut Griem\n[UNKNOWN] couleur ⁄ 123' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-07-19-00/cabaret
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241007T200000+0200
+DTEND:20241007T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:b485bd38-1801-49fa-93c7-812b2bbdd374
+SUMMARY:Calle Mayor
+DESCRIPTION:Grand’rue ⁄ Calle Mayor\nDirectors: Juan Antonio Bardem, Espagne 1956\nCast: , Betsy Blair, José Suárez, Yves Massard\n[UNKNOWN] NB ⁄ 96' ⁄ ST: FR\nhttps://cinematek.be/2024-10-07-20-00/calle-mayor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241007T211500+0200
+DTEND:20241007T211500+0200
+DTSTAMP:20241018T151213+0200
+UID:801f4e6f-f848-4fd1-9df5-23248e9fa96e
+SUMMARY:Leo the Last
+DESCRIPTION:Léo le dernier ⁄ Leo the Last ⁄ Leo the Last\nDirectors: John Boorman, UK 1970\nCast: , Marcello Mastroianni, Billie Whitelaw, Calvin Lockhart\n[UNKNOWN] couleur ⁄ 102' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-07-21-15/leo-the-last
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241008T180000+0200
+DTEND:20241008T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:e7cb8e88-3890-4adf-b122-b69f9f50bc77
+SUMMARY:Kameradschaft
+DESCRIPTION:La Tragédie de la mine ⁄ Kameradschaft\nDirectors: Georg Wilhelm Pabst, Allemagne, France 1931\nCast: , Alexander Granach, Fritz Kampers, Ernst Busch\n[UNKNOWN] NB ⁄ 87' ⁄ ST: FR\nhttps://cinematek.be/2024-10-08-18-00/kameradschaft
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241008T190000+0200
+DTEND:20241008T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:5771af1a-c43d-456c-a086-34f891de8718
+SUMMARY:Max mon amour
+DESCRIPTION:Max My Love ⁄ Max mon amour\nDirectors: Nagisa Ôshima, France, USA 1986\nCast: , Charlotte Rampling, Anthony Higgins, Victoria Abril\n[UNKNOWN] couleur ⁄ 97' ⁄ ST: NL - FR\nhttps://cinematek.be/2024-10-08-19-00/max-mon-amour
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241008T200000+0200
+DTEND:20241008T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:cdfb1cb5-5196-4473-bbcb-af0660cde6d6
+SUMMARY:The Hunchback of Notre Dame
+DESCRIPTION:Notre-Dame de Paris ⁄ The Hunchback of Notre Dame\nDirectors: Wallace Worsley, USA 1923\nCast: , Lon Chaney Sr., Patsy Ruth Miller, Norman Kerry\n[UNKNOWN] 94' ⁄ TIT: FR ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-10-08-20-00/the-hunchback-of-notre-dame
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241008T211500+0200
+DTEND:20241008T211500+0200
+DTSTAMP:20241018T151213+0200
+UID:86b4826d-0f9d-4513-a69f-c9e8c241cf99
+SUMMARY:Novecento I
+DESCRIPTION:1900 I ⁄ Novecento I\nDirectors: Bernardo Bertolucci, Italie, France, RFA 1976\nCast: , Robert De Niro, Gérard Depardieu, Burt Lancaster, Donald Sutherland\n[UNKNOWN] couleur ⁄ 161' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-08-21-15/novecento
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241009T180000+0200
+DTEND:20241009T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:b881c703-3707-44af-b2e6-f24bcff46438
+SUMMARY:Lachende Erben
+DESCRIPTION:Les Joyeux Héritiers ⁄ Lachende Erben\nDirectors: Max Ophüls, Allemagne 1932\nCast: , Lien Deyers, Heinz Rühmann, Ida Wüst\n[UNKNOWN] NB ⁄ 75' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-09-18-00/lachende-erben
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241009T190000+0200
+DTEND:20241009T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:b3078f62-8ee0-4cbc-b301-31e517e1994f
+SUMMARY:Zire darakhatan zeyton
+DESCRIPTION:Au travers des oliviers ⁄ Through the Olive Trees ⁄ Zire darakhatan zeyton\nDirectors: Abbas Kiarostami, Iran, France 1994\nCast: , Mohamad Ali Keshavarz, Hossein Rezai, Farhad Kheradmand\n[UNKNOWN] couleur ⁄ 102' ⁄ ST: FR\nhttps://cinematek.be/2024-10-09-19-00/zire-darakhatan-zeyton
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241009T200000+0200
+DTEND:20241009T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:e8563262-c4e2-4a4c-a039-fb22ec9e4898
+SUMMARY:Les Inconnus dans la maison
+DESCRIPTION:Onbekenden in huis ⁄ Les Inconnus dans la maison\nDirectors: Henri Decoin, France 1942\nCast: , Raimu, Juliette Faber, Gabrielle Fontan\n[UNKNOWN] NB ⁄ 95' ⁄ ST: NL\nhttps://cinematek.be/2024-10-09-20-00/les-inconnus-dans-la-maison
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241009T211500+0200
+DTEND:20241009T211500+0200
+DTSTAMP:20241018T151213+0200
+UID:a382dd4f-11a3-414f-a2bb-4a1558a01140
+SUMMARY:Novecento II
+DESCRIPTION:1900 II ⁄ Novecento II\nDirectors: Bernardo Bertolucci, Italie, France, RFA 1976\nCast: , Robert De Niro, Gérard Depardieu, Burt Lancaster, Donald Sutherland\n[UNKNOWN] couleur ⁄ 151' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-09-21-15/novecento
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241010T150000+0200
+DTEND:20241010T150000+0200
+DTSTAMP:20241018T151213+0200
+UID:2287d08f-3815-4779-84a5-28797a8f6f10
+SUMMARY:La signora di tutti
+DESCRIPTION:La Femme de tout le monde ⁄ La signora di tutti\nDirectors: Max Ophüls, Italie 1934\nCast: , Isa Miranda, Memo Benassi, Tatyana Pavlova\n[UNKNOWN] NB ⁄ 89' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-10-15-00/la-signora-di-tutti
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241010T180000+0200
+DTEND:20241010T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:006dec42-d964-4bd5-a51a-e54a3de3ef85
+SUMMARY:Stormy Weather
+DESCRIPTION:La Symphonie magique ⁄ Stormy Weather\nDirectors: Andrew Stone, USA 1943\nCast: , Lena Horne, Bill Robinson, Cab Calloway\n[UNKNOWN] NB ⁄ 77' ⁄ V: EN ⁄ ST\nhttps://cinematek.be/2024-10-10-18-00/stormy-weather
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241010T190000+0200
+DTEND:20241010T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:37af4d20-f7c2-4ddb-8227-442433813368
+SUMMARY:Exister ⁄ s’exprimer
+DESCRIPTION:Exister ⁄ s’exprimer\nDirectors: Akram Zaatari, Liban 2001\nCast: \n[UNKNOWN] couleur ⁄ 12' ⁄ ST: FR\nhttps://cinematek.be/2024-10-10-19-00/bestaan-uitdrukking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241010T200000+0200
+DTEND:20241010T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:bff83776-82af-475f-b2d2-8f75c17b040f
+SUMMARY:The Hound of the Baskervilles
+DESCRIPTION:The Hound of the Baskervilles\nDirectors: Maurice Elvey, UK 1921\nCast: , Eille Norwood, Catina Campbell, Rex McDougall\n[UNKNOWN] 75' ⁄ TIT: EN ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-10-10-20-00/the-hound-of-the-baskervilles
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241010T210000+0200
+DTEND:20241010T210000+0200
+DTSTAMP:20241018T151213+0200
+UID:7a45b5fa-dc27-4de0-a056-c7bbabe13f35
+SUMMARY:(Ré)écritures
+DESCRIPTION:(Ré)écritures\nDirectors: Barbara Hammer, USA 1998\nCast: \n[UNKNOWN] NB + couleur ⁄ 55' ⁄ ST: FR\nhttps://cinematek.be/2024-10-10-21-00/herschrijven
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241011T180000+0200
+DTEND:20241011T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:5724a77e-8f04-45b2-ac58-1190cc799b7c
+SUMMARY:Lettre d’amour zoulou
+DESCRIPTION:Zulu Love Letter ⁄ Lettre d’amour zoulou\nDirectors: Ramadan Suleman, France, Allemagne 2004\nCast: , Pamela Nomvete, Sophie Mgcina, Mpumi Malatsi\n[UNKNOWN] couleur ⁄ 86' ⁄ ST: FR\nhttps://cinematek.be/2024-10-11-18-00/lettre-damour-zoulou
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241011T190000+0200
+DTEND:20241011T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:e2aafe92-5398-4ef8-b75c-99cc1659b21d
+SUMMARY:Gohatto
+DESCRIPTION:Tabou ⁄ Gohatto\nDirectors: Nagisa Ôshima, Japon, France, UK 1999\nCast: , Takeshi Kitano, Ryûhei Matsuda, Shinji Takeda\n[UNKNOWN] couleur ⁄ 101' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-11-19-00/gohatto
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241011T200000+0200
+DTEND:20241011T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:36efab0e-c1f2-4404-bb56-46b28a67f21e
+SUMMARY:Liebelei
+DESCRIPTION:Une histoire d’amour ⁄ Liebelei\nDirectors: Max Ophüls, Allemagne 1933\nCast: , Wolfgang Liebeneiner, Carl Esmond, Magda Schneider\n[UNKNOWN] NB ⁄ 87' ⁄ ST: FR\nhttps://cinematek.be/2024-10-11-20-00/liebelei
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241011T210000+0200
+DTEND:20241011T210000+0200
+DTSTAMP:20241018T151213+0200
+UID:191ae71d-fa5f-4a4b-bc02-b6359699ca3f
+SUMMARY:Il Casanova di Federico Fellini
+DESCRIPTION:Le Casanova de Fellini ⁄ Il Casanova di Federico Fellini\nDirectors: Federico Fellini, Italie 1976\nCast: , Donald Sutherland, Tina Aumont, Cicely Browne\n[UNKNOWN] couleur ⁄ 152' ⁄ ST: FR\nhttps://cinematek.be/2024-10-11-21-00/il-casanova-di-federico-fellini
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241012T170000+0200
+DTEND:20241012T170000+0200
+DTSTAMP:20241018T151213+0200
+UID:7123dad2-67e0-45e2-89dd-309c31d77915
+SUMMARY:Wo hu cang long
+DESCRIPTION:Tigre et Dragon ⁄ Crouching Tiger, Hidden Dragon ⁄ Wo hu cang long\nDirectors: Ang Lee, R.A.S. chinoise de Hong Kong, Taïwan, USA 2000\nCast: , Chow Yun-Fat, Michelle Yeoh, Zhang Ziyi, Cheng Pei-Pei\n[UNKNOWN] couleur ⁄ 119' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-12-17-00/wo-hu-cang-long
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241012T180000+0200
+DTEND:20241012T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:46f3c4e8-a4c6-4bee-9bef-4542af3091aa
+SUMMARY:Kameradschaft
+DESCRIPTION:La Tragédie de la mine ⁄ Kameradschaft\nDirectors: Georg Wilhelm Pabst, Allemagne, France 1931\nCast: , Alexander Granach, Fritz Kampers, Ernst Busch\n[UNKNOWN] NB ⁄ 87' ⁄ ST: FR\nhttps://cinematek.be/2024-10-12-18-00/kameradschaft
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241012T191500+0200
+DTEND:20241012T191500+0200
+DTSTAMP:20241018T151213+0200
+UID:4b4ec74d-29af-4f4f-a255-b9e02caa5190
+SUMMARY:La signora di tutti
+DESCRIPTION:La Femme de tout le monde ⁄ La signora di tutti\nDirectors: Max Ophüls, Italie 1934\nCast: , Isa Miranda, Memo Benassi, Tatyana Pavlova\n[UNKNOWN] NB ⁄ 89' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-12-19-15/la-signora-di-tutti
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241012T200000+0200
+DTEND:20241012T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:536cfa32-a40c-4aa9-8806-00fcf8f3d0e1
+SUMMARY:The Phantom of the Opera
+DESCRIPTION:The Phantom of the Opera\nDirectors: Rupert Julian, USA 1925\nCast: , Lon Chaney Sr., Mary Philbin, Norman Kerry\n[UNKNOWN] NB + couleur ⁄ 92' ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-10-12-20-00/the-phantom-of-the-opera
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241012T211500+0200
+DTEND:20241012T211500+0200
+DTSTAMP:20241018T151213+0200
+UID:e161a50c-f56e-43d1-82ef-2f5d339e81d1
+SUMMARY:Invasion of the Body Snatchers
+DESCRIPTION:L’Invasion des profanateurs ⁄ Invasion of the Body Snatchers\nDirectors: Philip Kaufman, USA 1978\nCast: , Donald Sutherland, Brooke Adams, Jeff Goldblum\n[UNKNOWN] couleur ⁄ 110' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-12-21-15/invasion-of-the-body-snatchers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241013T150000+0200
+DTEND:20241013T150000+0200
+DTSTAMP:20241018T151213+0200
+UID:e8b14a31-193a-4e34-9efb-b25085dad77f
+SUMMARY:The Goonies
+DESCRIPTION:Les Goonies ⁄ The Goonies\nDirectors: Richard D. Donner, USA 1985\nCast: , Sean Astin, Josh Brolin, Jeff Cohen\n[UNKNOWN] couleur ⁄ 113' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-13-15-00/the-goonies
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241013T173000+0200
+DTEND:20241013T173000+0200
+DTSTAMP:20241018T151213+0200
+UID:db0b8410-8dfb-4464-9d1b-dcdffe50b824
+SUMMARY:Simón del desierto
+DESCRIPTION:Simon du désert ⁄ Simón del desierto\nDirectors: Luis Buñuel, Mexique 1965\nCast: , Claudio Brook, Silvia Pinal, Enrique Álvarez Félix\n[UNKNOWN] NB ⁄ 44' ⁄ ST: FR\nhttps://cinematek.be/2024-10-13-17-30/simon-del-desierto
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241013T180000+0200
+DTEND:20241013T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:8f833706-40d5-4581-8a6b-f11b93097907
+SUMMARY:Stormy Weather
+DESCRIPTION:La Symphonie magique ⁄ Stormy Weather\nDirectors: Andrew Stone, USA 1943\nCast: , Lena Horne, Bill Robinson, Cab Calloway\n[UNKNOWN] NB ⁄ 77' ⁄ V: EN ⁄ ST\nhttps://cinematek.be/2024-10-13-18-00/stormy-weather
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241013T190000+0200
+DTEND:20241013T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:1735f1cc-e7a8-4416-b333-074bb0d868e8
+SUMMARY:Cross of Iron
+DESCRIPTION:Croix de fer ⁄ Cross of Iron\nDirectors: Sam Peckinpah, UK, RFA 1977\nCast: , James Coburn, Maximilian Schell, James Mason\n[UNKNOWN] 130' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-13-19-00/cross-of-iron
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241013T200000+0200
+DTEND:20241013T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:18824e0d-5f36-4a1f-aa1b-6572bc834465
+SUMMARY:Ordinary People
+DESCRIPTION:Des gens comme les autres ⁄ Ordinary People\nDirectors: Robert Redford, USA 1980\nCast: , Donald Sutherland, Mary Tyler Moore, Judd Hirsch\n[UNKNOWN] couleur ⁄ 123' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-13-20-00/ordinary-people
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241013T213000+0200
+DTEND:20241013T213000+0200
+DTSTAMP:20241018T151213+0200
+UID:78cbd6f4-eedb-4f3f-a673-1b5ebe17df81
+SUMMARY:Cabaret
+DESCRIPTION:Cabaret\nDirectors: Bob Fosse, USA 1972\nCast: , Liza Minnelli, Michael York, Helmut Griem\n[UNKNOWN] couleur ⁄ 123' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-13-21-30/cabaret
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241014T180000+0200
+DTEND:20241014T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:01d34195-d215-402c-9fc1-e5f903889283
+SUMMARY:Berliner Ballade
+DESCRIPTION:Ballade berlinoise ⁄ Ballad of Berlin ⁄ Berliner Ballade\nDirectors: Robert A. Stemmle, Allemagne 1948\nCast: , Gert Fröbe, Tatjana Sais, Ute Sielisch\n[UNKNOWN] NB ⁄ 85' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-14-18-00/berliner-ballade
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241014T190000+0200
+DTEND:20241014T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:eb939c30-6838-41e8-9f69-31a027153c75
+SUMMARY:Terminal Sud
+DESCRIPTION:South Terminal ⁄ Terminal Sud\nDirectors: Rabah Ameur-Zaïmeche, France, Algérie 2019\nCast: , Ramzy Bedia, Amel Brahim-Djelloul, Djemel Barek\n[UNKNOWN] couleur ⁄ 96' ⁄ ST: EN\nhttps://cinematek.be/2024-10-14-19-00/terminal-sud
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241014T200000+0200
+DTEND:20241014T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:552c8f1f-db77-4511-af23-5f62660330b4
+SUMMARY:Gegen die Wand
+DESCRIPTION:Head-On ⁄ Gegen die Wand\nDirectors: Fatih Akin, Allemagne, Turquie 2003\nCast: , Birol Ünel, Sibel Kekilli, Güven Kiraç\n[UNKNOWN] couleur ⁄ 121' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-14-20-00/gegen-die-wand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241014T210000+0200
+DTEND:20241014T210000+0200
+DTSTAMP:20241018T151213+0200
+UID:d76a7d11-261b-4c7b-b691-4c726740a6c9
+SUMMARY:Eye of the Needle
+DESCRIPTION:L’Arme à l’œil ⁄ Eye of the Needle\nDirectors: Richard Marquand, UK, USA 1981\nCast: , Donald Sutherland, Stephen MacKenna, Kate Nelligan\n[UNKNOWN] couleur ⁄ 111' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-14-21-00/eye-of-the-needle
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241015T180000+0200
+DTEND:20241015T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:98d7ba15-c8ad-4b7c-89c7-947bb5e30cde
+SUMMARY:Faust - Eine deutsche Volkssage
+DESCRIPTION:Faust - Eine deutsche Volkssage\nDirectors: Friedrich Wilhelm Murnau, Allemagne 1926\nCast: , Gösta Ekman, Emil Jannings, Camilla Horn\n[UNKNOWN] 118' ⁄ TIT: DE ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-10-15-18-00/faust-eine-deutsche-volkssage
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241015T190000+0200
+DTEND:20241015T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:c58972de-f4e7-4a12-b20a-5e071a731256
+SUMMARY:Invasion of the Body Snatchers
+DESCRIPTION:L’Invasion des profanateurs ⁄ Invasion of the Body Snatchers\nDirectors: Philip Kaufman, USA 1978\nCast: , Donald Sutherland, Brooke Adams, Jeff Goldblum\n[UNKNOWN] couleur ⁄ 110' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-15-19-00/invasion-of-the-body-snatchers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241015T201500+0200
+DTEND:20241015T201500+0200
+DTSTAMP:20241018T151213+0200
+UID:fbf958f4-811d-45d7-a76c-347955ea07f2
+SUMMARY:Calle Mayor
+DESCRIPTION:Grand’rue ⁄ Calle Mayor\nDirectors: Juan Antonio Bardem, Espagne 1956\nCast: , Betsy Blair, José Suárez, Yves Massard\n[UNKNOWN] NB ⁄ 96' ⁄ ST: FR\nhttps://cinematek.be/2024-10-15-20-15/calle-mayor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241015T211500+0200
+DTEND:20241015T211500+0200
+DTSTAMP:20241018T151213+0200
+UID:862da896-927b-40f9-8919-d1d867bb43bb
+SUMMARY:Cabaret
+DESCRIPTION:Cabaret\nDirectors: Bob Fosse, USA 1972\nCast: , Liza Minnelli, Michael York, Helmut Griem\n[UNKNOWN] couleur ⁄ 123' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-15-21-15/cabaret
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241016T180000+0200
+DTEND:20241016T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:c1bd3de6-231f-4930-9daf-aed12a2541d5
+SUMMARY:Komedie om geld
+DESCRIPTION:Comédie de l’argent ⁄ Komedie om geld\nDirectors: Max Ophüls, Pays-Bas 1936\nCast: , Herman Bouber, Rini Otte, Matthieu van Eysden\n[UNKNOWN] NB ⁄ 81' ⁄ ST: FR\nhttps://cinematek.be/2024-10-16-18-00/komedie-om-geld
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241016T190000+0200
+DTEND:20241016T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:186fba7d-d4b8-457e-92ef-60a1453e3ff3
+SUMMARY:Meeuwen sterven in de haven
+DESCRIPTION:Les mouettes meurent au port ⁄ Meeuwen sterven in de haven\nDirectors: Rik Kuijpers, Ivo Michiels, Roland Verhavert, Belgique 1954\nCast: , Julien Schoenaerts, Tine Balder, Dora Van Der Groen\n[UNKNOWN] NB ⁄ 85' ⁄ ST: FR\nhttps://cinematek.be/2024-10-16-19-00/meeuwen-sterven-in-de-haven
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241016T200000+0200
+DTEND:20241016T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:4919233b-6c2c-4125-a337-9bf3edb3e013
+SUMMARY:Ordinary People
+DESCRIPTION:Des gens comme les autres ⁄ Ordinary People\nDirectors: Robert Redford, USA 1980\nCast: , Donald Sutherland, Mary Tyler Moore, Judd Hirsch\n[UNKNOWN] couleur ⁄ 123' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-16-20-00/ordinary-people
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241016T210000+0200
+DTEND:20241016T210000+0200
+DTSTAMP:20241018T151213+0200
+UID:914ed01d-9d1a-42b3-a1b1-082f66875584
+SUMMARY:Gunfight at the O.K. Corral
+DESCRIPTION:Règlements de comptes à O.K. Corral ⁄ Gunfight at the O.K. Corral\nDirectors: John Sturges, USA 1956\nCast: , Burt Lancaster, Kirk Douglas, Rhonda Fleming\n[UNKNOWN] couleur ⁄ 121' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-16-21-00/gunfight-at-the-o-k-corral
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241017T150000+0200
+DTEND:20241017T150000+0200
+DTSTAMP:20241018T151213+0200
+UID:14a137bc-b9de-4917-96fa-53e37d45fdac
+SUMMARY:Il Casanova di Federico Fellini
+DESCRIPTION:Le Casanova de Fellini ⁄ Il Casanova di Federico Fellini\nDirectors: Federico Fellini, Italie 1976\nCast: , Donald Sutherland, Tina Aumont, Cicely Browne\n[UNKNOWN] couleur ⁄ 152' ⁄ ST: FR\nhttps://cinematek.be/2024-10-17-15-00/il-casanova-di-federico-fellini
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241017T180000+0200
+DTEND:20241017T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:8b0c404e-6658-45f9-bc9a-fe319c15cd3f
+SUMMARY:The Phantom of the Opera
+DESCRIPTION:The Phantom of the Opera\nDirectors: Rupert Julian, USA 1925\nCast: , Lon Chaney Sr., Mary Philbin, Norman Kerry\n[UNKNOWN] NB + couleur ⁄ 92' ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-10-17-18-00/the-phantom-of-the-opera
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241017T190000+0200
+DTEND:20241017T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:3956040d-a43e-462b-a7d8-5445b72a9a90
+SUMMARY:Le Gang des Bois du Temple
+DESCRIPTION:The Temple Woods Gang ⁄ Le Gang des Bois du Temple\nDirectors: Rabah Ameur-Zaïmeche, France 2022\nCast: , Régis Laroche, Philippe Petit, Marie Loustalot\n[UNKNOWN] couleur ⁄ 114' ⁄ ST: EN\nhttps://cinematek.be/2024-10-17-19-00/le-gang-des-bois-du-temple
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241017T200000+0200
+DTEND:20241017T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:6bf44d4a-73a4-40a5-8f11-214f8de89280
+SUMMARY:Stormy Weather
+DESCRIPTION:La Symphonie magique ⁄ Stormy Weather\nDirectors: Andrew Stone, USA 1943\nCast: , Lena Horne, Bill Robinson, Cab Calloway\n[UNKNOWN] NB ⁄ 77' ⁄ V: EN ⁄ ST\nhttps://cinematek.be/2024-10-17-20-00/stormy-weather
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241018T180000+0200
+DTEND:20241018T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:44b09457-dba3-4e71-837c-fb803d1e0806
+SUMMARY:Ordinary People
+DESCRIPTION:Des gens comme les autres ⁄ Ordinary People\nDirectors: Robert Redford, USA 1980\nCast: , Donald Sutherland, Mary Tyler Moore, Judd Hirsch\n[UNKNOWN] couleur ⁄ 123' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-18-18-00/ordinary-people
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241018T190000+0200
+DTEND:20241018T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:c2fa4323-e96b-42a3-a389-479ea8b6c1fe
+SUMMARY:De vakantie van de filmer
+DESCRIPTION:Les Vacances du cinéaste / De vakantie van de filmer\nDirectors: Johan van der Keuken, Pays-Bas 1974\nCast: \n[UNKNOWN] couleur ⁄ 39' ⁄ ST: FR\nhttps://cinematek.be/2024-10-18-19-00/1-de-vakantie-van-de-filmer-de-tijd
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241018T201500+0200
+DTEND:20241018T201500+0200
+DTSTAMP:20241018T151213+0200
+UID:c4972eee-54db-4ecf-af3b-5f0153819123
+SUMMARY:Kameradschaft
+DESCRIPTION:La Tragédie de la mine ⁄ Kameradschaft\nDirectors: Georg Wilhelm Pabst, Allemagne, France 1931\nCast: , Alexander Granach, Fritz Kampers, Ernst Busch\n[UNKNOWN] NB ⁄ 87' ⁄ ST: FR\nhttps://cinematek.be/2024-10-18-20-15/kameradschaft
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241019T190100+0200
+DTEND:20241019T190100+0200
+DTSTAMP:20241018T151213+0200
+UID:6fe11e72-4c05-4b0b-be27-98a2cddc3375
+SUMMARY:Museum Night Fever
+DESCRIPTION:Museum Night Fever\nDirectors: \nCast: \n[UNKNOWN] \nhttps://cinematek.be/2024-10-19-19-00/museum-night-fever
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241020T150000+0200
+DTEND:20241020T150000+0200
+DTSTAMP:20241018T151213+0200
+UID:f51ab302-b6f5-4445-8aa5-d20e7f8ea121
+SUMMARY:Monkey Business
+DESCRIPTION:Chérie, je me sens rajeunir ⁄ De knuppel in het apenhok ⁄ Monkey Business\nDirectors: Howard Hawks, USA 1952\nCast: , Cary Grant, Ginger Rogers, Marilyn Monroe\n[UNKNOWN] NB ⁄ 96' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-20-15-00/monkey-business
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241020T170000+0200
+DTEND:20241020T170000+0200
+DTSTAMP:20241018T151213+0200
+UID:f450552d-e8fd-47d5-a599-0a77ca2cea0b
+SUMMARY:Mr. Freedom
+DESCRIPTION:Mr. Freedom\nDirectors: William Klein, France 1968\nCast: , John Abbey, Delphine Seyrig, Donald Pleasence, Serge Gainsbourg\n[UNKNOWN] couleur ⁄ 91' ⁄ V: EN ⁄ ST\nhttps://cinematek.be/2024-10-20-17-00/mr-freedom
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241020T180000+0200
+DTEND:20241020T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:d5386dce-e7d1-4d1d-83f3-7970e332b2f6
+SUMMARY:Berliner Ballade
+DESCRIPTION:Ballade berlinoise ⁄ Ballad of Berlin ⁄ Berliner Ballade\nDirectors: Robert A. Stemmle, Allemagne 1948\nCast: , Gert Fröbe, Tatjana Sais, Ute Sielisch\n[UNKNOWN] NB ⁄ 85' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-20-18-00/berliner-ballade
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241020T190000+0200
+DTEND:20241020T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:84eb3fb3-8b5c-44ca-9dfd-65f2e3ed1ecd
+SUMMARY:Viskningar och rop
+DESCRIPTION:Cris et Chuchotements ⁄ Cries and Whispers ⁄ Viskningar och rop\nDirectors: Ingmar Bergman, Suède 1972\nCast: , Harriet Andersson, Liv Ullmann, Ingrid Thulin, Kari Sylwan\n[UNKNOWN] couleur ⁄ 91' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-20-19-00/viskningar-och-rop
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241020T200000+0200
+DTEND:20241020T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:0146bc92-e345-499f-ab19-74b8bfafde6f
+SUMMARY:Faust - Eine deutsche Volkssage
+DESCRIPTION:Faust - Eine deutsche Volkssage\nDirectors: Friedrich Wilhelm Murnau, Allemagne 1926\nCast: , Gösta Ekman, Emil Jannings, Camilla Horn\n[UNKNOWN] 118' ⁄ TIT: DE ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-10-20-20-00/faust-eine-deutsche-volkssage
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241020T210000+0200
+DTEND:20241020T210000+0200
+DTSTAMP:20241018T151213+0200
+UID:67a714ab-b0fb-4491-a183-4b03ed572489
+SUMMARY:Revolution
+DESCRIPTION:Révolution ⁄ Revolution\nDirectors: Hugh Hudson, UK, Norvège 1985\nCast: , Al Pacino, Donald Sutherland, Nastassja Kinski\n[UNKNOWN] couleur ⁄ 123' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-20-21-00/revolution
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241021T180000+0200
+DTEND:20241021T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:37375a3b-d2bf-4e77-80bf-01cfbb7313a8
+SUMMARY:Yoshiwara
+DESCRIPTION:Yoshiwara\nDirectors: Max Ophüls, France 1937\nCast: , Pierre Richard-Willm, Sessue Hayakawa, Michiko Tanaka\n[UNKNOWN] NB ⁄ 80' ⁄ ST: DA\nhttps://cinematek.be/2024-10-21-18-00/yoshiwara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241021T190000+0200
+DTEND:20241021T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:f385a7bb-b196-4f06-9061-eb276af603e0
+SUMMARY:La Coquille et le clergyman
+DESCRIPTION:La Coquille et le clergyman\nDirectors: Germaine Dulac, France 1928\nCast: \n[UNKNOWN] 37' ⁄ TIT: FR ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-10-21-19-00/germaine-dulac-maya-deren-bunuel
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241021T200000+0200
+DTEND:20241021T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:cdb88430-d47b-4c5e-842b-5a093ee725c8
+SUMMARY:Lock Up
+DESCRIPTION:Haute sécurité ⁄ Lock Up\nDirectors: John Flynn, USA 1989\nCast: , Sylvester Stallone, Donald Sutherland, John Amos\n[UNKNOWN] couleur ⁄ 108' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-21-20-00/lock-up
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241021T210000+0200
+DTEND:20241021T210000+0200
+DTSTAMP:20241018T151213+0200
+UID:34ffd386-596e-4671-b364-e5074ec5a7df
+SUMMARY:Simón del desierto
+DESCRIPTION:Simon du désert ⁄ Simón del desierto\nDirectors: Luis Buñuel, Mexique 1965\nCast: , Claudio Brook, Silvia Pinal, Enrique Álvarez Félix\n[UNKNOWN] NB ⁄ 44' ⁄ ST: FR\nhttps://cinematek.be/2024-10-21-21-00/simon-del-desierto
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241022T180000+0200
+DTEND:20241022T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:5dd58729-f5a1-4356-b678-a547e7f8a7d9
+SUMMARY:Der Student von Prag
+DESCRIPTION:L’Étudiant de Prague ⁄ Der Student von Prag\nDirectors: Henrik Galeen, Allemagne 1926\nCast: , Conrad Veidt, Elizza La Porta, Fritz Alberti\n[UNKNOWN] 121' ⁄ TIT: DE ⁄ ST: FR - NL ⁄ PIANO\nhttps://cinematek.be/2024-10-22-18-00/der-student-von-prag
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241022T190000+0200
+DTEND:20241022T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:f2cc60d1-1d5b-4a8c-86ee-2799182e23ef
+SUMMARY:Wo hu cang long
+DESCRIPTION:Tigre et Dragon ⁄ Crouching Tiger, Hidden Dragon ⁄ Wo hu cang long\nDirectors: Ang Lee, R.A.S. chinoise de Hong Kong, Taïwan, USA 2000\nCast: , Chow Yun-Fat, Michelle Yeoh, Zhang Ziyi, Cheng Pei-Pei\n[UNKNOWN] couleur ⁄ 119' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-22-19-00/wo-hu-cang-long
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241022T201500+0200
+DTEND:20241022T201500+0200
+DTSTAMP:20241018T151213+0200
+UID:d0d0e68c-2900-4045-b50c-1eccc6beb8e0
+SUMMARY:A Dry White Season
+DESCRIPTION:Une saison blanche et sèche ⁄ A Dry White Season\nDirectors: Euzhan Palcy, USA 1989\nCast: , Donald Sutherland, Janet Suzman, Zakes Mokae\n[UNKNOWN] couleur ⁄ 106' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-22-20-15/a-dry-white-season
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241022T211500+0200
+DTEND:20241022T211500+0200
+DTSTAMP:20241018T151213+0200
+UID:b4a709b8-8f69-4142-a906-16e9884b2a5e
+SUMMARY:Mr. Freedom
+DESCRIPTION:Mr. Freedom\nDirectors: William Klein, France 1968\nCast: , John Abbey, Delphine Seyrig, Donald Pleasence, Serge Gainsbourg\n[UNKNOWN] couleur ⁄ 91' ⁄ V: EN ⁄ ST\nhttps://cinematek.be/2024-10-22-21-15/mr-freedom
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241023T180000+0200
+DTEND:20241023T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:28719a18-26b7-43ba-aac6-86771a287fba
+SUMMARY:Ordinary People
+DESCRIPTION:Des gens comme les autres ⁄ Ordinary People\nDirectors: Robert Redford, USA 1980\nCast: , Donald Sutherland, Mary Tyler Moore, Judd Hirsch\n[UNKNOWN] couleur ⁄ 123' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-23-18-00/ordinary-people
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241023T190000+0200
+DTEND:20241023T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:77fcc813-07f6-4afb-9e5b-754b5465cb0b
+SUMMARY:Simón del desierto
+DESCRIPTION:Simon du désert ⁄ Simón del desierto\nDirectors: Luis Buñuel, Mexique 1965\nCast: , Claudio Brook, Silvia Pinal, Enrique Álvarez Félix\n[UNKNOWN] NB ⁄ 44' ⁄ ST: FR\nhttps://cinematek.be/2024-10-23-19-00/simon-del-desierto
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241023T201500+0200
+DTEND:20241023T201500+0200
+DTSTAMP:20241018T151213+0200
+UID:12bef874-9059-4247-8a52-b207bed6b9ba
+SUMMARY:Komedie om geld
+DESCRIPTION:Comédie de l’argent ⁄ Komedie om geld\nDirectors: Max Ophüls, Pays-Bas 1936\nCast: , Herman Bouber, Rini Otte, Matthieu van Eysden\n[UNKNOWN] NB ⁄ 81' ⁄ ST: FR\nhttps://cinematek.be/2024-10-23-20-15/komedie-om-geld
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241023T210000+0200
+DTEND:20241023T210000+0200
+DTSTAMP:20241018T151213+0200
+UID:dc692802-197f-41ba-96a8-bb31e60a8d80
+SUMMARY:Paris à l’aube
+DESCRIPTION:Paris à l’aube\nDirectors: Johan van der Keuken, James Blue, Pays-Bas 1957\nCast: \n[UNKNOWN] couleur ⁄ 10' ⁄ ST\nhttps://cinematek.be/2024-10-23-21-00/2-vroeg-werk-stad-in-beeld
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241024T150000+0200
+DTEND:20241024T150000+0200
+DTSTAMP:20241018T151213+0200
+UID:f4c30f96-afae-441f-9971-b6dc7a8e6884
+SUMMARY:Gunfight at the O.K. Corral
+DESCRIPTION:Règlements de comptes à O.K. Corral ⁄ Gunfight at the O.K. Corral\nDirectors: John Sturges, USA 1956\nCast: , Burt Lancaster, Kirk Douglas, Rhonda Fleming\n[UNKNOWN] couleur ⁄ 121' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-24-15-00/gunfight-at-the-o-k-corral
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241024T180000+0200
+DTEND:20241024T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:63e0c1f1-9cb2-48a7-bdb6-b5f7d5d12628
+SUMMARY:Kurutta ippêji
+DESCRIPTION:Une page folle ⁄ A Page of Madness ⁄ Kurutta ippêji\nDirectors: Teinosuke Kinugasa, Japon 1926\nCast: , Masuo Inoue, Ayako Iijima, Yoshie Nakagawa\n[UNKNOWN] 78' ⁄ TIT: — ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-10-24-18-00/a-page-of-madness
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241024T190000+0200
+DTEND:20241024T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:426e5601-a851-40d3-b29e-cab345f90145
+SUMMARY:Fukushû suru wa ware ni ari
+DESCRIPTION:La Vengeance est à moi ⁄ Vengeance is Mine ⁄ Fukushû suru wa ware ni ari\nDirectors: Shōhei Imamura, Japon 1979\nCast: , Ken Ogata, Rentarô Mikuni, Chôchô Miyako\n[UNKNOWN] couleur ⁄ 140' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-24-19-00/fukushu-suru-wa-ware-ni-ari
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241024T200000+0200
+DTEND:20241024T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:40c6d36f-b034-459d-a497-01a74b12c24a
+SUMMARY:Un mauvais garçon
+DESCRIPTION:Un mauvais garçon\nDirectors: Jean Boyer, France 1936\nCast: , Danielle Darrieux, Marguerite Templey, Madeleine Suffel\n[UNKNOWN] 96' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-10-24-20-00/un-mauvais-garcon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241024T213000+0200
+DTEND:20241024T213000+0200
+DTSTAMP:20241018T151213+0200
+UID:f96def5e-2858-4cf6-97e6-47e71d83d64f
+SUMMARY:Dracula
+DESCRIPTION:Dracula\nDirectors: Tod Browning, USA 1931\nCast: , Bela Lugosi, Helen Chandler, David Manners\n[UNKNOWN] NB ⁄ 74' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-24-21-30/dracula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241025T180000+0200
+DTEND:20241025T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:03818809-5723-427f-b312-7456034c1cd2
+SUMMARY:Lettre d’amour zoulou
+DESCRIPTION:Zulu Love Letter ⁄ Lettre d’amour zoulou\nDirectors: Ramadan Suleman, France, Allemagne 2004\nCast: , Pamela Nomvete, Sophie Mgcina, Mpumi Malatsi\n[UNKNOWN] couleur ⁄ 86' ⁄ ST: FR\nhttps://cinematek.be/2024-10-25-18-00/lettre-damour-zoulou
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241025T190000+0200
+DTEND:20241025T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:0963cc01-eec3-40d0-9406-b14a22760467
+SUMMARY:Dracula
+DESCRIPTION:Le Cauchemar de Dracula ⁄ Horror of Dracula ⁄ Dracula\nDirectors: Terence Fisher, UK 1958\nCast: , Peter Cushing, Christopher Lee, Michael Gough\n[UNKNOWN] couleur ⁄ 79' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-25-19-00/dracula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241025T200000+0200
+DTEND:20241025T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:b88b31ba-b582-4ae4-9bcc-c743d26b1463
+SUMMARY:Lock Up
+DESCRIPTION:Haute sécurité ⁄ Lock Up\nDirectors: John Flynn, USA 1989\nCast: , Sylvester Stallone, Donald Sutherland, John Amos\n[UNKNOWN] couleur ⁄ 108' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-25-20-00/lock-up
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241025T210000+0200
+DTEND:20241025T210000+0200
+DTSTAMP:20241018T151213+0200
+UID:5ded3f52-3e6d-49c0-a1ad-e20017eb56cb
+SUMMARY:The Legend Of The 7 Golden Vampires
+DESCRIPTION:La Légende des sept vampires d’or ⁄ The Legend Of The 7 Golden Vampires\nDirectors: Roy Ward Baker, UK, R.A.S. chinoise de Hong Kong 1974\nCast: , Peter Cushing, Julie Ege, David Chiang\n[UNKNOWN] couleur ⁄ 87' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-25-21-00/the-legend-of-the-7-golden-vampires
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241026T170000+0200
+DTEND:20241026T170000+0200
+DTSTAMP:20241018T151213+0200
+UID:b7eb44f3-e0cf-4af5-a59a-35778c29d69e
+SUMMARY:Blow Out
+DESCRIPTION:Blow Out\nDirectors: Brian De Palma, USA 1981\nCast: , John Travolta, Nancy Allen, John Lithgow\n[UNKNOWN] couleur ⁄ 107' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-26-17-00/blow-out
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241026T180000+0200
+DTEND:20241026T180000+0200
+DTSTAMP:20241018T151213+0200
+UID:437a79a5-f33c-4d06-ae68-2fc87834eb33
+SUMMARY:A Dry White Season
+DESCRIPTION:Une saison blanche et sèche ⁄ A Dry White Season\nDirectors: Euzhan Palcy, USA 1989\nCast: , Donald Sutherland, Janet Suzman, Zakes Mokae\n[UNKNOWN] couleur ⁄ 106' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-26-18-00/a-dry-white-season
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241026T190000+0200
+DTEND:20241026T190000+0200
+DTSTAMP:20241018T151213+0200
+UID:6a79f5e5-5ece-4272-b935-7df875363fae
+SUMMARY:Gozaresh
+DESCRIPTION:The Report ⁄ Gozaresh\nDirectors: Abbas Kiarostami, Iran\nCast: , Shohreh Aghdashloo, Kurosh Afsharpanah\n[UNKNOWN] couleur ⁄ 112' ⁄ ST: EN\nhttps://cinematek.be/2024-10-26-19-00/the-report
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241026T200000+0200
+DTEND:20241026T200000+0200
+DTSTAMP:20241018T151213+0200
+UID:235c6c6c-2d3d-4f00-8743-ef5a981fbfcd
+SUMMARY:Der Student von Prag
+DESCRIPTION:L’Étudiant de Prague ⁄ Der Student von Prag\nDirectors: Henrik Galeen, Allemagne 1926\nCast: , Conrad Veidt, Elizza La Porta, Fritz Alberti\n[UNKNOWN] 121' ⁄ TIT: DE ⁄ ST: FR - NL ⁄ PIANO\nhttps://cinematek.be/2024-10-26-20-00/der-student-von-prag
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241026T213000+0200
+DTEND:20241026T213000+0200
+DTSTAMP:20241018T151213+0200
+UID:e3ce80c7-992f-4496-97d4-30c5d8fce066
+SUMMARY:Close Up on Abbas Kiarostami
+DESCRIPTION:Close Up on Abbas Kiarostami\nDirectors: \nCast: \n[UNKNOWN] Cinemaximiliaan ⁄ 90' ⁄ EN ⁄   9\nhttps://cinematek.be/2024-10-26-21-30/2024-10-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241027T103000+0100
+DTEND:20241027T103000+0100
+DTSTAMP:20241018T151213+0200
+UID:3e571abe-4715-4dbd-acf7-e7723206857d
+SUMMARY:One Week
+DESCRIPTION:One Week\nDirectors: Buster Keaton, Eddie Cline, USA 1920\nCast: \n[UNKNOWN] 24' ⁄ TIT: EN ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-10-27-10-30/2024-filemon-compilatie
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241027T113000+0100
+DTEND:20241027T113000+0100
+DTSTAMP:20241018T151213+0200
+UID:3e2450eb-db9d-4971-b74a-c1d04bbc3c9e
+SUMMARY:Théâtre d’ombres
+DESCRIPTION:Théâtre d’ombres\nDirectors: \nCast: \n[UNKNOWN] ASBL Dessin Allumé ⁄ 60' ⁄ FR ⁄   15 ⁄   60 ⁄ €1\nhttps://cinematek.be/2024-10-27-11-30/atelier-theatre-dombres-5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241027T140000+0100
+DTEND:20241027T140000+0100
+DTSTAMP:20241018T151213+0200
+UID:a9e7ca9f-8ffe-456a-8742-d8be8a909fab
+SUMMARY:Fifi Brindacier
+DESCRIPTION:Fifi Brindacier\nDirectors: Clive Smith, Suède, Canada, Danemark, Allemagne 1997\nCast: \n[UNKNOWN] couleur ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-10-27-14-00/pippi-longstocking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241027T153000+0100
+DTEND:20241027T153000+0100
+DTSTAMP:20241018T151213+0200
+UID:45972a83-e241-4da8-a3b6-bcab59d987ac
+SUMMARY:Théâtre d’ombres
+DESCRIPTION:Théâtre d’ombres\nDirectors: \nCast: \n[UNKNOWN] 60' ⁄ FR ⁄   15 ⁄   60 ⁄ €1\nhttps://cinematek.be/2024-10-27-15-30/2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241027T170000+0100
+DTEND:20241027T170000+0100
+DTSTAMP:20241018T151213+0200
+UID:ebee5839-0c7c-4d40-8c28-86c86cfdc569
+SUMMARY:Even stilte
+DESCRIPTION:Un moment de silence / Even stilte\nDirectors: Johan van der Keuken, Pays-Bas 1963\nCast: \n[UNKNOWN] couleur ⁄ 10' ⁄ ST\nhttps://cinematek.be/2024-10-27-17-00/3-vroeg-werk-gedeeltelijke-herhaling-amsterdam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241027T180000+0100
+DTEND:20241027T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:076bb3d5-e2d5-4bbc-8a81-6b83091e698e
+SUMMARY:Stormy Weather
+DESCRIPTION:La Symphonie magique ⁄ Stormy Weather\nDirectors: Andrew Stone, USA 1943\nCast: , Lena Horne, Bill Robinson, Cab Calloway\n[UNKNOWN] NB ⁄ 77' ⁄ V: EN ⁄ ST\nhttps://cinematek.be/2024-10-27-18-00/stormy-weather
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241027T190000+0100
+DTEND:20241027T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:b3ac4ed6-9b95-4ad9-846d-796e044c5150
+SUMMARY:JFK
+DESCRIPTION:JFK\nDirectors: Oliver Stone, USA, France 1991\nCast: , Kevin Costner, Gary Oldman, Jack Lemmon, Donald Sutherland\n[UNKNOWN] 188' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-27-19-00/jfk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241027T200000+0100
+DTEND:20241027T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:869dfedf-3d5e-4724-851e-6bf8abafbd20
+SUMMARY:Yoshiwara
+DESCRIPTION:Yoshiwara\nDirectors: Max Ophüls, France 1937\nCast: , Pierre Richard-Willm, Sessue Hayakawa, Michiko Tanaka\n[UNKNOWN] NB ⁄ 80' ⁄ ST: DA\nhttps://cinematek.be/2024-10-27-20-00/yoshiwara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241028T180000+0100
+DTEND:20241028T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:845ed622-1feb-45c2-b752-26ebcf1a0a42
+SUMMARY:Le Roman de Werther
+DESCRIPTION:Le Roman de Werther\nDirectors: Max Ophüls, France 1938\nCast: , Pierre Richard-Willm, Annie Vernay, Jean Galland\n[UNKNOWN] NB ⁄ 81' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-10-28-18-00/le-roman-de-werther
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241028T190000+0100
+DTEND:20241028T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:15bf175f-142b-4a13-9618-24412ed3328e
+SUMMARY:Cerro Torre: Schrei aus Stein
+DESCRIPTION:Cerro Torre, le cri de la roche ⁄ Cerro Torre: Schrei aus Stein\nDirectors: Werner Herzog, Allemagne, France, Canada, Italie, Argentine 1991\nCast: , Vittorio Mezzogiorno, Stefan Glowacz, Donald Sutherland\n[UNKNOWN] couleur ⁄ 95' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-28-19-00/cerro-torre-schrei-aus-stein
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241028T200000+0100
+DTEND:20241028T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:1aaa85fb-267f-4bec-9592-95a1f6891d9a
+SUMMARY:La notte di San Lorenzo
+DESCRIPTION:La Nuit de San Lorenzo ⁄ The Night of San Lorenzo ⁄ La notte di San Lorenzo\nDirectors: Paolo Taviani, Vittorio Taviani, Italie 1982\nCast: , Omero Antonutti, Margarita Lozano, Claudio Bigagli\n[UNKNOWN] couleur ⁄ 107' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-28-20-00/la-notte-di-san-lorenzo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241028T210000+0100
+DTEND:20241028T210000+0100
+DTSTAMP:20241018T151213+0200
+UID:c7c4858a-1f6f-4113-8e18-afc19a6f1c3f
+SUMMARY:Een zondag
+DESCRIPTION:Een zondag\nDirectors: Johan van der Keuken, Pays-Bas 1959\nCast: \n[UNKNOWN] NB ⁄ 12' ⁄ V: NL ⁄ ST\nhttps://cinematek.be/2024-10-28-21-00/4-samenwerking-met-remco-campert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241029T133000+0100
+DTEND:20241029T133000+0100
+DTSTAMP:20241018T151213+0200
+UID:df0e4867-3741-40fc-a0f1-d029d87250b5
+SUMMARY:Sur pellicule
+DESCRIPTION:Sur pellicule\nDirectors: \nCast: \n[UNKNOWN] 120' ⁄ NL - FR ⁄   15 ⁄   120 ⁄ €1\nhttps://cinematek.be/2024-10-29-13-30/2024-10-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241029T160000+0100
+DTEND:20241029T160000+0100
+DTSTAMP:20241018T151213+0200
+UID:7595e2b4-4f71-4040-adab-82bd842c7398
+SUMMARY:Matilda
+DESCRIPTION:Matilda\nDirectors: Danny DeVito, USA 1996\nCast: , Mara Wilson, Danny DeVito, Rhea Perlman\n[UNKNOWN] couleur ⁄ 98' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-29-16-00/matilda
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241029T180000+0100
+DTEND:20241029T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:be539d03-57f9-4599-938c-9cbdc8382ffe
+SUMMARY:Un mauvais garçon
+DESCRIPTION:Un mauvais garçon\nDirectors: Jean Boyer, France 1936\nCast: , Danielle Darrieux, Marguerite Templey, Madeleine Suffel\n[UNKNOWN] 96' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-10-29-18-00/un-mauvais-garcon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241029T190000+0100
+DTEND:20241029T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:39a67e38-e813-41e5-80ed-bf9941cd5209
+SUMMARY:Blow Out
+DESCRIPTION:Blow Out\nDirectors: Brian De Palma, USA 1981\nCast: , John Travolta, Nancy Allen, John Lithgow\n[UNKNOWN] couleur ⁄ 107' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-29-19-00/blow-out
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241029T200000+0100
+DTEND:20241029T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:02f20e9c-0550-44e3-9392-75750e00de02
+SUMMARY:Kurutta ippêji
+DESCRIPTION:Une page folle ⁄ A Page of Madness ⁄ Kurutta ippêji\nDirectors: Teinosuke Kinugasa, Japon 1926\nCast: , Masuo Inoue, Ayako Iijima, Yoshie Nakagawa\n[UNKNOWN] 78' ⁄ TIT: — ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-10-29-20-00/a-page-of-madness
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241029T210000+0100
+DTEND:20241029T210000+0100
+DTSTAMP:20241018T151213+0200
+UID:39738a03-0764-4d6b-b0b5-2bb014a6b490
+SUMMARY:The Puppet Masters
+DESCRIPTION:Les Maîtres du monde ⁄ The Puppet Masters\nDirectors: Stuart Orme, USA 1994\nCast: , Donald Sutherland, Eric Thal, Julie Warner\n[UNKNOWN] couleur ⁄ 109' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-29-21-00/the-puppet-masters
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241030T133000+0100
+DTEND:20241030T133000+0100
+DTSTAMP:20241018T151213+0200
+UID:5378d487-eeba-4d5c-a511-8204ef0bdc7c
+SUMMARY:Atelier sur pellicule
+DESCRIPTION:Atelier sur pellicule\nDirectors: \nCast: \n[UNKNOWN] 120' ⁄ FR ⁄   15 ⁄   120 ⁄ €1\nhttps://cinematek.be/2024-10-30-13-30/2024-10-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241030T140000+0100
+DTEND:20241030T140000+0100
+DTSTAMP:20241018T151213+0200
+UID:6b60955d-cde3-4e4c-b473-0a002d42ee23
+SUMMARY:Knetter
+DESCRIPTION:Knetter\nDirectors: Martin Koolhoven, Pays-Bas, Belgique 2005\nCast: , Jesse Rinsma, Tom van Kessel, Carice van Houten\n[UNKNOWN] couleur ⁄ 84' ⁄ V: NL ⁄ ST\nhttps://cinematek.be/2024-10-30-14-00/knetter
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241030T160000+0100
+DTEND:20241030T160000+0100
+DTSTAMP:20241018T151213+0200
+UID:680e1db1-afe8-415d-ba96-a8dfabafbc08
+SUMMARY:Mon Oncle
+DESCRIPTION:Mon Oncle\nDirectors: Jacques Tati, France, Italie 1957\nCast: , Jacques Tati, Jean-Pierre Zola, Adrienne Servantie\n[UNKNOWN] couleur ⁄ 115' ⁄ ST: NL\nhttps://cinematek.be/2024-10-30-16-00/mon-oncle
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241030T180000+0100
+DTEND:20241030T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:5020c327-d5b4-4b3a-bf04-d1122c555126
+SUMMARY:Gegen die Wand
+DESCRIPTION:Head-On ⁄ Gegen die Wand\nDirectors: Fatih Akin, Allemagne, Turquie 2003\nCast: , Birol Ünel, Sibel Kekilli, Güven Kiraç\n[UNKNOWN] couleur ⁄ 121' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-30-18-00/gegen-die-wand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241030T190000+0100
+DTEND:20241030T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:e5c73242-74fe-4f4a-8496-fa1a29f6ce3f
+SUMMARY:Opland
+DESCRIPTION:Opland\nDirectors: Johan van der Keuken, Pays-Bas 1962\nCast: \n[UNKNOWN] NB ⁄ 12' ⁄ V: NL ⁄ ST\nhttps://cinematek.be/2024-10-30-19-00/5-portretten-1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241030T201500+0100
+DTEND:20241030T201500+0100
+DTSTAMP:20241018T151213+0200
+UID:be7735de-b330-488e-b3d9-c09773b0d100
+SUMMARY:Outbreak
+DESCRIPTION:Alerte ! ⁄ Outbreak\nDirectors: Wolfgang Petersen, USA 1995\nCast: , Dustin Hoffman, Rene Russo, Morgan Freeman\n[UNKNOWN] couleur ⁄ 127' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-30-20-15/outbreak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241030T210000+0100
+DTEND:20241030T210000+0100
+DTSTAMP:20241018T151213+0200
+UID:ff1d7003-5691-4d7f-902e-9ec69d091a42
+SUMMARY:Dracula
+DESCRIPTION:Dracula\nDirectors: Tod Browning, USA 1931\nCast: , Bela Lugosi, Helen Chandler, David Manners\n[UNKNOWN] NB ⁄ 74' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-30-21-00/dracula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241031T103000+0100
+DTEND:20241031T103000+0100
+DTSTAMP:20241018T151213+0200
+UID:864f2bb9-5304-40dd-8cf4-74d748a35859
+SUMMARY:One Week
+DESCRIPTION:One Week\nDirectors: Buster Keaton, Eddie Cline, USA 1920\nCast: \n[UNKNOWN] 24' ⁄ TIT: EN ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-10-31-10-30/filemon-compilatie-2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241031T130000+0100
+DTEND:20241031T130000+0100
+DTSTAMP:20241018T151213+0200
+UID:6160e24c-152a-47ea-9727-6826f51c7612
+SUMMARY:Slapstick
+DESCRIPTION:Slapstick\nDirectors: \nCast: \n[UNKNOWN] Villa Basta ⁄ 120' ⁄ NL ⁄   12 ⁄   120 ⁄ €1\nhttps://cinematek.be/2024-10-31-13-00/2024-10-31
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241031T133000+0100
+DTEND:20241031T133000+0100
+DTSTAMP:20241018T151213+0200
+UID:fbe02e33-5f92-4d15-9367-ec550c8b8a0d
+SUMMARY:The Kid
+DESCRIPTION:Le Kid ⁄ The Kid\nDirectors: Charles Chaplin, USA 1921\nCast: , Charles Chaplin, Jackie Coogan, Edna Purviance\n[UNKNOWN] 62' ⁄ TIT: EN ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-31-13-30/the-kid
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241031T153000+0100
+DTEND:20241031T153000+0100
+DTSTAMP:20241018T151213+0200
+UID:0a9948c1-1ca9-4b65-a3ac-19519b272581
+SUMMARY:Slapstick
+DESCRIPTION:Slapstick\nDirectors: \nCast: \n[UNKNOWN] Villa Basta ⁄ 90' ⁄ NL ⁄   12 ⁄   90 ⁄ €1\nhttps://cinematek.be/2024-10-31-15-30/2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241031T160000+0100
+DTEND:20241031T160000+0100
+DTSTAMP:20241018T151213+0200
+UID:f4ceebf6-53eb-4086-9dd0-5997d7ac2ea2
+SUMMARY:Hotaru no haka
+DESCRIPTION:Le Tombeau des lucioles ⁄ Hotaru no haka\nDirectors: Isao Takahata, Japon 1988\nCast: \n[UNKNOWN] couleur ⁄ 88' ⁄ ST: FR\nhttps://cinematek.be/2024-10-31-16-00/hotaru-no-haka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241031T180000+0100
+DTEND:20241031T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:ea9b829e-aba9-4428-a1fa-7af5540f5e11
+SUMMARY:Vredens dag
+DESCRIPTION:Dies irae ⁄ Vredens dag\nDirectors: Carl Theodor Dreyer, Danemark 1943\nCast: , Thorkild Roose, Lisbeth Movin, Sigrid Neiiendam\n[UNKNOWN] NB ⁄ 97' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-31-18-00/vredens-dag
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241031T190000+0100
+DTEND:20241031T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:eb0eb075-8796-42eb-bdb1-7b154987997c
+SUMMARY:Das Cabinet des Dr. Caligari
+DESCRIPTION:Le Cabinet du docteur Caligari ⁄ Das Cabinet des Dr. Caligari\nDirectors: Robert Wiene, Allemagne 1919\nCast: , Werner Krauss, Conrad Veidt, Friedrich Feher\n[UNKNOWN] TINTED ⁄ 76' ⁄ TIT: DE ⁄ ST: FR - NL ⁄ PIANO\nhttps://cinematek.be/2024-10-31-19-00/das-cabinet-des-dr-caligari-2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241031T200000+0100
+DTEND:20241031T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:0484c5b7-a6b7-4de2-b0d8-610760a47431
+SUMMARY:Citizen X
+DESCRIPTION:Citizen X\nDirectors: Chris Gerolmo, USA 1995\nCast: , Stephen Rea, Donald Sutherland, Max von Sydow\n[UNKNOWN] couleur ⁄ 102' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-10-31-20-00/citizen-x
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241031T203000+0100
+DTEND:20241031T203000+0100
+DTSTAMP:20241018T151213+0200
+UID:71082b85-22a9-465f-9fa1-8f9536d6f223
+SUMMARY:Nosferatu, eine Symphonie des Grauens
+DESCRIPTION:Nosferatu le vampire ⁄ Nosferatu, eine Symphonie des Grauens\nDirectors: Friedrich Wilhelm Murnau, Allemagne 1922\nCast: , Max Schreck, Gustav von Wangenheim, Greta Schröder\n[UNKNOWN] 81' ⁄ TIT: DE ⁄ ST: FR - NL ⁄ PIANO\nhttps://cinematek.be/2024-10-31-20-30/nosferatu-eine-symphonie-des-grauens
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241101T180000+0100
+DTEND:20241101T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:a0892332-0481-4047-b2c4-cdc640d9270d
+SUMMARY:Sans lendemain
+DESCRIPTION:Sans lendemain\nDirectors: Max Ophüls, France 1939\nCast: , Edwige Feuillère, Jorge Rigaud, Daniel Lecourtois\n[UNKNOWN] NB ⁄ 82' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-11-01-18-00/sans-lendemain
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241101T190000+0100
+DTEND:20241101T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:771361c3-7e44-41c6-bec0-a7893a0cd0c4
+SUMMARY:JFK
+DESCRIPTION:JFK\nDirectors: Oliver Stone, USA, France 1991\nCast: , Kevin Costner, Gary Oldman, Jack Lemmon, Donald Sutherland\n[UNKNOWN] 188' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-01-19-00/jfk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241101T200000+0100
+DTEND:20241101T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:cde63883-ae9f-465b-b1cc-7339a9db4d1c
+SUMMARY:La notte di San Lorenzo
+DESCRIPTION:La Nuit de San Lorenzo ⁄ The Night of San Lorenzo ⁄ La notte di San Lorenzo\nDirectors: Paolo Taviani, Vittorio Taviani, Italie 1982\nCast: , Omero Antonutti, Margarita Lozano, Claudio Bigagli\n[UNKNOWN] couleur ⁄ 107' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-01-20-00/la-notte-di-san-lorenzo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241102T170000+0100
+DTEND:20241102T170000+0100
+DTSTAMP:20241018T151213+0200
+UID:d34f32f1-407e-435e-bc23-b2b3236685e3
+SUMMARY:Beppie
+DESCRIPTION:Beppie\nDirectors: Johan van der Keuken, Pays-Bas 1965\nCast: \n[UNKNOWN] NB ⁄ 37' ⁄ ST: FR\nhttps://cinematek.be/2024-11-02-17-00/6-portretten-2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241102T180000+0100
+DTEND:20241102T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:bcdd01f4-641e-4bd7-a2fa-011c35bf2bfb
+SUMMARY:Un mauvais garçon
+DESCRIPTION:Un mauvais garçon\nDirectors: Jean Boyer, France 1936\nCast: , Danielle Darrieux, Marguerite Templey, Madeleine Suffel\n[UNKNOWN] 96' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-11-02-18-00/un-mauvais-garcon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241102T190000+0100
+DTEND:20241102T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:58cc3ce5-0ceb-428d-ae6b-1a69e27e9242
+SUMMARY:Dracula
+DESCRIPTION:Dracula\nDirectors: Tod Browning, USA 1931\nCast: , Bela Lugosi, Helen Chandler, David Manners\n[UNKNOWN] NB ⁄ 74' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-02-19-00/dracula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241102T200000+0100
+DTEND:20241102T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:12fe9305-331e-4317-be2f-e83e7dae4e02
+SUMMARY:Vredens dag
+DESCRIPTION:Dies irae ⁄ Vredens dag\nDirectors: Carl Theodor Dreyer, Danemark 1943\nCast: , Thorkild Roose, Lisbeth Movin, Sigrid Neiiendam\n[UNKNOWN] NB ⁄ 97' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-02-20-00/vredens-dag
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241102T210000+0100
+DTEND:20241102T210000+0100
+DTSTAMP:20241018T151213+0200
+UID:667ef62e-2685-44cf-b2b1-d0cdfe8f0a24
+SUMMARY:Cerro Torre: Schrei aus Stein
+DESCRIPTION:Cerro Torre, le cri de la roche ⁄ Cerro Torre: Schrei aus Stein\nDirectors: Werner Herzog, Allemagne, France, Canada, Italie, Argentine 1991\nCast: , Vittorio Mezzogiorno, Stefan Glowacz, Donald Sutherland\n[UNKNOWN] couleur ⁄ 95' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-02-21-00/cerro-torre-schrei-aus-stein
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241103T150000+0100
+DTEND:20241103T150000+0100
+DTSTAMP:20241018T151213+0200
+UID:2f515f88-8474-44e5-aed7-66656e9f85ac
+SUMMARY:The Cat and the Canary
+DESCRIPTION:La Volonté du mort ⁄ The Cat and the Canary\nDirectors: Paul Leni, USA 1927\nCast: , Laura La Plante, Creighton Hale, Forrest Stanley\n[UNKNOWN] 80' ⁄ TIT: CS ⁄ ST: FR - NL ⁄ PIANO\nhttps://cinematek.be/2024-11-03-15-00/the-cat-and-the-canary
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241103T170000+0100
+DTEND:20241103T170000+0100
+DTSTAMP:20241018T151213+0200
+UID:8b0db20f-cd08-44db-8626-87d434fa19d1
+SUMMARY:La Femme publique
+DESCRIPTION:La Femme publique\nDirectors: Andrzej Zulawski, France 1984\nCast: , Francis Huster, Valérie Kaprisky, Lambert Wilson\n[UNKNOWN] couleur ⁄ 114' ⁄ ST: NL\nhttps://cinematek.be/2024-11-03-17-00/la-femme-publique
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241103T180000+0100
+DTEND:20241103T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:755104f2-d95a-4c4e-96d1-bfc665f12466
+SUMMARY:Outbreak
+DESCRIPTION:Alerte ! ⁄ Outbreak\nDirectors: Wolfgang Petersen, USA 1995\nCast: , Dustin Hoffman, Rene Russo, Morgan Freeman\n[UNKNOWN] couleur ⁄ 127' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-03-18-00/outbreak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241103T191500+0100
+DTEND:20241103T191500+0100
+DTSTAMP:20241018T151213+0200
+UID:68a216b3-2e1e-4445-8e06-fc673d8660e8
+SUMMARY:Identificazione di una donna
+DESCRIPTION:Identification d’une femme ⁄ Identification of a Woman ⁄ Identificazione di una donna\nDirectors: Michelangelo Antonioni, Italie, France 1982\nCast: , Tomas Milian, Daniela Silverio, Christine Boisson\n[UNKNOWN] couleur ⁄ 128' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-03-19-15/identificazione-di-una-donna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241103T203000+0100
+DTEND:20241103T203000+0100
+DTSTAMP:20241018T151213+0200
+UID:3860cf35-6139-4621-85d0-7874534751dc
+SUMMARY:Le Roman de Werther
+DESCRIPTION:Le Roman de Werther\nDirectors: Max Ophüls, France 1938\nCast: , Pierre Richard-Willm, Annie Vernay, Jean Galland\n[UNKNOWN] NB ⁄ 81' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-11-03-20-30/le-roman-de-werther
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241103T213000+0100
+DTEND:20241103T213000+0100
+DTSTAMP:20241018T151213+0200
+UID:fac39762-ff33-4079-9777-738c08227e60
+SUMMARY:Wo hu cang long
+DESCRIPTION:Tigre et Dragon ⁄ Crouching Tiger, Hidden Dragon ⁄ Wo hu cang long\nDirectors: Ang Lee, R.A.S. chinoise de Hong Kong, Taïwan, USA 2000\nCast: , Chow Yun-Fat, Michelle Yeoh, Zhang Ziyi, Cheng Pei-Pei\n[UNKNOWN] couleur ⁄ 119' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-03-21-30/wo-hu-cang-long
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241104T180000+0100
+DTEND:20241104T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:27dc8a38-7c2a-49dc-8195-4e024ab57112
+SUMMARY:Virus
+DESCRIPTION:Virus\nDirectors: John Bruno, USA, Japon, Allemagne 1998\nCast: , Jamie Lee Curtis, William Baldwin, Donald Sutherland\n[UNKNOWN] couleur ⁄ 99' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-04-18-00/virus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241104T190000+0100
+DTEND:20241104T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:7ddad6d4-d941-4729-9075-a2e73a72e873
+SUMMARY:All About Eve
+DESCRIPTION:Ève ⁄ All About Eve\nDirectors: Joseph L. Mankiewicz, USA 1950\nCast: , Bette Davis, Anne Baxter, George Sanders\n[UNKNOWN] NB ⁄ 138' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-04-19-00/all-about-eve
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241104T200000+0100
+DTEND:20241104T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:e6337427-36d5-4a1d-80bd-cf9dbaf67f94
+SUMMARY:Sans lendemain
+DESCRIPTION:Sans lendemain\nDirectors: Max Ophüls, France 1939\nCast: , Edwige Feuillère, Jorge Rigaud, Daniel Lecourtois\n[UNKNOWN] NB ⁄ 82' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-11-04-20-00/sans-lendemain
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241104T213000+0100
+DTEND:20241104T213000+0100
+DTSTAMP:20241018T151213+0200
+UID:f19022bc-829a-44ce-ac37-e3bafbe896bf
+SUMMARY:Bye Bye Blondie
+DESCRIPTION:Bye Bye Blondie\nDirectors: Virginie Despentes, France, Suède, Belgique 2011\nCast: , Emmanuelle Béart, Béatrice Dalle, Soko\n[UNKNOWN] couleur ⁄ 96' ⁄ ST: NL\nhttps://cinematek.be/2024-11-04-21-30/bye-bye-blondie
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241105T180000+0100
+DTEND:20241105T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:e02f137c-3993-4451-ac7f-ee78be1aca7a
+SUMMARY:The Unknown
+DESCRIPTION:L’Inconnu ⁄ The Unknown\nDirectors: Tod Browning, USA 1927\nCast: , Lon Chaney Sr., Norman Kerry, Joan Crawford\n[UNKNOWN] 59' ⁄ TIT: FR ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-11-05-18-00/the-unknown
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241105T190000+0100
+DTEND:20241105T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:6668d67e-f6ff-4836-af1c-4c76ba274384
+SUMMARY:La Femme publique
+DESCRIPTION:La Femme publique\nDirectors: Andrzej Zulawski, France 1984\nCast: , Francis Huster, Valérie Kaprisky, Lambert Wilson\n[UNKNOWN] couleur ⁄ 114' ⁄ ST: NL\nhttps://cinematek.be/2024-11-05-19-00/la-femme-publique
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241105T200000+0100
+DTEND:20241105T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:4181c228-6be7-4964-a3db-f6e61331d5c7
+SUMMARY:Vredens dag
+DESCRIPTION:Dies irae ⁄ Vredens dag\nDirectors: Carl Theodor Dreyer, Danemark 1943\nCast: , Thorkild Roose, Lisbeth Movin, Sigrid Neiiendam\n[UNKNOWN] NB ⁄ 97' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-05-20-00/vredens-dag
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241105T211500+0100
+DTEND:20241105T211500+0100
+DTSTAMP:20241018T151213+0200
+UID:1f7c45fb-6895-4690-8348-c4fd73b28f47
+SUMMARY:The Edge of the World
+DESCRIPTION:À l’angle du monde ⁄ Een uithoek van de wereld ⁄ The Edge of the World\nDirectors: Michael Powell, UK 1937\nCast: , Niall MacGinnis, Belle Chrystall, John Laurie\n[UNKNOWN] NB ⁄ 77' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-05-21-15/the-edge-of-the-world
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241106T180000+0100
+DTEND:20241106T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:d0d7974c-6b78-4742-8db9-e52998bb6bc0
+SUMMARY:La notte di San Lorenzo
+DESCRIPTION:La Nuit de San Lorenzo ⁄ The Night of San Lorenzo ⁄ La notte di San Lorenzo\nDirectors: Paolo Taviani, Vittorio Taviani, Italie 1982\nCast: , Omero Antonutti, Margarita Lozano, Claudio Bigagli\n[UNKNOWN] couleur ⁄ 107' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-06-18-00/la-notte-di-san-lorenzo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241106T190000+0100
+DTEND:20241106T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:cb3589ac-8726-45d4-b806-5577dd6cc87e
+SUMMARY:Blind kind
+DESCRIPTION:L’Enfant aveugle / Blind kind\nDirectors: Johan van der Keuken, Pays-Bas 1964\nCast: \n[UNKNOWN] NB ⁄ 25' ⁄ ST: FR\nhttps://cinematek.be/2024-11-06-19-00/7-blind-kind-blind-kind-2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241106T200000+0100
+DTEND:20241106T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:988baeaf-3288-4d48-90b0-786e75db2756
+SUMMARY:De Mayerling à Sarajevo
+DESCRIPTION:De Mayerling à Sarajevo\nDirectors: Max Ophüls, France 1940\nCast: , Edwige Feuillère, John Lodge, Aimé Clariond\n[UNKNOWN] NB ⁄ 92' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-11-06-20-00/de-mayerling-a-sarajevo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241106T210000+0100
+DTEND:20241106T210000+0100
+DTSTAMP:20241018T151213+0200
+UID:67b19ebb-49f7-4e28-8290-9fb4be264c09
+SUMMARY:Space Cowboys
+DESCRIPTION:Space Cowboys\nDirectors: Clint Eastwood, USA, Australie 2000\nCast: , Clint Eastwood, Tommy Lee Jones, Donald Sutherland\n[UNKNOWN] couleur ⁄ 130' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-06-21-00/space-cowboys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241107T150000+0100
+DTEND:20241107T150000+0100
+DTSTAMP:20241018T151213+0200
+UID:b555900a-7c79-4f61-9e7c-fbc70cc63c26
+SUMMARY:Identificazione di una donna
+DESCRIPTION:Identification d’une femme ⁄ Identification of a Woman ⁄ Identificazione di una donna\nDirectors: Michelangelo Antonioni, Italie, France 1982\nCast: , Tomas Milian, Daniela Silverio, Christine Boisson\n[UNKNOWN] couleur ⁄ 128' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-07-15-00/identificazione-di-una-donna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241107T180000+0100
+DTEND:20241107T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:f756f45e-9811-4d2f-8af8-677674bc403e
+SUMMARY:Vredens dag
+DESCRIPTION:Dies irae ⁄ Vredens dag\nDirectors: Carl Theodor Dreyer, Danemark 1943\nCast: , Thorkild Roose, Lisbeth Movin, Sigrid Neiiendam\n[UNKNOWN] NB ⁄ 97' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-07-18-00/vredens-dag
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241107T190000+0100
+DTEND:20241107T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:e9986474-1e68-458d-8350-289e1190c8c1
+SUMMARY:All About Eve
+DESCRIPTION:Ève ⁄ All About Eve\nDirectors: Joseph L. Mankiewicz, USA 1950\nCast: , Bette Davis, Anne Baxter, George Sanders\n[UNKNOWN] NB ⁄ 138' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-07-19-00/all-about-eve
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241107T200000+0100
+DTEND:20241107T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:4caaeef0-939a-41a8-a92f-48b726efc938
+SUMMARY:The Unknown
+DESCRIPTION:L’Inconnu ⁄ The Unknown\nDirectors: Tod Browning, USA 1927\nCast: , Lon Chaney Sr., Norman Kerry, Joan Crawford\n[UNKNOWN] 59' ⁄ TIT: FR ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-11-07-20-00/the-unknown
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241107T213000+0100
+DTEND:20241107T213000+0100
+DTSTAMP:20241018T151213+0200
+UID:9087bec0-f3f9-4343-858a-64c44916d0fa
+SUMMARY:Blow Out
+DESCRIPTION:Blow Out\nDirectors: Brian De Palma, USA 1981\nCast: , John Travolta, Nancy Allen, John Lithgow\n[UNKNOWN] couleur ⁄ 107' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-07-21-30/blow-out
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241108T170000+0100
+DTEND:20241108T170000+0100
+DTSTAMP:20241018T151213+0200
+UID:4f5a521f-e5f2-49b2-853e-ffab1fccd590
+SUMMARY:Accueillir ou (re)activer une cabine de projection
+DESCRIPTION:Accueillir ou (re)activer une cabine de projection\nDirectors: \nCast: \n[UNKNOWN] CINEMATEK ⁄ 120' ⁄   12\nhttps://cinematek.be/2024-11-08-17-00/2024-11-08
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241108T180000+0100
+DTEND:20241108T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:13242c15-3711-4b69-a5c2-38c4ed8f14c2
+SUMMARY:La notte di San Lorenzo
+DESCRIPTION:La Nuit de San Lorenzo ⁄ The Night of San Lorenzo ⁄ La notte di San Lorenzo\nDirectors: Paolo Taviani, Vittorio Taviani, Italie 1982\nCast: , Omero Antonutti, Margarita Lozano, Claudio Bigagli\n[UNKNOWN] couleur ⁄ 107' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-08-18-00/la-notte-di-san-lorenzo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241108T193000+0100
+DTEND:20241108T193000+0100
+DTSTAMP:20241018T151213+0200
+UID:ec743967-f58f-4bd6-8752-6eb8e77c605b
+SUMMARY:Exigences techniques des archives de films
+DESCRIPTION:Exigences techniques des archives de films\nDirectors: \nCast: \n[UNKNOWN] CINEMATEK ⁄ 90' ⁄ FR ⁄   9\nhttps://cinematek.be/2024-11-08-19-30/2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241108T200000+0100
+DTEND:20241108T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:0aef409f-4d89-4352-867d-3f3096e29a87
+SUMMARY:The Exile
+DESCRIPTION:The Exile\nDirectors: Max Ophüls, USA 1947\nCast: , Douglas Fairbanks Jr., Maria Montez, Paula Corday\n[UNKNOWN] NB ⁄ 91' ⁄ V: EN ⁄ ST\nhttps://cinematek.be/2024-11-08-20-00/the-exile
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241108T213000+0100
+DTEND:20241108T213000+0100
+DTSTAMP:20241018T151213+0200
+UID:35183e89-1faa-4d68-967c-7ddbcd1a117c
+SUMMARY:Autrement, la Molussie
+DESCRIPTION:Autrement, la Molussie\nDirectors: Nicolas Rey, France 2012\nCast: , Peter Hoffmann\n[UNKNOWN] couleur ⁄ 81' ⁄ ST: FR\nhttps://cinematek.be/2024-11-08-21-30/autrement-la-molussie
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241109T170000+0100
+DTEND:20241109T170000+0100
+DTSTAMP:20241018T151213+0200
+UID:146fc95b-249c-44e2-8291-d5e7d0dbd7d5
+SUMMARY:Letter from an Unknown Woman
+DESCRIPTION:Letter from an Unknown Woman\nDirectors: Max Ophüls, USA 1948\nCast: , Joan Fontaine, Louis Jourdan, Mady Christians\n[UNKNOWN] NB ⁄ 87' ⁄ ST: NL\nhttps://cinematek.be/2024-11-09-17-00/letter-from-an-unknown-woman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241109T180000+0100
+DTEND:20241109T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:ac8bc397-06f4-4dea-9d46-715fd3dce80d
+SUMMARY:Citizen X
+DESCRIPTION:Citizen X\nDirectors: Chris Gerolmo, USA 1995\nCast: , Stephen Rea, Donald Sutherland, Max von Sydow\n[UNKNOWN] couleur ⁄ 102' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-09-18-00/citizen-x
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241109T190000+0100
+DTEND:20241109T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:97ff63a8-f09c-4efd-af6b-f1cbc72ef767
+SUMMARY:The Edge of the World
+DESCRIPTION:À l’angle du monde ⁄ Een uithoek van de wereld ⁄ The Edge of the World\nDirectors: Michael Powell, UK 1937\nCast: , Niall MacGinnis, Belle Chrystall, John Laurie\n[UNKNOWN] NB ⁄ 77' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-09-19-00/the-edge-of-the-world
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241109T200000+0100
+DTEND:20241109T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:526d8f42-852f-4e75-9e90-a8f0efd85837
+SUMMARY:The Man Who Laughs
+DESCRIPTION:L’Homme qui rit ⁄ The Man Who Laughs\nDirectors: Paul Leni, USA 1927\nCast: , Mary Philbin, Conrad Veidt, Julius Molnar\n[UNKNOWN] 109' ⁄ TIT: FR - NL ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-11-09-20-00/the-man-who-laughs
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241109T203000+0100
+DTEND:20241109T203000+0100
+DTSTAMP:20241018T151213+0200
+UID:48c2e2b9-0290-4a5a-8419-1f47338ffed0
+SUMMARY:Stalker
+DESCRIPTION:Stalker\nDirectors: Andrej Tarkovskij, USSR 1979\nCast: , Aleksandr Kaydanovskiy, Alisa Freyndlikh, Anatoliy Solonitsyn\n[UNKNOWN] 160' ⁄ ST: FR\nhttps://cinematek.be/2024-11-09-20-30/stalker
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241110T150000+0100
+DTEND:20241110T150000+0100
+DTSTAMP:20241018T151213+0200
+UID:3e5787ce-821e-4b69-990b-4f1777d14060
+SUMMARY:Ratatouille
+DESCRIPTION:Ratatouille\nDirectors: Brad Bird, Jan Pinkava, USA 2007\nCast: \n[UNKNOWN] couleur ⁄ 111' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-11-10-15-00/ratatouille
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241110T151500+0100
+DTEND:20241110T151500+0100
+DTSTAMP:20241018T151213+0200
+UID:23f37a3e-ea42-46fb-97e8-de1d635993d8
+SUMMARY:Ratatouille
+DESCRIPTION:Ratatouille\nDirectors: Brad Bird, Jan Pinkava, USA 2007\nCast: \n[UNKNOWN] couleur ⁄ 111' ⁄ V: NL ⁄ ST\nhttps://cinematek.be/2024-11-10-15-15/ratatouille-2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241110T170000+0100
+DTEND:20241110T170000+0100
+DTSTAMP:20241018T151213+0200
+UID:0d3a4b8e-a543-40cc-a0ec-a7a33bbebc3d
+SUMMARY:De poes
+DESCRIPTION:The Cat / De poes\nDirectors: Johan van der Keuken, Pays-Bas 1968\nCast: \n[UNKNOWN] NB ⁄ 5' ⁄ ST: EN\nhttps://cinematek.be/2024-11-10-17-00/8-de-poes-het-leesplankje-vier-muren-de-snelheid-40-70
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241110T180000+0100
+DTEND:20241110T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:c077565c-daf0-4872-8d2a-bd2caaf3f8d0
+SUMMARY:De Mayerling à Sarajevo
+DESCRIPTION:De Mayerling à Sarajevo\nDirectors: Max Ophüls, France 1940\nCast: , Edwige Feuillère, John Lodge, Aimé Clariond\n[UNKNOWN] NB ⁄ 92' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-11-10-18-00/de-mayerling-a-sarajevo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241110T190000+0100
+DTEND:20241110T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:e9d35f88-874f-41d2-8006-522476eec150
+SUMMARY:Little Odessa
+DESCRIPTION:Little Odessa\nDirectors: James Gray, USA 1994\nCast: , Tim Roth, Edward Furlong, Vanessa Redgrave, Maximilian Schell\n[UNKNOWN] couleur ⁄ 98' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-10-19-00/little-odessa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241110T200000+0100
+DTEND:20241110T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:c51d2e71-f87c-4a39-a8c3-438d4faade2a
+SUMMARY:Virus
+DESCRIPTION:Virus\nDirectors: John Bruno, USA, Japon, Allemagne 1998\nCast: , Jamie Lee Curtis, William Baldwin, Donald Sutherland\n[UNKNOWN] couleur ⁄ 99' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-10-20-00/virus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241110T210000+0100
+DTEND:20241110T210000+0100
+DTSTAMP:20241018T151213+0200
+UID:9ded50f0-9652-463a-af27-d4921162ec53
+SUMMARY:Identificazione di una donna
+DESCRIPTION:Identification d’une femme ⁄ Identification of a Woman ⁄ Identificazione di una donna\nDirectors: Michelangelo Antonioni, Italie, France 1982\nCast: , Tomas Milian, Daniela Silverio, Christine Boisson\n[UNKNOWN] couleur ⁄ 128' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-10-21-00/identificazione-di-una-donna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241111T180000+0100
+DTEND:20241111T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:bedd89c0-dabc-4a44-bb82-61c44e06fed5
+SUMMARY:4:30
+DESCRIPTION:4:30\nDirectors: Royston Tan, Singapour 2005\nCast: , Young-jun Kim, Andrew Seow, Xiao Li Yuan\n[UNKNOWN] couleur ⁄ 92' ⁄ ST: FR\nhttps://cinematek.be/2024-11-11-18-00/430
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241111T190000+0100
+DTEND:20241111T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:9e831ae9-ccd3-4bd6-a34a-dc475c63091a
+SUMMARY:Caught
+DESCRIPTION:Pris au piège ⁄ Caught\nDirectors: Max Ophüls, USA 1949\nCast: , James Mason, Barbara Bel Geddes, Robert Ryan\n[UNKNOWN] NB ⁄ 87' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-11-19-00/caught
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241111T200000+0100
+DTEND:20241111T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:f0d86333-c070-43b6-a906-e66e40d8f245
+SUMMARY:Shànggānlǐng
+DESCRIPTION:La Bataille de Sangganling ⁄ Battle on Shanganling Mountain ⁄ Shànggānlǐng\nDirectors: Lin Shan, Sha Meng, La république populaire de Chine 1956\nCast: , Baocheng Gao, Linge Xu, Liang Zhang\n[UNKNOWN] NB ⁄ 127' ⁄ ST: FR\nhttps://cinematek.be/2024-11-11-20-00/shangganling
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241111T210000+0100
+DTEND:20241111T210000+0100
+DTSTAMP:20241018T151213+0200
+UID:a1b8bd7f-c30e-4afc-99a6-d5261e406818
+SUMMARY:An American Haunting
+DESCRIPTION:An American Haunting\nDirectors: Courtney Solomon, UK, Canada, Roumanie, USA 2005\nCast: , Donald Sutherland, Sissy Spacek, James D'Arcy\n[UNKNOWN] couleur ⁄ 90' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-11-21-00/an-american-haunting
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241112T180000+0100
+DTEND:20241112T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:a2742024-bc77-481b-8926-9e5d7e53c834
+SUMMARY:The Man Who Laughs
+DESCRIPTION:L’Homme qui rit ⁄ The Man Who Laughs\nDirectors: Paul Leni, USA 1927\nCast: , Mary Philbin, Conrad Veidt, Julius Molnar\n[UNKNOWN] 109' ⁄ TIT: FR - NL ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-11-12-18-00/the-man-who-laughs
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241112T190000+0100
+DTEND:20241112T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:1085b76d-310f-4b75-bbeb-ec78485ad518
+SUMMARY:Identificazione di una donna
+DESCRIPTION:Identification d’une femme ⁄ Identification of a Woman ⁄ Identificazione di una donna\nDirectors: Michelangelo Antonioni, Italie, France 1982\nCast: , Tomas Milian, Daniela Silverio, Christine Boisson\n[UNKNOWN] couleur ⁄ 128' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-12-19-00/identificazione-di-una-donna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241112T200000+0100
+DTEND:20241112T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:8a9e6b76-c7af-429f-80db-0fd49c69124f
+SUMMARY:The Exile
+DESCRIPTION:The Exile\nDirectors: Max Ophüls, USA 1947\nCast: , Douglas Fairbanks Jr., Maria Montez, Paula Corday\n[UNKNOWN] NB ⁄ 91' ⁄ V: EN ⁄ ST\nhttps://cinematek.be/2024-11-12-20-00/the-exile
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241112T213000+0100
+DTEND:20241112T213000+0100
+DTSTAMP:20241018T151213+0200
+UID:8f049a05-090f-444c-98fd-d82ff5170a2b
+SUMMARY:De tijd geest
+DESCRIPTION:The Spirit of the Time / De tijd geest\nDirectors: Johan van der Keuken, Pays-Bas 1968\nCast: \n[UNKNOWN] NB ⁄ 42' ⁄ ST: EN\nhttps://cinematek.be/2024-11-12-21-30/9-de-tijd-geest-beauty-speelgoed
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241113T180000+0100
+DTEND:20241113T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:0ea3e229-9611-4c9e-a5f7-001f818e854b
+SUMMARY:The Man from the Alamo
+DESCRIPTION:The Man from the Alamo\nDirectors: Budd Boetticher, USA 1953\nCast: , Glenn Ford, Julie Adams, Chill Wills\n[UNKNOWN] couleur ⁄ 79' ⁄ V: EN ⁄ ST\nhttps://cinematek.be/2024-11-13-18-00/the-man-from-the-alamo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241113T190000+0100
+DTEND:20241113T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:a0f947e5-89ed-463b-a44f-de4ccfc5f977
+SUMMARY:The Hunger Games
+DESCRIPTION:Hunger Games ⁄ The Hunger Games\nDirectors: Gary Ross, USA 2012\nCast: , Jennifer Lawrence, Donald Sutherland, Josh Hutcherson\n[UNKNOWN] couleur ⁄ 142' ⁄ ST: NL - FR\nhttps://cinematek.be/2024-11-13-19-00/the-hunger-games
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241113T200000+0100
+DTEND:20241113T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:a6bb6158-2870-4ac6-8c4f-e5f803e7e8b9
+SUMMARY:Asbe du-pa
+DESCRIPTION:L’Enfant-cheval ⁄ Two-Legged Horse ⁄ Asbe du-pa\nDirectors: Samira Makhmalbaf, Iran 2008\nCast: , Ziya Mirza Mohamad, Haron Ahad, Gol-Ghotai\n[UNKNOWN] couleur ⁄ 101' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-13-20-00/asbe-du-pa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241113T213000+0100
+DTEND:20241113T213000+0100
+DTSTAMP:20241018T151213+0200
+UID:594ea9c0-64d3-4469-be84-d6a9852a7770
+SUMMARY:The Reckless Moment
+DESCRIPTION:Les Désemparés ⁄ The Reckless Moment\nDirectors: Max Ophüls, USA 1949\nCast: , James Mason, Joan Bennett, Geraldine Brooks\n[UNKNOWN] NB ⁄ 80' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-13-21-30/the-reckless-moment
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241114T150000+0100
+DTEND:20241114T150000+0100
+DTSTAMP:20241018T151213+0200
+UID:da2882c4-8169-49e6-8e1c-1bb1cf35dacb
+SUMMARY:The Edge of the World
+DESCRIPTION:À l’angle du monde ⁄ Een uithoek van de wereld ⁄ The Edge of the World\nDirectors: Michael Powell, UK 1937\nCast: , Niall MacGinnis, Belle Chrystall, John Laurie\n[UNKNOWN] NB ⁄ 77' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-14-15-00/the-edge-of-the-world
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241114T180000+0100
+DTEND:20241114T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:df6a683d-e969-4234-8b21-d93a35482ded
+SUMMARY:Ursula Meier Films
+DESCRIPTION:Ursula Meier Films\nDirectors: Ursula Meier, Suisse 2004\nCast: \n[UNKNOWN] 12' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-11-14-18-00/ursula-meier-films--2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241114T190000+0100
+DTEND:20241114T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:bf0e9283-07e9-4d5d-aaac-e6547a2c17eb
+SUMMARY:Alreadymade
+DESCRIPTION:Alreadymade\nDirectors: Barbara Visser, Pays-Bas 2023\nCast: \n[UNKNOWN] 87' ⁄ ST: FR\nhttps://cinematek.be/2024-11-14-19-00/baff-2024-2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241114T193000+0100
+DTEND:20241114T193000+0100
+DTSTAMP:20241018T151213+0200
+UID:7a5b35c0-f178-4117-9987-6e90cf918e15
+SUMMARY:Talk : Ursula Meier
+DESCRIPTION:Talk : Ursula Meier\nDirectors: \nCast: \n[UNKNOWN] \nhttps://cinematek.be/2024-11-14-19-30/talk-ursula-meier
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241114T203000+0100
+DTEND:20241114T203000+0100
+DTSTAMP:20241018T151213+0200
+UID:302f954b-c1e8-4be7-b90a-758bcf8f933a
+SUMMARY:Anémic cinéma
+DESCRIPTION:Anémic cinéma\nDirectors: Marcel Duchamp, France 1926\nCast: \n[UNKNOWN] 7' ⁄ TIT\nhttps://cinematek.be/2024-11-14-20-30/baff-2024-4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241115T183000+0100
+DTEND:20241115T183000+0100
+DTSTAMP:20241018T151213+0200
+UID:2bd45d4e-5ea1-40c0-8a29-b5276be320ea
+SUMMARY:BECRAFT
+DESCRIPTION:BECRAFT\nDirectors: Eneos Çarka, Belgique, Portugal, Hongrie, Bulgarie 2022\nCast: \n[UNKNOWN] 24' ⁄ ST: FR\nhttps://cinematek.be/2024-11-15-18-30/becraft
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241115T190000+0100
+DTEND:20241115T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:a8bab520-5fce-4763-84b3-9795ebbaa0b9
+SUMMARY:Peaches Goes Bananas
+DESCRIPTION:Peaches Goes Bananas\nDirectors: Marie Losier, France, Belgique 2024\nCast: \n[UNKNOWN] 75' ⁄ ST: FR\nhttps://cinematek.be/2024-11-15-19-00/peaches-goes-bananas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241115T210000+0100
+DTEND:20241115T210000+0100
+DTSTAMP:20241018T151213+0200
+UID:60496f40-9018-4190-992a-f9c3ed8b0ad5
+SUMMARY:Talk: Elena Alvarez Lutz
+DESCRIPTION:Talk: Elena Alvarez Lutz\nDirectors: \nCast: \n[UNKNOWN] BECRAFT ⁄ EN - FR\nhttps://cinematek.be/2024-11-15-21-00/talk-elena-alvarez-lutz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241116T133000+0100
+DTEND:20241116T133000+0100
+DTSTAMP:20241018T151213+0200
+UID:bef8102f-cb44-46e5-ada4-712200378dd3
+SUMMARY:Bye Bye Tibériade
+DESCRIPTION:Bye Bye Tibériade\nDirectors: Lina Soualem, Belgique, Territoires palestiniens, Qatar 2023\nCast: \n[UNKNOWN] 82' ⁄ ST: FR\nhttps://cinematek.be/2024-11-16-13-30/baff-2024
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241116T143000+0100
+DTEND:20241116T143000+0100
+DTSTAMP:20241018T151213+0200
+UID:c8cb5954-6d2e-499d-bd38-c72bef9361a5
+SUMMARY:Life Will Give You Pictures
+DESCRIPTION:Life Will Give You Pictures\nDirectors: Aldine Reinink, Belgique 2024\nCast: \n[UNKNOWN] 73' ⁄ ST: EN\nhttps://cinematek.be/2024-11-16-14-30/baff-2024-2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241116T153000+0100
+DTEND:20241116T153000+0100
+DTSTAMP:20241018T151213+0200
+UID:016cdefd-82b3-4bd3-bb45-9e957e935bd3
+SUMMARY:Little Girl Blue
+DESCRIPTION:Little Girl Blue\nDirectors: Mona Achache, France, Belgique 2023\nCast: \n[UNKNOWN] 95' ⁄ ST: EN\nhttps://cinematek.be/2024-11-16-15-30/baff-2024-3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241116T163000+0100
+DTEND:20241116T163000+0100
+DTSTAMP:20241018T151213+0200
+UID:3ae8cc16-2acf-49da-8089-89c8a3c86b6a
+SUMMARY:Baldiga – Unlocked Heart
+DESCRIPTION:Baldiga – Unlocked Heart\nDirectors: Markus Stein, Allemagne 2024\nCast: \n[UNKNOWN] 92' ⁄ ST: EN\nhttps://cinematek.be/2024-11-16-16-30/baff-2024-4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241116T180000+0100
+DTEND:20241116T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:634075e1-2e2d-412b-b434-2df37ff84df8
+SUMMARY:Soundtrack to a Coup d’État
+DESCRIPTION:Soundtrack to a Coup d’État\nDirectors: Johan Grimonprez, France, Belgique 2024\nCast: \n[UNKNOWN] 150' ⁄ ST: FR\nhttps://cinematek.be/2024-11-16-18-00/baff-2024-5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241116T183000+0100
+DTEND:20241116T183000+0100
+DTSTAMP:20241018T151213+0200
+UID:54dfbb35-5f93-4a7f-aff2-9e0167a17c93
+SUMMARY:Life Will Give You Pictures
+DESCRIPTION:Life Will Give You Pictures\nDirectors: Aldine Reinink, Belgique 2024\nCast: \n[UNKNOWN] 73' ⁄ ST: EN\nhttps://cinematek.be/2024-11-16-18-30/baff-2024-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241116T203000+0100
+DTEND:20241116T203000+0100
+DTSTAMP:20241018T151213+0200
+UID:f81a7684-73bd-4ba7-b5de-81435d6bfec0
+SUMMARY:Baldiga – Unlocked Heart
+DESCRIPTION:Baldiga – Unlocked Heart\nDirectors: Markus Stein, Allemagne 2024\nCast: \n[UNKNOWN] 92' ⁄ ST: EN\nhttps://cinematek.be/2024-11-16-20-30/baff-2024-8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241116T210000+0100
+DTEND:20241116T210000+0100
+DTSTAMP:20241018T151213+0200
+UID:dcb5546d-8b58-4c96-8095-d444b8718f5d
+SUMMARY:Balomania
+DESCRIPTION:Balomania\nDirectors: Sissel Morell Dargis, Danemark, Espagne 2024\nCast: \n[UNKNOWN] 2024' ⁄ ST: FR\nhttps://cinematek.be/2024-11-16-21-00/baff-2024-9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241117T140000+0100
+DTEND:20241117T140000+0100
+DTSTAMP:20241018T151213+0200
+UID:06e40662-07b3-478b-8000-7a8fd54c1325
+SUMMARY:Il padiglione sull’acqua
+DESCRIPTION:Il padiglione sull’acqua\nDirectors: Silvia Siberini, Stefano Croci, Italie 2023\nCast: \n[UNKNOWN] 77' ⁄ ST: FR\nhttps://cinematek.be/2024-11-17-14-00/baff-2024
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241117T153000+0100
+DTEND:20241117T153000+0100
+DTSTAMP:20241018T151213+0200
+UID:459bd47a-acce-481d-8623-51c721d1e931
+SUMMARY:Oh wat een circus!
+DESCRIPTION:Oh wat een circus!\nDirectors: \nCast: \n[UNKNOWN] \nhttps://cinematek.be/2024-11-17-15-30/baff-kids-nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241117T160000+0100
+DTEND:20241117T160000+0100
+DTSTAMP:20241018T151213+0200
+UID:211b54a2-d8c7-4419-a38c-2256633fbf3d
+SUMMARY:Ula
+DESCRIPTION:Ula\nDirectors: Agnieszka Iwanska, Pologne 2023\nCast: \n[UNKNOWN] 73' ⁄ ST: FR\nhttps://cinematek.be/2024-11-17-16-00/ula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241117T180000+0100
+DTEND:20241117T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:b744642f-8b6c-480a-874b-dc25fbe25872
+SUMMARY:Shànggānlǐng
+DESCRIPTION:La Bataille de Sangganling ⁄ Battle on Shanganling Mountain ⁄ Shànggānlǐng\nDirectors: Lin Shan, Sha Meng, La république populaire de Chine 1956\nCast: , Baocheng Gao, Linge Xu, Liang Zhang\n[UNKNOWN] NB ⁄ 127' ⁄ ST: FR\nhttps://cinematek.be/2024-11-17-18-00/shangganling
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241117T190000+0100
+DTEND:20241117T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:fbce11e9-cd95-436c-92a9-81a6e5bcd951
+SUMMARY:La Ronde
+DESCRIPTION:La Ronde\nDirectors: Max Ophüls, France 1950\nCast: , Simone Signoret, Serge Reggiani, Simone Simon\n[UNKNOWN] NB ⁄ 90' ⁄ ST: EN\nhttps://cinematek.be/2024-11-17-19-00/la-ronde
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241117T201500+0100
+DTEND:20241117T201500+0100
+DTSTAMP:20241018T151213+0200
+UID:e2fa292d-a38d-4067-9c30-df87ce3a67e0
+SUMMARY:The Man from the Alamo
+DESCRIPTION:The Man from the Alamo\nDirectors: Budd Boetticher, USA 1953\nCast: , Glenn Ford, Julie Adams, Chill Wills\n[UNKNOWN] couleur ⁄ 79' ⁄ V: EN ⁄ ST\nhttps://cinematek.be/2024-11-17-20-15/the-man-from-the-alamo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241117T210000+0100
+DTEND:20241117T210000+0100
+DTSTAMP:20241018T151213+0200
+UID:044b94f4-999b-4172-b653-d31989fdb8af
+SUMMARY:All About Eve
+DESCRIPTION:Ève ⁄ All About Eve\nDirectors: Joseph L. Mankiewicz, USA 1950\nCast: , Bette Davis, Anne Baxter, George Sanders\n[UNKNOWN] NB ⁄ 138' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-17-21-00/all-about-eve
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241118T180000+0100
+DTEND:20241118T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:4a9d3de3-d9cc-47e9-bf51-626465bea238
+SUMMARY:Asbe du-pa
+DESCRIPTION:L’Enfant-cheval ⁄ Two-Legged Horse ⁄ Asbe du-pa\nDirectors: Samira Makhmalbaf, Iran 2008\nCast: , Ziya Mirza Mohamad, Haron Ahad, Gol-Ghotai\n[UNKNOWN] couleur ⁄ 101' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-18-18-00/asbe-du-pa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241118T190000+0100
+DTEND:20241118T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:449097b1-ec00-4a93-a5ea-f940f8170dfa
+SUMMARY:Celovek s kino-apparatom
+DESCRIPTION:L’ Homme à la caméra ⁄ De man met de camera ⁄ Celovek s kino-apparatom\nDirectors: Dziga Vertov, USSR 1929\nCast: , Mihail Kaufman, Elizaveta Svilova\n[UNKNOWN] 99' ⁄ TIT: — ⁄ ST\nhttps://cinematek.be/2024-11-18-19-00/celovek-s-kino-apparatom
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241118T200000+0100
+DTEND:20241118T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:13b3e9b5-4b77-4509-bc93-34e99933b28b
+SUMMARY:Frameup
+DESCRIPTION:Frameup\nDirectors: Jon Jost, USA 1993\nCast: , Howard Swain, Nancy Carlin, Kathryn Sannella\n[UNKNOWN] couleur ⁄ 91' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-18-20-00/frameup
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241118T210000+0100
+DTEND:20241118T210000+0100
+DTSTAMP:20241018T151213+0200
+UID:8c4d425e-57de-4fef-81a7-76d09c158189
+SUMMARY:Johnny Mad Dog
+DESCRIPTION:Johnny Mad Dog\nDirectors: Jean-Stéphane Sauvaire, France, Belgique, Liban 2008\nCast: , Christophe Minie, Daisy Victoria Vandy, Joseph Duo\n[UNKNOWN] couleur ⁄ 98' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-18-21-00/johnny-mad-dog
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241119T180000+0100
+DTEND:20241119T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:ad967c15-ead7-4b56-bf83-6677ebfd7563
+SUMMARY:Alraune
+DESCRIPTION:Mandragore ⁄ Alraune\nDirectors: Henrik Galeen, Allemagne 1928\nCast: , Brigitte Helm, Albert Bassermann, Harald Paulsen\n[UNKNOWN] 105' ⁄ TIT: FR - NL ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-11-19-18-00/alraune
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241119T190000+0100
+DTEND:20241119T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:cddecec0-0760-459b-a61d-590379f53427
+SUMMARY:The Fantastic Universe of Pierre Loti
+DESCRIPTION:The Fantastic Universe of Pierre Loti\nDirectors: \nCast: \n[UNKNOWN] \nhttps://cinematek.be/2024-11-19-19-00/the-fantastic-universe-of-pierre-loti
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241119T200000+0100
+DTEND:20241119T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:48b30736-74f4-47db-bd7b-a479420fee1f
+SUMMARY:Kvarteret Korpen
+DESCRIPTION:Le Quartier du corbeau ⁄ Kvarteret Korpen\nDirectors: Bo Widerberg, Suède 1963\nCast: , Thommy Berggren, Keve Hjelm, Emy Storm\n[UNKNOWN] NB ⁄ 100' ⁄ ST: FR\nhttps://cinematek.be/2024-11-19-20-00/kvarteret-korpen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241119T210000+0100
+DTEND:20241119T210000+0100
+DTSTAMP:20241018T151213+0200
+UID:b2e1f973-699c-4a0c-835c-c23f20fa8d71
+SUMMARY:Pêcheur d’Islande
+DESCRIPTION:The Iceland Fisherman ⁄ Pêcheur d’Islande\nDirectors: Jacques de Baroncelli, France 1924\nCast: , Sandra Milowanof, Mme. Boyer, Charles Vanel\n[UNKNOWN] NB ⁄ 93' ⁄ TIT: FR ⁄ ST: EN ⁄ PIANO\nhttps://cinematek.be/2024-11-19-21-00/pecheur-dislande
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241120T180000+0100
+DTEND:20241120T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:8b011229-1fb9-486b-a0b8-2e0ecc0f738a
+SUMMARY:Le Plaisir
+DESCRIPTION:Le Plaisir\nDirectors: Max Ophüls, France 1952\nCast: , Jean Gabin, Simone Simon, Danielle Darrieux\n[UNKNOWN] NB ⁄ 95' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-11-20-18-00/le-plaisir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241120T190000+0100
+DTEND:20241120T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:2499a959-1d39-4567-966a-026413d4b2fe
+SUMMARY:Bye Bye Blondie
+DESCRIPTION:Bye Bye Blondie\nDirectors: Virginie Despentes, France, Suède, Belgique 2011\nCast: , Emmanuelle Béart, Béatrice Dalle, Soko\n[UNKNOWN] couleur ⁄ 96' ⁄ ST: NL\nhttps://cinematek.be/2024-11-20-19-00/bye-bye-blondie
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241120T200000+0100
+DTEND:20241120T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:887f2100-2b16-40cc-9514-7acffb89d684
+SUMMARY:4:30
+DESCRIPTION:4:30\nDirectors: Royston Tan, Singapour 2005\nCast: , Young-jun Kim, Andrew Seow, Xiao Li Yuan\n[UNKNOWN] couleur ⁄ 92' ⁄ ST: FR\nhttps://cinematek.be/2024-11-20-20-00/430
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241120T210000+0100
+DTEND:20241120T210000+0100
+DTSTAMP:20241018T151213+0200
+UID:13dccf35-1bd1-4a70-a862-01d04c8edfe1
+SUMMARY:Stalker
+DESCRIPTION:Stalker\nDirectors: Andrej Tarkovskij, USSR 1979\nCast: , Aleksandr Kaydanovskiy, Alisa Freyndlikh, Anatoliy Solonitsyn\n[UNKNOWN] 160' ⁄ ST: FR\nhttps://cinematek.be/2024-11-20-21-00/stalker
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241121T150000+0100
+DTEND:20241121T150000+0100
+DTSTAMP:20241018T151213+0200
+UID:b82925fd-9e2d-4a41-9301-d9afa10e03dd
+SUMMARY:L’ingorgo
+DESCRIPTION:Le Grand Embouteillage ⁄ Traffic Jam ⁄ L’ingorgo\nDirectors: Luigi Comencini, Italie, France 1979\nCast: , Alberto Sordi, Annie Girardot, Fernando Rey\n[UNKNOWN] couleur ⁄ 111' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-21-15-00/lingorgo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241121T180000+0100
+DTEND:20241121T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:63579eef-bf5f-445f-bd6b-dbba78c71846
+SUMMARY:The Doom Generation
+DESCRIPTION:Doom generation ⁄ The Doom Generation\nDirectors: Gregg Araki, USA, France 1994\nCast: , James Duval, Rose McGowan, Johnathon Schaech\n[UNKNOWN] couleur ⁄ 82' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-21-18-00/the-doom-generation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241121T190000+0100
+DTEND:20241121T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:b5733480-4825-4a2b-a274-e9bfb78fff4d
+SUMMARY:Manhunter
+DESCRIPTION:Le Sixième Sens ⁄ Manhunter\nDirectors: Michael Mann, USA 1986\nCast: , William Petersen, Brian Cox, Joan Allen\n[UNKNOWN] couleur ⁄ 119' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-21-19-00/manhunter
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241121T200000+0100
+DTEND:20241121T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:e38b4d69-e845-435d-9ac3-95cfadaceceb
+SUMMARY:The Last Warning
+DESCRIPTION:Le Dernier Avertissement ⁄ The Last Warning\nDirectors: Paul Leni, USA 1928\nCast: , Laura La Plante, Montagu Love, Roy D'Arcy\n[UNKNOWN] 85' ⁄ TIT: FR ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-11-21-20-00/the-last-warning
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241121T213000+0100
+DTEND:20241121T213000+0100
+DTSTAMP:20241018T151213+0200
+UID:7cb2ed12-7163-4a50-950f-8bf9179312a9
+SUMMARY:Last Exit to Brooklyn
+DESCRIPTION:Dernière sortie pour Brooklyn ⁄ Last Exit to Brooklyn\nDirectors: Uli Edel, RFA, USA, UK 1989\nCast: , Jennifer Jason Leigh, Stephen Lang, Burt Young\n[UNKNOWN] couleur ⁄ 102' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-21-21-30/last-exit-to-brooklyn
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241122T180000+0100
+DTEND:20241122T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:96e18b35-af5b-43a0-90d4-a1e703c2605b
+SUMMARY:Kvarteret Korpen
+DESCRIPTION:Le Quartier du corbeau ⁄ Kvarteret Korpen\nDirectors: Bo Widerberg, Suède 1963\nCast: , Thommy Berggren, Keve Hjelm, Emy Storm\n[UNKNOWN] NB ⁄ 100' ⁄ ST: FR\nhttps://cinematek.be/2024-11-22-18-00/kvarteret-korpen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241122T190000+0100
+DTEND:20241122T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:90d40919-a383-48ef-bb69-b2262178911c
+SUMMARY:Unforgiven
+DESCRIPTION:Impitoyable ⁄ Unforgiven\nDirectors: Clint Eastwood, USA 1992\nCast: , Clint Eastwood, Morgan Freeman, Gene Hackman\n[UNKNOWN] couleur ⁄ 130' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-22-19-00/unforgiven
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241122T200000+0100
+DTEND:20241122T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:6cc9d1a6-a08d-41a5-ac37-8149cbd54402
+SUMMARY:Le Plaisir
+DESCRIPTION:Le Plaisir\nDirectors: Max Ophüls, France 1952\nCast: , Jean Gabin, Simone Simon, Danielle Darrieux\n[UNKNOWN] NB ⁄ 95' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-11-22-20-00/le-plaisir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241122T213000+0100
+DTEND:20241122T213000+0100
+DTSTAMP:20241018T151213+0200
+UID:1e552549-037b-4c68-b230-9e564bb50e13
+SUMMARY:Little Odessa
+DESCRIPTION:Little Odessa\nDirectors: James Gray, USA 1994\nCast: , Tim Roth, Edward Furlong, Vanessa Redgrave, Maximilian Schell\n[UNKNOWN] couleur ⁄ 98' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-22-21-30/little-odessa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241123T163000+0100
+DTEND:20241123T163000+0100
+DTSTAMP:20241018T151213+0200
+UID:280f2859-bca7-4e3f-8cb3-0dce3e03f2b7
+SUMMARY:Midnight Cowboy
+DESCRIPTION:Macadam cowboy ⁄ Midnight Cowboy\nDirectors: John Schlesinger, USA 1969\nCast: , Jon Voight, Dustin Hoffman, Sylvia Miles\n[UNKNOWN] couleur ⁄ 113' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-23-16-30/midnight-cowboy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241123T180000+0100
+DTEND:20241123T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:2447b582-e3bb-42c6-8e9c-cef3c1833edc
+SUMMARY:Madame de...
+DESCRIPTION:Madame de...\nDirectors: Max Ophüls, France, Italie 1953\nCast: , Charles Boyer, Danielle Darrieux, Vittorio De Sica\n[UNKNOWN] NB ⁄ 99' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-11-23-18-00/madame-de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241123T190000+0100
+DTEND:20241123T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:9c8d23af-b653-4760-83e6-5c8df0734f4f
+SUMMARY:Mea Culpa
+DESCRIPTION:Mea Culpa\nDirectors: Patrick Tass, Belgique 2023\nCast: \n[UNKNOWN] couleur ⁄ 72' ⁄ ST: FR\nhttps://cinematek.be/2024-11-23-19-00/mea-culpa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241123T200000+0100
+DTEND:20241123T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:40a3ee11-954a-4bc6-b61b-c835aef57e7c
+SUMMARY:La Chute de la maison Usher
+DESCRIPTION:La Chute de la maison Usher\nDirectors: Jean Epstein, France 1928\nCast: , Jean Debucourt, Marguerite Gance, Charles Lamy\n[UNKNOWN] 62' ⁄ TIT: FR ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-11-23-20-00/la-chute-de-la-maison-usher
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241123T213000+0100
+DTEND:20241123T213000+0100
+DTSTAMP:20241018T151213+0200
+UID:85bf4777-1107-4e43-a982-9764719ab0bb
+SUMMARY:Gigi
+DESCRIPTION:Gigi\nDirectors: Vincente Minnelli, USA 1958\nCast: , Leslie Caron, Maurice Chevalier, Louis Jourdan\n[UNKNOWN] couleur ⁄ 115' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-23-21-30/gigi
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241124T150000+0100
+DTEND:20241124T150000+0100
+DTSTAMP:20241018T151213+0200
+UID:bba8a60c-d2f7-4287-b923-38cc79219476
+SUMMARY:Hook
+DESCRIPTION:Hook ou la revanche du Capitaine Crochet ⁄ Hook\nDirectors: Steven Spielberg, USA 1991\nCast: , Dustin Hoffman, Robin Williams, Julia Roberts\n[UNKNOWN] couleur ⁄ 142' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-24-15-00/hook
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241124T180000+0100
+DTEND:20241124T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:51a50a99-11ab-4a57-8207-b488cb5333d2
+SUMMARY:Adieu Bonaparte
+DESCRIPTION:Adieu Bonaparte\nDirectors: Youssef Chahine, France 1984\nCast: , Michel Piccoli, Mohsen Mohieddin, Patrice Chéreau\n[UNKNOWN] couleur ⁄ 113' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-24-18-00/adieu-bonaparte
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241124T183000+0100
+DTEND:20241124T183000+0100
+DTSTAMP:20241018T151213+0200
+UID:9c68374b-8b59-47ec-99f5-cd120baa0fcb
+SUMMARY:Unforgiven
+DESCRIPTION:Impitoyable ⁄ Unforgiven\nDirectors: Clint Eastwood, USA 1992\nCast: , Clint Eastwood, Morgan Freeman, Gene Hackman\n[UNKNOWN] couleur ⁄ 130' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-24-18-30/unforgiven
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241124T201500+0100
+DTEND:20241124T201500+0100
+DTSTAMP:20241018T151213+0200
+UID:6e483f25-9ede-4154-879b-d1b632780fb6
+SUMMARY:The Doom Generation
+DESCRIPTION:Doom generation ⁄ The Doom Generation\nDirectors: Gregg Araki, USA, France 1994\nCast: , James Duval, Rose McGowan, Johnathon Schaech\n[UNKNOWN] couleur ⁄ 82' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-24-20-15/the-doom-generation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241124T210000+0100
+DTEND:20241124T210000+0100
+DTSTAMP:20241018T151213+0200
+UID:8bd08a7b-233b-4532-b964-4946b50025ba
+SUMMARY:Stalker
+DESCRIPTION:Stalker\nDirectors: Andrej Tarkovskij, USSR 1979\nCast: , Aleksandr Kaydanovskiy, Alisa Freyndlikh, Anatoliy Solonitsyn\n[UNKNOWN] 160' ⁄ ST: FR\nhttps://cinematek.be/2024-11-24-21-00/stalker
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241125T180000+0100
+DTEND:20241125T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:0d4b95d4-13e6-437e-8aa6-9e69fa54ebed
+SUMMARY:Madame de...
+DESCRIPTION:Madame de...\nDirectors: Max Ophüls, France, Italie 1953\nCast: , Charles Boyer, Danielle Darrieux, Vittorio De Sica\n[UNKNOWN] NB ⁄ 99' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-11-25-18-00/madame-de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241125T190000+0100
+DTEND:20241125T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:9d6e5957-c12c-4b95-9192-6320a3acb7c8
+SUMMARY:To Be or Not to Be
+DESCRIPTION:Jeu dangereux ⁄ To Be or Not to Be\nDirectors: Ernst Lubitsch, USA 1942\nCast: , Carole Lombard, Jack Benny, Robert Stack\n[UNKNOWN] NB ⁄ 96' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-25-19-00/to-be-or-not-to-be
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241125T200000+0100
+DTEND:20241125T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:99beb104-4290-4708-b15e-62fa518125a9
+SUMMARY:Kvarteret Korpen
+DESCRIPTION:Le Quartier du corbeau ⁄ Kvarteret Korpen\nDirectors: Bo Widerberg, Suède 1963\nCast: , Thommy Berggren, Keve Hjelm, Emy Storm\n[UNKNOWN] NB ⁄ 100' ⁄ ST: FR\nhttps://cinematek.be/2024-11-25-20-00/kvarteret-korpen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241125T210000+0100
+DTEND:20241125T210000+0100
+DTSTAMP:20241018T151213+0200
+UID:203066e6-5963-49d1-89b6-f2971ab1a3da
+SUMMARY:Midnight Cowboy
+DESCRIPTION:Macadam cowboy ⁄ Midnight Cowboy\nDirectors: John Schlesinger, USA 1969\nCast: , Jon Voight, Dustin Hoffman, Sylvia Miles\n[UNKNOWN] couleur ⁄ 113' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-25-21-00/midnight-cowboy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241126T180000+0100
+DTEND:20241126T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:66417c11-51d1-488e-911c-7d6ad644c202
+SUMMARY:Frameup
+DESCRIPTION:Frameup\nDirectors: Jon Jost, USA 1993\nCast: , Howard Swain, Nancy Carlin, Kathryn Sannella\n[UNKNOWN] couleur ⁄ 91' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-26-18-00/frameup
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241126T190000+0100
+DTEND:20241126T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:683a1783-abfc-4fe0-9991-c8bb5c313df1
+SUMMARY:Johnny Mad Dog
+DESCRIPTION:Johnny Mad Dog\nDirectors: Jean-Stéphane Sauvaire, France, Belgique, Liban 2008\nCast: , Christophe Minie, Daisy Victoria Vandy, Joseph Duo\n[UNKNOWN] couleur ⁄ 98' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-26-19-00/johnny-mad-dog
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241126T200000+0100
+DTEND:20241126T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:aa011c90-483a-4c93-bc65-e26127147920
+SUMMARY:Alraune
+DESCRIPTION:Mandragore ⁄ Alraune\nDirectors: Henrik Galeen, Allemagne 1928\nCast: , Brigitte Helm, Albert Bassermann, Harald Paulsen\n[UNKNOWN] 105' ⁄ TIT: FR - NL ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-11-26-20-00/alraune
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241126T210000+0100
+DTEND:20241126T210000+0100
+DTSTAMP:20241018T151213+0200
+UID:d71cd62e-8869-441f-b9f8-3c6b57c3b42b
+SUMMARY:Lola Montès
+DESCRIPTION:Lola Montès\nDirectors: Max Ophüls, France, RFA 1955\nCast: , Martine Carol, Peter Ustinov, Anton Walbrook\n[UNKNOWN] couleur ⁄ 115' ⁄ ST: NL\nhttps://cinematek.be/2024-11-26-21-00/lola-montes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241127T180000+0100
+DTEND:20241127T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:8aa88f49-dbb1-4ea4-afcf-6a9aedd23174
+SUMMARY:The Doom Generation
+DESCRIPTION:Doom generation ⁄ The Doom Generation\nDirectors: Gregg Araki, USA, France 1994\nCast: , James Duval, Rose McGowan, Johnathon Schaech\n[UNKNOWN] couleur ⁄ 82' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-27-18-00/the-doom-generation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241127T190000+0100
+DTEND:20241127T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:98acc319-37c6-4f72-b60a-3f8b5ed47d13
+SUMMARY:L’ingorgo
+DESCRIPTION:Le Grand Embouteillage ⁄ Traffic Jam ⁄ L’ingorgo\nDirectors: Luigi Comencini, Italie, France 1979\nCast: , Alberto Sordi, Annie Girardot, Fernando Rey\n[UNKNOWN] couleur ⁄ 111' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-27-19-00/lingorgo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241127T200000+0100
+DTEND:20241127T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:15829d1a-5673-47ee-a898-df6d327efd6d
+SUMMARY:Le Plaisir
+DESCRIPTION:Le Plaisir\nDirectors: Max Ophüls, France 1952\nCast: , Jean Gabin, Simone Simon, Danielle Darrieux\n[UNKNOWN] NB ⁄ 95' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-11-27-20-00/le-plaisir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241127T211500+0100
+DTEND:20241127T211500+0100
+DTSTAMP:20241018T151213+0200
+UID:a146c264-d0af-4ad6-8780-02c234d12e65
+SUMMARY:Last Exit to Brooklyn
+DESCRIPTION:Dernière sortie pour Brooklyn ⁄ Last Exit to Brooklyn\nDirectors: Uli Edel, RFA, USA, UK 1989\nCast: , Jennifer Jason Leigh, Stephen Lang, Burt Young\n[UNKNOWN] couleur ⁄ 102' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-27-21-15/last-exit-to-brooklyn
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241128T150000+0100
+DTEND:20241128T150000+0100
+DTSTAMP:20241018T151213+0200
+UID:239c5f47-374a-4e9b-910b-9be5879215eb
+SUMMARY:Montparnasse 19
+DESCRIPTION:Montparnasse 19\nDirectors: Jacques Becker, Max Ophüls, France, Italie 1958\nCast: , Gérard Philipe, Lilli Palmer, Anouk Aimée\n[UNKNOWN] NB ⁄ 106' ⁄ ST: NL\nhttps://cinematek.be/2024-11-28-15-00/montparnasse-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241128T180000+0100
+DTEND:20241128T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:c1ed27d6-bcd0-4a64-8e09-107f439e8ed2
+SUMMARY:The Last Warning
+DESCRIPTION:Le Dernier Avertissement ⁄ The Last Warning\nDirectors: Paul Leni, USA 1928\nCast: , Laura La Plante, Montagu Love, Roy D'Arcy\n[UNKNOWN] 85' ⁄ TIT: FR ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-11-28-18-00/the-last-warning
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241128T190000+0100
+DTEND:20241128T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:9a8011c0-4747-448b-8746-0b7b5fbe258f
+SUMMARY:Midnight Cowboy
+DESCRIPTION:Macadam cowboy ⁄ Midnight Cowboy\nDirectors: John Schlesinger, USA 1969\nCast: , Jon Voight, Dustin Hoffman, Sylvia Miles\n[UNKNOWN] couleur ⁄ 113' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-28-19-00/midnight-cowboy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241128T200000+0100
+DTEND:20241128T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:7ab09cac-c028-4771-9817-79cce853d120
+SUMMARY:Adieu Bonaparte
+DESCRIPTION:Adieu Bonaparte\nDirectors: Youssef Chahine, France 1984\nCast: , Michel Piccoli, Mohsen Mohieddin, Patrice Chéreau\n[UNKNOWN] couleur ⁄ 113' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-28-20-00/adieu-bonaparte
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241128T211500+0100
+DTEND:20241128T211500+0100
+DTSTAMP:20241018T151213+0200
+UID:e3d20819-d9ee-4f3e-a5ac-70065893f8a1
+SUMMARY:Unforgiven
+DESCRIPTION:Impitoyable ⁄ Unforgiven\nDirectors: Clint Eastwood, USA 1992\nCast: , Clint Eastwood, Morgan Freeman, Gene Hackman\n[UNKNOWN] couleur ⁄ 130' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-28-21-15/unforgiven
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241129T180000+0100
+DTEND:20241129T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:0ca4f386-f69a-47a4-b81f-ff75ef80187e
+SUMMARY:Kvarteret Korpen
+DESCRIPTION:Le Quartier du corbeau ⁄ Kvarteret Korpen\nDirectors: Bo Widerberg, Suède 1963\nCast: , Thommy Berggren, Keve Hjelm, Emy Storm\n[UNKNOWN] NB ⁄ 100' ⁄ ST: FR\nhttps://cinematek.be/2024-11-29-18-00/kvarteret-korpen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241129T190000+0100
+DTEND:20241129T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:6a9fd820-e414-4367-929d-fa614e92f7f8
+SUMMARY:After Hours
+DESCRIPTION:After Hours\nDirectors: Martin Scorsese, USA 1985\nCast: , Griffin Dunne, Rosanna Arquette, John Heard, Linda Fiorentino\n[UNKNOWN] couleur ⁄ 97' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-29-19-00/after-hours
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241129T200000+0100
+DTEND:20241129T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:71f5375d-ac39-4266-a9ba-cf8f3bcb6a01
+SUMMARY:Madame de...
+DESCRIPTION:Madame de...\nDirectors: Max Ophüls, France, Italie 1953\nCast: , Charles Boyer, Danielle Darrieux, Vittorio De Sica\n[UNKNOWN] NB ⁄ 99' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2024-11-29-20-00/madame-de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241129T210000+0100
+DTEND:20241129T210000+0100
+DTSTAMP:20241018T151213+0200
+UID:a6ab815c-5ed7-47fa-a49c-bd553d07f3dc
+SUMMARY:Something Wild
+DESCRIPTION:Dangereuse sous tous rapports ⁄ Something Wild\nDirectors: Jonathan Demme, USA 1986\nCast: , Jeff Daniels, Melanie Griffith, Ray Liotta\n[UNKNOWN] couleur ⁄ 113' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-29-21-00/something-wild
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241130T170000+0100
+DTEND:20241130T170000+0100
+DTSTAMP:20241018T151213+0200
+UID:6a70ba89-cfb2-4f17-b2b0-9f5dd4610c14
+SUMMARY:To Be or Not to Be
+DESCRIPTION:Jeu dangereux ⁄ To Be or Not to Be\nDirectors: Ernst Lubitsch, USA 1942\nCast: , Carole Lombard, Jack Benny, Robert Stack\n[UNKNOWN] NB ⁄ 96' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-30-17-00/to-be-or-not-to-be
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241130T180000+0100
+DTEND:20241130T180000+0100
+DTSTAMP:20241018T151213+0200
+UID:87efd265-e872-48c1-be3f-584155e59060
+SUMMARY:La Chute de la maison Usher
+DESCRIPTION:La Chute de la maison Usher\nDirectors: Jean Epstein, France 1928\nCast: , Jean Debucourt, Marguerite Gance, Charles Lamy\n[UNKNOWN] 62' ⁄ TIT: FR ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2024-11-30-18-00/la-chute-de-la-maison-usher
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241130T190000+0100
+DTEND:20241130T190000+0100
+DTSTAMP:20241018T151213+0200
+UID:aacd7adf-546a-4b9d-ba24-2c8653700b62
+SUMMARY:Montparnasse 19
+DESCRIPTION:Montparnasse 19\nDirectors: Jacques Becker, Max Ophüls, France, Italie 1958\nCast: , Gérard Philipe, Lilli Palmer, Anouk Aimée\n[UNKNOWN] NB ⁄ 106' ⁄ ST: NL\nhttps://cinematek.be/2024-11-30-19-00/montparnasse-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241130T200000+0100
+DTEND:20241130T200000+0100
+DTSTAMP:20241018T151213+0200
+UID:e8761ec3-81c2-4c60-935e-5175062926fd
+SUMMARY:The Doom Generation
+DESCRIPTION:Doom generation ⁄ The Doom Generation\nDirectors: Gregg Araki, USA, France 1994\nCast: , James Duval, Rose McGowan, Johnathon Schaech\n[UNKNOWN] couleur ⁄ 82' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-30-20-00/the-doom-generation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241130T210000+0100
+DTEND:20241130T210000+0100
+DTSTAMP:20241018T151213+0200
+UID:9bdd2253-395a-4077-808c-5b0b983934b0
+SUMMARY:L’ingorgo
+DESCRIPTION:Le Grand Embouteillage ⁄ Traffic Jam ⁄ L’ingorgo\nDirectors: Luigi Comencini, Italie, France 1979\nCast: , Alberto Sordi, Annie Girardot, Fernando Rey\n[UNKNOWN] couleur ⁄ 111' ⁄ ST: FR - NL\nhttps://cinematek.be/2024-11-30-21-00/lingorgo
+END:VEVENT
+END:VCALENDAR
